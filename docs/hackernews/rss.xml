@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HackerNews - The Fourth Bit</title>
-    <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/</link>
+    <link>https://github.com/0xhanh/techbit/docs/hackernews/</link>
     <description><![CDATA[The Fourth Bit]]></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>The Fourth Bit</managingEditor>
     <webMaster>The Fourth Bit</webMaster>
-    <lastBuildDate>Fri, 06 Jun 2025 15:13:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/0xhanh/techbit/docs/hackernews/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jun 2025 15:13:46 +0000</lastBuildDate><atom:link href="https://github.com/0xhanh/techbit/docs/hackernews/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025-06-06 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 15:13:46 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-06-06-hacker-news-top-stories">
   2025-06-06 Hacker News Top Stories
   <a class="anchor" href="#2025-06-06-hacker-news-top-stories">#</a>
@@ -41,10 +41,10 @@
     
     <item>
       <title>2025-06-05 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:54:08 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-06-05-hacker-news-top-stories">
   2025-06-05 Hacker News Top Stories
   <a class="anchor" href="#2025-06-05-hacker-news-top-stories">#</a>
@@ -70,10 +70,10 @@
     
     <item>
       <title>2025-06-04 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-04-20250604-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-04-20250604-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:52:43 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-04-20250604-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-04-20250604-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-06-04-hacker-news-top-stories">
   2025-06-04 Hacker News Top Stories
   <a class="anchor" href="#2025-06-04-hacker-news-top-stories">#</a>
@@ -99,10 +99,10 @@
     
     <item>
       <title>2025-06-03 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:51:14 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-06-03-hacker-news-top-stories">
   2025-06-03 Hacker News Top Stories
   <a class="anchor" href="#2025-06-03-hacker-news-top-stories">#</a>
@@ -128,10 +128,10 @@
     
     <item>
       <title>2025-06-02 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:49:48 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-06-02-hacker-news-top-stories">
   2025-06-02 Hacker News Top Stories
   <a class="anchor" href="#2025-06-02-hacker-news-top-stories">#</a>
@@ -157,10 +157,10 @@
     
     <item>
       <title>2025-06-01 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-01-20250601-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-01-20250601-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:48:24 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-06-01-20250601-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-06-01-20250601-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-06-01-hacker-news-top-stories">
   2025-06-01 Hacker News Top Stories
   <a class="anchor" href="#2025-06-01-hacker-news-top-stories">#</a>
@@ -186,10 +186,10 @@
     
     <item>
       <title>2025-05-31 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:46:20 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-31-hacker-news-top-stories">
   2025-05-31 Hacker News Top Stories
   <a class="anchor" href="#2025-05-31-hacker-news-top-stories">#</a>
@@ -215,10 +215,10 @@
     
     <item>
       <title>2025-05-30 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 10:10:03 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-30-hacker-news-top-stories">
   2025-05-30 Hacker News Top Stories
   <a class="anchor" href="#2025-05-30-hacker-news-top-stories">#</a>
@@ -244,10 +244,10 @@
     
     <item>
       <title>2025-05-29 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:44:52 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-29-hacker-news-top-stories">
   2025-05-29 Hacker News Top Stories
   <a class="anchor" href="#2025-05-29-hacker-news-top-stories">#</a>
@@ -273,10 +273,10 @@
     
     <item>
       <title>2025-05-28 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-28-20250528-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-28-20250528-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:43:26 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-28-20250528-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-28-20250528-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-28-hacker-news-top-stories">
   2025-05-28 Hacker News Top Stories
   <a class="anchor" href="#2025-05-28-hacker-news-top-stories">#</a>
@@ -302,10 +302,10 @@
     
     <item>
       <title>2025-05-27 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:42:07 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-27-hacker-news-top-stories">
   2025-05-27 Hacker News Top Stories
   <a class="anchor" href="#2025-05-27-hacker-news-top-stories">#</a>
@@ -331,10 +331,10 @@
     
     <item>
       <title>2025-05-26 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:40:42 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-26-hacker-news-top-stories">
   2025-05-26 Hacker News Top Stories
   <a class="anchor" href="#2025-05-26-hacker-news-top-stories">#</a>
@@ -360,10 +360,10 @@
     
     <item>
       <title>2025-05-25 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:39:14 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-25-hacker-news-top-stories">
   2025-05-25 Hacker News Top Stories
   <a class="anchor" href="#2025-05-25-hacker-news-top-stories">#</a>
@@ -389,10 +389,10 @@
     
     <item>
       <title>2025-05-24 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:37:48 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-24-hacker-news-top-stories">
   2025-05-24 Hacker News Top Stories
   <a class="anchor" href="#2025-05-24-hacker-news-top-stories">#</a>
@@ -418,10 +418,10 @@
     
     <item>
       <title>2025-05-23 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-23-20250523-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-23-20250523-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:36:20 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-23-20250523-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-23-20250523-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-23-hacker-news-top-stories">
   2025-05-23 Hacker News Top Stories
   <a class="anchor" href="#2025-05-23-hacker-news-top-stories">#</a>
@@ -447,10 +447,10 @@
     
     <item>
       <title>2025-05-22 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-22-20250522-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-22-20250522-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 10:05:47 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-22-20250522-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-22-20250522-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-22-hacker-news-top-stories">
   2025-05-22 Hacker News Top Stories
   <a class="anchor" href="#2025-05-22-hacker-news-top-stories">#</a>
@@ -476,10 +476,10 @@
     
     <item>
       <title>2025-05-21 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 10:04:27 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-21-hacker-news-top-stories">
   2025-05-21 Hacker News Top Stories
   <a class="anchor" href="#2025-05-21-hacker-news-top-stories">#</a>
@@ -505,10 +505,10 @@
     
     <item>
       <title>2025-05-20 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-20-20250520-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-20-20250520-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:34:52 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-20-20250520-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-20-20250520-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-20-hacker-news-top-stories">
   2025-05-20 Hacker News Top Stories
   <a class="anchor" href="#2025-05-20-hacker-news-top-stories">#</a>
@@ -534,10 +534,10 @@
     
     <item>
       <title>2025-05-19 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-19-20250519-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-19-20250519-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:33:26 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-19-20250519-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-19-20250519-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-19-hacker-news-top-stories">
   2025-05-19 Hacker News Top Stories
   <a class="anchor" href="#2025-05-19-hacker-news-top-stories">#</a>
@@ -563,10 +563,10 @@
     
     <item>
       <title>2025-05-18 Top Stories</title>
-      <link>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-18-20250518-hacker-news-top-stories/</link>
+      <link>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-18-20250518-hacker-news-top-stories/</link>
       <pubDate>Fri, 06 Jun 2025 09:32:00 +0000</pubDate>
       <author>The Fourth Bit (your.email@example.com)</author>
-      <guid>http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-18-20250518-hacker-news-top-stories/</guid>
+      <guid>https://github.com/0xhanh/techbit/docs/hackernews/2025-05-18-20250518-hacker-news-top-stories/</guid>
       <description><![CDATA[<h1 id="2025-05-18-hacker-news-top-stories">
   2025-05-18 Hacker News Top Stories
   <a class="anchor" href="#2025-05-18-hacker-news-top-stories">#</a>
