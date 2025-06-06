@@ -1,10 +1,15 @@
-<!doctype html><html lang=en-us dir=ltr><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/0xhanh/techbit/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=0xhanh/techbit/livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="
   2025-05-08 Hacker News Top Stories
   #
 
 
 Việc rò rỉ системные подсказки của Claude cho thấy cơ chế bảo vệ bản quyền của nó có thể bị qua mặt, có khả năng gây ra tranh chấp pháp lý.
-Matt Godbolt đã chứng minh ưu điểm của Rust về an toàn kiểu và xử lý lỗi thông qua việc trình bày các vấn đề của C++.
+Matt Godbolt đã chứng minh ưu điểm của Rust về an toàn kiểu và xử lý lỗi thông qua việc trình bày các vấn đề của C&#43;&#43;.
 Zed là một trình soạn thảo mã AI mã nguồn mở hiệu năng cao, chú trọng đến quyền riêng tư và khả năng tùy biến của người dùng, dự kiến sẽ ra mắt phiên bản Windows.
 CLion hiện miễn phí cho mục đích phi thương mại, nhưng phải tuân thủ thỏa thuận cấp phép, phù hợp với sinh viên, người yêu thích và các dự án mã nguồn mở.
 Ấn Độ đã phát động các cuộc tấn công bằng tên lửa vào Pakistan và khu vực Kashmir do Pakistan kiểm soát, làm gia tăng xung đột giữa hai bên.
@@ -18,27 +23,921 @@ Bài viết phân tích dữ liệu xuất khẩu huyết tương của Hoa Kỳ
   Claude’s system prompt is over 24k tokens with tools
   #
 
-Đoạn văn bản này chứa một liên kết GitHub về một dự án xử lý rò rỉ lời nhắc hệ thống (system_prompts_leaks), dự án có tên &ldquo;asgeirtj/system_prompts_leaks&rdquo;"><meta name=theme-color media="(prefers-color-scheme: light)" content="#ffffff"><meta name=theme-color media="(prefers-color-scheme: dark)" content="#343a40"><meta name=color-scheme content="light dark"><meta property="og:url" content="http://localhost:1313/docs/hackernews/2025-05-08-20250508-hacker-news-top-stories/"><meta property="og:site_name" content="The Fourth Bit"><meta property="og:title" content="2025-05-08 Top Stories"><meta property="og:description" content="2025-05-08 Hacker News Top Stories # Việc rò rỉ системные подсказки của Claude cho thấy cơ chế bảo vệ bản quyền của nó có thể bị qua mặt, có khả năng gây ra tranh chấp pháp lý. Matt Godbolt đã chứng minh ưu điểm của Rust về an toàn kiểu và xử lý lỗi thông qua việc trình bày các vấn đề của C++. Zed là một trình soạn thảo mã AI mã nguồn mở hiệu năng cao, chú trọng đến quyền riêng tư và khả năng tùy biến của người dùng, dự kiến sẽ ra mắt phiên bản Windows. CLion hiện miễn phí cho mục đích phi thương mại, nhưng phải tuân thủ thỏa thuận cấp phép, phù hợp với sinh viên, người yêu thích và các dự án mã nguồn mở. Ấn Độ đã phát động các cuộc tấn công bằng tên lửa vào Pakistan và khu vực Kashmir do Pakistan kiểm soát, làm gia tăng xung đột giữa hai bên. Unity bị cáo buộc áp dụng tiêu chuẩn kép đối với các thư viện mã nguồn mở, cấm sử dụng dự án VLC theo LGPL, nhưng bản thân họ cũng sử dụng các thư viện tương tự. Nội dung do AI tạo ra trong các báo cáo bảo mật có chất lượng thấp, Daniel Stenberg cho biết sẽ cấm những người dùng như vậy. Mã nguồn của trò chơi kinh điển VVVVVV đã được mở, bao gồm mã cho phiên bản máy tính để bàn và di động, người dùng có thể sử dụng và biên dịch miễn phí. Postgres 18 giới thiệu chức năng I/O không đồng bộ, cải thiện đáng kể hiệu suất đọc đĩa, đặc biệt là trong môi trường đám mây. Bài viết phân tích dữ liệu xuất khẩu huyết tương của Hoa Kỳ, chỉ ra rằng tỷ lệ xuất khẩu 2% được đề cập bởi The Economist có thể không chính xác. Claude’s system prompt is over 24k tokens with tools # Đoạn văn bản này chứa một liên kết GitHub về một dự án xử lý rò rỉ lời nhắc hệ thống (system_prompts_leaks), dự án có tên “asgeirtj/system_prompts_leaks”"><meta property="og:locale" content="en_us"><meta property="og:type" content="article"><meta property="article:section" content="docs"><meta property="article:published_time" content="2025-06-06T09:03:00+00:00"><meta property="article:modified_time" content="2025-06-06T09:03:00+00:00"><title>2025-05-08 Top Stories | The Fourth Bit</title><link rel=icon href=/favicon.png><link rel=manifest href=/manifest.json><link rel=canonical href=http://localhost:1313/docs/hackernews/2025-05-08-20250508-hacker-news-top-stories/><link rel=stylesheet href=/book.min.3a96f335be5a469e9024039940712829a7462ed6a3fd5a567202a846d218969c.css integrity="sha256-OpbzNb5aRp6QJAOZQHEoKadGLtaj/VpWcgKoRtIYlpw=" crossorigin=anonymous><script defer src=/fuse.min.js></script><script defer src=/en.search.min.9649acf78637747b07c7b4c31399348d7ceb388d3ca3ed844888f7d1c666d695.js integrity="sha256-lkms94Y3dHsHx7TDE5k0jXzrOI08o+2ESIj30cZm1pU=" crossorigin=anonymous></script></head><body dir=ltr><input type=checkbox class="hidden toggle" id=menu-control>
-<input type=checkbox class="hidden toggle" id=toc-control><main class="container flex"><aside class=book-menu><div class=book-menu-content><nav><h2 class=book-brand><a class="flex align-center" href=/><span>The Fourth Bit</span></a></h2><div class="book-search hidden"><input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/><div class="book-search-spinner hidden"></div><ul id=book-search-results></ul></div><script>document.querySelector(".book-search").classList.remove("hidden")</script><ul><li class=book-section-flat><a href=/docs/hackernews/>HackerNews</a><ul><li><a href=/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/>2025-06-06 Top Stories</a></li><li><a href=/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/>2025-06-05 Top Stories</a></li><li><a href=/docs/hackernews/2025-06-04-20250604-hacker-news-top-stories/>2025-06-04 Top Stories</a></li><li><a href=/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/>2025-06-03 Top Stories</a></li><li><a href=/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/>2025-06-02 Top Stories</a></li><li><a href=/docs/hackernews/2025-06-01-20250601-hacker-news-top-stories/>2025-06-01 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/>2025-05-31 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/>2025-05-30 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/>2025-05-29 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-28-20250528-hacker-news-top-stories/>2025-05-28 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/>2025-05-27 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/>2025-05-26 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/>2025-05-25 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/>2025-05-24 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-23-20250523-hacker-news-top-stories/>2025-05-23 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-22-20250522-hacker-news-top-stories/>2025-05-22 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/>2025-05-21 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-20-20250520-hacker-news-top-stories/>2025-05-20 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-19-20250519-hacker-news-top-stories/>2025-05-19 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-18-20250518-hacker-news-top-stories/>2025-05-18 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-17-20250517-hacker-news-top-stories/>2025-05-17 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-16-20250516-hacker-news-top-stories/>2025-05-16 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-15-20250515-hacker-news-top-stories/>2025-05-15 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-14-20250514-hacker-news-top-stories/>2025-05-14 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-13-20250513-hacker-news-top-stories/>2025-05-13 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-12-20250512-hacker-news-top-stories/>2025-05-12 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-11-20250511-hacker-news-top-stories/>2025-05-11 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-10-20250510-hacker-news-top-stories/>2025-05-10 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-09-20250509-hacker-news-top-stories/>2025-05-09 Top Stories</a></li><li><a href=/docs/hackernews/2025-05-08-20250508-hacker-news-top-stories/ class=active>2025-05-08 Top Stories</a></li></ul></li></ul><ul><li><a href=/posts/>Blog</a></li></ul></nav><script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script></div></aside><div class=book-page><header class=book-header><div class="flex align-center justify-between"><label for=menu-control><img src=/svg/menu.svg class=book-icon alt=Menu></label><h3>2025-05-08 Top Stories</h3><label for=toc-control><img src=/svg/toc.svg class=book-icon alt="Table of Contents"></label></div><aside class="hidden clearfix"><nav id=TableOfContents><ul><li><a href=#2025-05-08-hacker-news-top-stories>2025-05-08 Hacker News Top Stories</a><ul><li><a href=#claudes-system-prompt-is-over-24k-tokens-with-tools>Claude’s system prompt is over 24k tokens with tools</a></li><li><a href=#matt-godbolt-sold-me-on-rust-by-showing-me-c>Matt Godbolt sold me on Rust by showing me C++</a></li><li><a href=#zed-high-performance-ai-code-editor>Zed: High-performance AI Code Editor</a></li><li><a href=#clion-is-now-free-for-non-commercial-use>CLion Is Now Free for Non-Commercial Use</a></li><li><a href=#india-launches-attack-on-9-sites-in-pakistan-and-pakistani-jammu-and-kashmir>India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir</a></li><li><a href=#unitys-open-source-double-standard-the-ban-of-vlc>Unity’s Open-Source Double Standard: the ban of VLC</a></li><li><a href=#curl-we-still-have-not-seen-a-valid-security-report-done-with-ai-help>Curl: We still have not seen a valid security report done with AI help</a></li><li><a href=#vvvvvv-source-code>VVVVVV Source Code</a></li><li><a href=#waiting-for-postgres-18-accelerating-disk-reads-with-asynchronous-io>Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</a></li><li><a href=#so-much-blood>So Much Blood</a></li></ul></li></ul></nav></aside></header><article class="markdown book-article"><h1 id=2025-05-08-hacker-news-top-stories>2025-05-08 Hacker News Top Stories
-<a class=anchor href=#2025-05-08-hacker-news-top-stories>#</a></h1><ol><li>Việc rò rỉ системные подсказки của Claude cho thấy cơ chế bảo vệ bản quyền của nó có thể bị qua mặt, có khả năng gây ra tranh chấp pháp lý.</li><li>Matt Godbolt đã chứng minh ưu điểm của Rust về an toàn kiểu và xử lý lỗi thông qua việc trình bày các vấn đề của C++.</li><li>Zed là một trình soạn thảo mã AI mã nguồn mở hiệu năng cao, chú trọng đến quyền riêng tư và khả năng tùy biến của người dùng, dự kiến sẽ ra mắt phiên bản Windows.</li><li>CLion hiện miễn phí cho mục đích phi thương mại, nhưng phải tuân thủ thỏa thuận cấp phép, phù hợp với sinh viên, người yêu thích và các dự án mã nguồn mở.</li><li>Ấn Độ đã phát động các cuộc tấn công bằng tên lửa vào Pakistan và khu vực Kashmir do Pakistan kiểm soát, làm gia tăng xung đột giữa hai bên.</li><li>Unity bị cáo buộc áp dụng tiêu chuẩn kép đối với các thư viện mã nguồn mở, cấm sử dụng dự án VLC theo LGPL, nhưng bản thân họ cũng sử dụng các thư viện tương tự.</li><li>Nội dung do AI tạo ra trong các báo cáo bảo mật có chất lượng thấp, Daniel Stenberg cho biết sẽ cấm những người dùng như vậy.</li><li>Mã nguồn của trò chơi kinh điển VVVVVV đã được mở, bao gồm mã cho phiên bản máy tính để bàn và di động, người dùng có thể sử dụng và biên dịch miễn phí.</li><li>Postgres 18 giới thiệu chức năng I/O không đồng bộ, cải thiện đáng kể hiệu suất đọc đĩa, đặc biệt là trong môi trường đám mây.</li><li>Bài viết phân tích dữ liệu xuất khẩu huyết tương của Hoa Kỳ, chỉ ra rằng tỷ lệ xuất khẩu 2% được đề cập bởi The Economist có thể không chính xác.</li></ol><h2 id=claudes-system-prompt-is-over-24k-tokens-with-tools>Claude’s system prompt is over 24k tokens with tools
-<a class=anchor href=#claudes-system-prompt-is-over-24k-tokens-with-tools>#</a></h2><p>Đoạn văn bản này chứa một liên kết GitHub về một dự án xử lý rò rỉ lời nhắc hệ thống (system_prompts_leaks), dự án có tên &ldquo;asgeirtj/system_prompts_leaks&rdquo;</p><p>Dự án này có thể liên quan đến việc quản lý hoặc nghiên cứu rò rỉ các lời nhắc của hệ thống trí tuệ nhân tạo, nhằm mục đích phát triển các công cụ hoặc tài liệu liên quan để giúp cải thiện hoặc giám sát việc sử dụng các lời nhắc này.</p><p>Trang claude.txt hiển thị các lời nhắc hệ thống của Claude, kích thước tệp là 110KB, 1110 dòng, rất lớn, các lời nhắc bao gồm nhiều cơ chế bảo vệ.</p><h3 id=hn--nóng-583-điểm--307-bình-luận--tác-giả-mike210--1-ngày-trước>HN | Nóng: 583 điểm | 307 bình luận | Tác giả: mike210 | 1 ngày trước
-<a class=anchor href=#hn--n%c3%b3ng-583-%c4%91i%e1%bb%83m--307-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-mike210--1-ng%c3%a0y-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43909409">https://news.ycombinator.com/item?id=43909409</a></p><ul><li>Gợi ý hệ thống của Claude có thể vượt qua bảo vệ bản quyền bằng cách thêm ngôn ngữ kỹ thuật</li><li>Thẻ XML có thể được sử dụng để đánh lừa cơ chế bảo vệ bản quyền của Claude</li><li>Ưu tiên của Claude đối với thẻ XML có thể là do dữ liệu huấn luyện của nó chứa một lượng lớn nội dung HTML</li><li>Sử dụng thẻ XML có thể đóng gói nhiều nội dung và tham chiếu trong các gợi ý tiếp theo</li><li>Anthropic có thể sử dụng tuyên bố của người dùng rằng họ sở hữu bản quyền làm lý do biện hộ</li><li>Nếu Disney kiện Anthropic, Anthropic có thể có lý do chính đáng do tuyên bố của người dùng</li><li>Cơ chế bảo vệ bản quyền của Claude có thể bị vượt qua bằng cách thêm ngôn ngữ cụ thể</li><li>Sử dụng thẻ XML có thể đánh lừa hiệu quả cơ chế bảo vệ bản quyền của Claude</li><li>Anthropic có thể bị coi là phụ thuộc vào vi phạm bản quyền do tuyên bố của người dùng</li><li>Tuyên bố của người dùng có thể bị coi là một nỗ lực để đánh lừa cơ chế bảo vệ bản quyền của Claude</li><li>Dữ liệu huấn luyện của Claude có thể chứa một lượng lớn nội dung có bản quyền, điều này có thể dẫn đến các vấn đề vi phạm bản quyền</li><li>Anthropic có thể cần cải thiện cơ chế bảo vệ bản quyền của mình để ngăn chặn các vấn đề tương tự xảy ra</li></ul><hr><h2 id=matt-godbolt-sold-me-on-rust-by-showing-me-c>Matt Godbolt sold me on Rust by showing me C++
-<a class=anchor href=#matt-godbolt-sold-me-on-rust-by-showing-me-c>#</a></h2><p><a href=https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/>https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/</a></p><p>Bài viết này thảo luận về tầm quan trọng của tính an toàn kiểu trong các ngôn ngữ lập trình, đặc biệt thông qua bài thuyết trình của Matt Godbolt &ldquo;Correct by Construction: APIs That Are Easy to Use and Hard to Misuse&rdquo;. Tác giả hồi tưởng lại hơn hai mươi năm kinh nghiệm sử dụng C/C++ của mình và chỉ ra những ưu điểm của ngôn ngữ Rust trong việc giải quyết các vấn đề về tính an toàn kiểu.</p><p>Đầu tiên, tác giả lấy ví dụ về một hàm gửi lệnh giao dịch chứng khoán để minh họa vấn đề về tính không an toàn kiểu trong C++. Các tham số của hàm bao gồm mã chứng khoán, cờ mua/bán, số lượng và giá, nhưng trình biên dịch C++ không thể ngăn cản các nhà phát triển nhầm lẫn các kiểu của các tham số này, dẫn đến các lỗi tiềm ẩn. Tác giả đã thử sử dụng các phương pháp như bí danh kiểu, lớp và mẫu để cải thiện tính an toàn kiểu, nhưng những phương pháp này đều có những hạn chế nhất định.</p><p>Sau đó, tác giả giới thiệu những ưu điểm của ngôn ngữ Rust về tính an toàn kiểu. Ngôn ngữ Rust có thể ngăn chặn hiệu quả các lỗi liên quan đến kiểu thông qua hệ thống kiểu mạnh mẽ và kiểm tra thời gian biên dịch của nó. Tác giả sử dụng cùng một hàm đặt lệnh chứng khoán làm ví dụ để minh họa cách ngôn ngữ Rust có thể phát hiện lỗi kiểu trong thời gian biên dịch và cung cấp thông tin lỗi rõ ràng.</p><p>Ngoài ra, tác giả còn thảo luận về những ưu điểm của ngôn ngữ Rust trong việc xử lý đầu vào của người dùng. Ngôn ngữ Rust có thể đảm bảo rằng dữ liệu đầu vào của người dùng là an toàn và hợp lệ thông qua hệ thống kiểu và cơ chế xử lý lỗi của nó. Tác giả chỉ ra rằng những ưu điểm của ngôn ngữ Rust về tính an toàn kiểu khiến nó trở thành một ngôn ngữ lập trình an toàn và đáng tin cậy hơn.</p><p>Tóm lại, bài viết này thông qua việc so sánh ngôn ngữ C++ và Rust, đã cho thấy những ưu điểm của ngôn ngữ Rust về tính an toàn kiểu. Tác giả tin rằng hệ thống kiểu mạnh mẽ và kiểm tra thời gian biên dịch của ngôn ngữ Rust khiến nó trở thành một ngôn ngữ lập trình an toàn và đáng tin cậy hơn, đặc biệt là khi xử lý các hệ thống phức tạp và đầu vào của người dùng.</p><h3 id=hn--nóng-570-điểm--538-bình-luận--tác-giả-lorendb--1-ngày-trước>HN | Nóng: 570 điểm | 538 bình luận | Tác giả: LorenDB | 1 ngày trước
-<a class=anchor href=#hn--n%c3%b3ng-570-%c4%91i%e1%bb%83m--538-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-lorendb--1-ng%c3%a0y-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43907820">https://news.ycombinator.com/item?id=43907820</a></p><ul><li>Cơ chế xử lý lỗi của ngôn ngữ Rust gọn gàng và nhất quán hơn C++, việc sử dụng kiểu Result và toán tử ? có thể giúp việc xử lý lỗi trở nên dễ dàng và an toàn hơn.</li><li>Cơ chế xử lý lỗi của C++ trở nên phức tạp và không nhất quán do các lý do lịch sử, thư viện chuẩn cũng không có phương pháp xử lý lỗi thống nhất.</li><li>Có người cho rằng C++ có thể cải thiện việc xử lý lỗi bằng cách giới thiệu các tính năng và thư viện mới, chẳng hạn như kiểu std::expected.</li><li>Tuy nhiên, vấn đề hành vi không xác định (UB) của C++ vẫn tồn tại và có thể dẫn đến các sự cố khó gỡ lỗi.</li><li>Một số người cho rằng C++ nên nhấn mạnh hơn vào lỗi và tính an toàn tại thời điểm biên dịch, thay vì lỗi và hiệu suất tại thời điểm chạy.</li><li>Có người cho rằng ngôn ngữ Rust làm tốt hơn trong việc xử lý lỗi, bằng cách buộc người viết mã kiểm tra và xử lý lỗi, có thể tránh được nhiều vấn đề tiềm ẩn.</li></ul><h2 id=zed-high-performance-ai-code-editor>Zed: High-performance AI Code Editor
-<a class=anchor href=#zed-high-performance-ai-code-editor>#</a></h2><p><a href=https://zed.dev/blog/fastest-ai-code-editor>https://zed.dev/blog/fastest-ai-code-editor</a></p><p>Zed là một trình soạn thảo code AI nhanh chóng, được thiết kế để mang lại trải nghiệm lập trình tốt hơn cho các lập trình viên. Trình soạn thảo này được viết bằng Rust, mã nguồn mở và tuân theo giấy phép GPL. Các tính năng AI của Zed cũng là mã nguồn mở, người dùng có thể xem cách thức hoạt động cơ bản của Agent Panel.</p><p>Agent Panel của Zed cho phép người dùng tương tác với các AI agent, đặt câu hỏi về codebase hoặc yêu cầu agent thực hiện các thay đổi code. Agent có thể nhanh chóng tìm kiếm codebase, tìm vị trí cần sửa đổi và thực hiện các thay đổi tương ứng. Người dùng có thể tương tác với agent thông qua các lệnh nhập đơn giản, không cần cấu hình phức tạp.</p><p>Zed chú trọng đến quyền riêng tư và bảo mật của người dùng, lịch sử hội thoại của người dùng mặc định là riêng tư và sẽ không được sử dụng để huấn luyện các mô hình AI. Người dùng có thể chọn chia sẻ phản hồi để cải thiện các tính năng AI của Zed, nhưng điều này đòi hỏi người dùng chủ động lựa chọn. Agent sẽ nhắc người dùng xác nhận khi thực hiện các thao tác có thể không thể hoàn tác.</p><p>Zed hỗ trợ các mô hình và công cụ tùy chỉnh, người dùng có thể chọn các mô hình ngôn ngữ khác nhau để điều khiển agent. Agent có thể truy cập tất cả các chức năng của trình soạn thảo, bao gồm hệ thống tệp, máy chủ ngôn ngữ, linters, formatters và lệnh terminal. Người dùng có thể tùy chỉnh quyền và cấu hình công cụ của agent.</p><p>Zed cung cấp các gói miễn phí và trả phí, gói miễn phí cung cấp 50 prompt mỗi tháng, gói trả phí cung cấp 500 prompt mỗi tháng. Người dùng cũng có thể sử dụng API key của riêng mình để sử dụng các tính năng AI của Zed. Mục tiêu của Zed là trở thành trình soạn thảo code tốt nhất trên thế giới, mang đến cho người dùng trải nghiệm lập trình tốt nhất.</p><p>Zed hiện chỉ hỗ trợ hệ thống macOS và Linux, hỗ trợ cho hệ thống Windows sẽ được ra mắt vào cuối năm 2025. Zed có kế hoạch ra mắt nhiều tính năng hơn, bao gồm trình gỡ lỗi, công cụ cộng tác và hỗ trợ Windows. Người dùng có thể tải xuống Zed và dùng thử trải nghiệm Agentic Editing mới.</p><h3 id=hn--nóng-527-điểm--338-bình-luận--tác-giả-vquemener--17-giờ-trước>HN | Nóng: 527 điểm | 338 bình luận | Tác giả: vquemener | 17 giờ trước
-<a class=anchor href=#hn--n%c3%b3ng-527-%c4%91i%e1%bb%83m--338-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-vquemener--17-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43912844">https://news.ycombinator.com/item?id=43912844</a></p><ul><li>Đội ngũ phát triển trình soạn thảo Zed rất tuyệt vời, kỹ thuật phần mềm được thực hiện rất tốt</li><li>Chức năng cộng tác của trình soạn thảo Zed rất tốt, nhưng do sự ra mắt của các chức năng AI, chức năng cộng tác trở nên không ổn định và xuất hiện nhiều lỗi</li><li>Đội ngũ phát triển có kế hoạch tập trung lại vào chức năng cộng tác, cải thiện khả năng làm việc nhóm</li><li>Có người đề nghị đội ngũ phát triển nên tuyển dụng các nhà phát triển mới để giải quyết các vấn đề của chức năng cộng tác</li><li>Chức năng AI của trình soạn thảo Zed rất mạnh mẽ, nhưng một số người dùng cảm thấy nó quá &ldquo;diệu kỳ&rdquo;, khó hiểu</li><li>Một số người dùng thích sự minh bạch và khả năng kiểm soát của trình soạn thảo Zed hơn là tính tự động hóa của trình soạn thảo Cursor</li><li>Hiệu năng của trình soạn thảo Zed rất tốt, đặc biệt là so với nền tảng Electron của trình soạn thảo Cursor</li><li>Một số người dùng hy vọng trình soạn thảo Zed có thể thêm các chức năng mới, chẳng hạn như các ràng buộc kiểu Helix/Kakoune</li><li>Một số người dùng cảm thấy các chức năng mới của trình soạn thảo Zed, chẳng hạn như bảng điều khiển agent, phá vỡ quy trình làm việc ban đầu</li><li>Một số người dùng hy vọng có thể tắt bảng điều khiển agent của trình soạn thảo Zed, khôi phục quy trình làm việc ban đầu</li></ul><h2 id=clion-is-now-free-for-non-commercial-use>CLion Is Now Free for Non-Commercial Use
-<a class=anchor href=#clion-is-now-free-for-non-commercial-use>#</a></h2><p><a href=https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/>https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</a></p><p>CLion hiện đã miễn phí cho mục đích phi thương mại CLion là một môi trường phát triển tích hợp (IDE) đa nền tảng dành cho ngôn ngữ lập trình C và C++. Gần đây, công ty JetBrains đã công bố CLion hiện đã miễn phí cho mục đích phi thương mại. Điều này có nghĩa là sinh viên, người có sở thích và nhà phát triển dự án mã nguồn mở có thể sử dụng CLion miễn phí, với điều kiện họ không sử dụng nó cho mục đích thương mại.</p><p>Mô hình cấp phép mới Công ty JetBrains đã triển khai một mô hình cấp phép mới, cho phép người dùng phi thương mại sử dụng CLion miễn phí. Mô hình này tương tự như các sản phẩm JetBrains khác như RustRover, Rider và WebStorm. Người dùng phi thương mại có thể sử dụng CLion miễn phí, bao gồm tất cả các tính năng và cập nhật, nhưng họ không thể sử dụng nó cho mục đích thương mại.</p><p>Tại sao cung cấp giấy phép miễn phí Công ty JetBrains hy vọng rằng bằng cách cung cấp giấy phép miễn phí, CLion sẽ dễ dàng được chấp nhận hơn bởi nhiều người dùng, đặc biệt là sinh viên và những người có sở thích. Mặc dù ngôn ngữ lập trình C và C++ rất mạnh mẽ, nhưng đường cong học tập lại dốc, đòi hỏi nhiều thực hành và thử nghiệm. Bằng cách cung cấp giấy phép miễn phí, công ty JetBrains hy vọng có thể giúp người dùng dễ dàng học và sử dụng các ngôn ngữ này hơn.</p><p>Mục đích thương mại và phi thương mại Cần lưu ý rằng giấy phép miễn phí của CLion chỉ áp dụng cho mục đích phi thương mại. Nếu người dùng sử dụng CLion cho mục đích thương mại, chẳng hạn như phát triển phần mềm thương mại hoặc cung cấp dịch vụ thương mại, thì họ cần mua giấy phép thương mại. Công ty JetBrains đã định nghĩa rõ ràng mục đích thương mại và phi thương mại, người dùng cần đọc kỹ thỏa thuận cấp phép để đảm bảo cách sử dụng của họ tuân thủ các yêu cầu cấp phép.</p><p>Câu hỏi thường gặp Công ty JetBrains đã cung cấp một danh sách các câu hỏi thường gặp (FAQ) để giúp người dùng hiểu về mô hình cấp phép mới. FAQ trả lời các câu hỏi như cách đăng ký giấy phép miễn phí, cách nâng cấp hoặc gia hạn giấy phép, cách phân biệt mục đích thương mại và phi thương mại, v.v. Người dùng có thể hiểu rõ hơn về mô hình cấp phép mới và các yêu cầu liên quan đến việc sử dụng CLion bằng cách đọc FAQ.</p><p>Tóm lại, CLion hiện đã miễn phí cho mục đích phi thương mại, đây là một tin rất tốt, đặc biệt đối với sinh viên và những người có sở thích. Bằng cách cung cấp giấy phép miễn phí, công ty JetBrains hy vọng có thể giúp người dùng dễ dàng học và sử dụng ngôn ngữ lập trình C và C++. Tuy nhiên, người dùng cần đọc kỹ thỏa thuận cấp phép để đảm bảo cách sử dụng của họ tuân thủ các yêu cầu cấp phép.</p><h3 id=hn--nóng-503-điểm--316-bình-luận--tác-giả-alexeybrin--11-giờ-trước>HN | Nóng: 503 điểm | 316 bình luận | Tác giả: AlexeyBrin | 11 giờ trước
-<a class=anchor href=#hn--n%c3%b3ng-503-%c4%91i%e1%bb%83m--316-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-alexeybrin--11-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43914705">https://news.ycombinator.com/item?id=43914705</a></p><ul><li>Những công ty như Jetbrains, mặc dù có các sản phẩm xuất sắc, nhưng có thể có những hạn chế về mô hình kinh doanh và tốc độ tăng trưởng</li><li>Việc tạo ra doanh thu và tốc độ tăng trưởng không chỉ phụ thuộc vào chất lượng sản phẩm mà còn phụ thuộc vào nhiều yếu tố như tiếp thị, thu hút khách hàng và hợp tác chiến lược</li><li>Định giá của các công ty mới nổi có thể dựa trên triển vọng tăng trưởng tiềm năng và khả năng đổi mới của họ, chứ không chỉ dựa trên tình hình doanh thu hiện tại</li><li>Sự cạnh tranh trong lĩnh vực trợ lý viết mã AI có thể rất khốc liệt, và các nhà sản xuất IDE truyền thống cũng có thể duy trì lợi thế cạnh tranh bằng cách tích hợp các chức năng AI</li><li>Định giá và tốc độ tăng trưởng của doanh nghiệp phụ thuộc vào nhiều yếu tố, bao gồm quyết định chiến lược, môi trường thị trường và khả năng đổi mới</li><li>Các doanh nghiệp truyền thống và các công ty mới nổi có thể có sự khác biệt về mô hình kinh doanh, tốc độ tăng trưởng và khả năng đổi mới, nhưng đều có những ưu điểm và nhược điểm riêng</li><li>Sự thành công của một doanh nghiệp không chỉ phụ thuộc vào chất lượng sản phẩm mà còn phụ thuộc vào mô hình kinh doanh, chiến lược tiếp thị và các mối quan hệ khách hàng của doanh nghiệp đó</li><li>Sự phát triển và ứng dụng của công nghệ AI có thể thay đổi các mô hình mã hóa và phát triển phần mềm truyền thống, mang lại những cơ hội và thách thức kinh doanh mới</li></ul><h2 id=india-launches-attack-on-9-sites-in-pakistan-and-pakistani-jammu-and-kashmir>India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir
-<a class=anchor href=#india-launches-attack-on-9-sites-in-pakistan-and-pakistani-jammu-and-kashmir>#</a></h2><p><a href=https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/>https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/</a></p><p>Căng thẳng giữa Ấn Độ và Pakistan lại leo thang khi hai nước xảy ra xung đột ở khu vực Kashmir. Ấn Độ tuyên bố đã phát động các cuộc tấn công bằng tên lửa vào Pakistan và khu vực Kashmir do Pakistan kiểm soát, nhắm vào chín địa điểm &ldquo;cơ sở hạ tầng khủng bố&rdquo;, được cho là có liên quan đến vụ tấn công ở Kashmir thuộc Ấn Độ tháng trước, khiến 25 du khách Ấn Độ và một người dân địa phương thiệt mạng.</p><p>Pakistan phủ nhận những địa điểm này là trại huấn luyện khủng bố và nói rằng ít nhất 31 dân thường đã thiệt mạng và 46 người bị thương trong các cuộc tấn công. Chính phủ Pakistan thề sẽ trả đũa hành động của Ấn Độ, nói rằng các cuộc tấn công của Ấn Độ là sự vi phạm nghiêm trọng chủ quyền của họ. Thủ tướng Pakistan Shehbaz Sharif cho biết trong một bài phát biểu trên truyền hình rằng Pakistan sẽ không lùi bước và sẽ phản công vào thời điểm và địa điểm thích hợp.</p><p>Ấn Độ tuyên bố các cuộc tấn công của họ là để ngăn chặn các cuộc tấn công khủng bố tiếp theo và nói rằng mục tiêu của họ là các cuộc tấn công chính xác, tránh gây hại cho dân thường. Tuy nhiên, phía Pakistan cho biết các cuộc tấn công của Ấn Độ đã gây ra thương vong lớn cho dân thường và thiệt hại tài sản. Căng thẳng giữa hai nước đã kéo dài hàng thập kỷ, và khu vực Kashmir luôn là tâm điểm của xung đột. Trong những năm gần đây, quan hệ giữa hai nước đã dịu bớt, nhưng các sự kiện gần đây đã khiến tình hình trở nên căng thẳng trở lại.</p><p>Phía Pakistan cho biết các cuộc tấn công của Ấn Độ không chỉ gây ra thương vong mà còn ảnh hưởng đến nền kinh tế và sự ổn định của Pakistan. Chính phủ Pakistan kêu gọi cộng đồng quốc tế can thiệp, yêu cầu Ấn Độ chấm dứt &ldquo;hành động xâm lược&rdquo; của mình. Phía Ấn Độ cho biết hành động của họ là cần thiết để tự vệ và nhằm bảo vệ sự an toàn của công dân.</p><p>Xung đột giữa hai nước đã dẫn đến việc một lượng lớn người phải di dời, nhiều người buộc phải rời bỏ nhà cửa. Cộng đồng quốc tế bày tỏ quan ngại về điều này, kêu gọi hai nước kiềm chế và giải quyết tranh chấp thông qua đối thoại. Hiện tại, tình hình vẫn căng thẳng và quan hệ giữa hai nước khó đoán.</p><h3 id=hn--nóng-465-điểm--551-bình-luận--tác-giả-alephnerd--1-ngày-trước>HN | Nóng: 465 điểm | 551 bình luận | Tác giả: alephnerd | 1 ngày trước
-<a class=anchor href=#hn--n%c3%b3ng-465-%c4%91i%e1%bb%83m--551-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-alephnerd--1-ng%c3%a0y-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43909430">https://news.ycombinator.com/item?id=43909430</a></p><ul><li>Xung đột giữa Ấn Độ và Pakistan có thể bị thổi phồng, cả hai bên đều không muốn một cuộc chiến tranh toàn diện, nhưng chính phủ Ấn Độ muốn thể hiện sức mạnh của mình.</li><li>Việc quân đội Pakistan hỗ trợ các tổ chức khủng bố là sự thật, và sự trả đũa của Ấn Độ là để chống lại những tổ chức này.</li><li>Sau cuộc đối đầu năm 2019, các cuộc tấn công khủng bố ở khu vực Kashmir đã giảm, có thể là do sự trả đũa của Ấn Độ đã có hiệu quả.</li><li>Khó khăn kinh tế, dịch bệnh và bất ổn chính trị nội bộ của Pakistan có thể là nguyên nhân làm giảm các cuộc tấn công khủng bố, chứ không phải sự trả đũa của Ấn Độ.</li><li>Sự trả đũa của Ấn Độ có thể khiến quân đội Pakistan phải đối mặt với áp lực và gánh nặng kinh tế lớn hơn, từ đó làm giảm các cuộc tấn công khủng bố.</li><li>Quân đội Pakistan sử dụng Ấn Độ như một mối đe dọa để duy trì quyền lực và ảnh hưởng của mình trong nước, sự trả đũa của Ấn Độ có thể khiến quân đội Pakistan trở nên mạnh mẽ hơn.</li></ul><h2 id=unitys-open-source-double-standard-the-ban-of-vlc>Unity’s Open-Source Double Standard: the ban of VLC
-<a class=anchor href=#unitys-open-source-double-standard-the-ban-of-vlc>#</a></h2><p><a href=https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html>https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html</a></p><p>Trang web này là một bài đăng trên blog, nội dung chính là về sự kiện Unity Store cấm sử dụng thư viện mã nguồn mở LGPL. Tác giả Martin Finkel giới thiệu dự án tích hợp VLC for Unity của họ, dự án này cho phép sử dụng công cụ đa phương tiện VLC trong các trò chơi Unity. Từ tháng 12 năm 2019, họ đã cung cấp các tệp nhị phân cho các nền tảng khác nhau trên Unity Store, bao gồm Windows, UWP và Android.</p><p>Tuy nhiên, vào cuối mùa hè năm 2023, Unity đột ngột cấm tài khoản nhà phát hành của họ và sau nhiều tháng liên lạc, Unity đã từ chối cho phép họ tái xuất bản tài sản của mình. Tác giả chỉ ra rằng có rất nhiều tài sản trên Unity Store chứa các phụ thuộc LGPL, chẳng hạn như FFmpeg, nhưng Unity chỉ nhắm mục tiêu dự án của họ để cấm. Trớ trêu thay, trình chỉnh sửa và thời gian chạy của chính Unity cũng sử dụng các thư viện LGPL, chẳng hạn như Lame, libiconv và libwebsockets.</p><p>Để đối phó với tình huống này, tác giả đã tạo Videolabs Store, cho phép người dùng mua các tệp nhị phân của VLC for Unity. Họ cũng cung cấp các dịch vụ tư vấn đa phương tiện, bao gồm xây dựng tùy chỉnh, sửa lỗi và tích hợp SDK, v.v. Tác giả nhấn mạnh tầm quan trọng của sự hợp tác giữa những người bảo trì dự án mã nguồn mở và người dùng thương mại để đảm bảo tính bền vững của dự án.</p><p>Ngoài ra, tác giả cũng đề cập đến các sản phẩm khác, bao gồm giấy phép thương mại LibVLCSharp, sách điện tử LibVLC và SDK Kyber siêu trễ thấp để phát trực tuyến trò chơi/máy tính để bàn và điều khiển từ xa sắp ra mắt. Bài viết được cập nhật lần cuối vào ngày 10 tháng 1 năm 2024.</p><h3 id=hn--nóng-455-điểm--126-bình-luận--tác-giả-cempaka--11-giờ-trước>HN | Nóng: 455 điểm | 126 bình luận | Tác giả: cempaka | 11 giờ trước
-<a class=anchor href=#hn--n%c3%b3ng-455-%c4%91i%e1%bb%83m--126-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-cempaka--11-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43914832">https://news.ycombinator.com/item?id=43914832</a></p><ul><li>Tiêu chuẩn kép về mã nguồn mở của Unity là do nhóm pháp lý nhận được thông tin sai lệch và đưa nó vào thỏa thuận.</li><li>Có sự khác biệt lớn giữa LGPL và GPL, LGPL cho phép các ứng dụng độc quyền liên kết đến các thư viện mã nguồn mở mà không cần phải công bố mã nguồn của ứng dụng độc quyền.</li><li>Việc sử dụng các thành phần LGPL có thể mang lại sự phức tạp và rủi ro bảo mật, đặc biệt là về chữ ký ứng dụng và các yêu cầu nền tảng.</li><li>LGPLv2 và LGPLv3 có các điều khoản khác nhau, LGPLv3 có điều khoản chống TiVo hóa, trong khi LGPLv2 thì không.</li><li>Việc sử dụng các thành phần LGPLv2 trên một số nền tảng có thể được chấp nhận, nhưng có thể đi ngược lại tinh thần mã nguồn mở.</li><li>Sự phức tạp và mơ hồ của giấy phép phần mềm đã dẫn đến tranh luận và hiểu lầm rộng rãi.</li><li>Cần có một hệ thống giấy phép mới, đơn giản hơn và dễ hiểu hơn để thay thế hệ thống phức tạp hiện có.</li></ul><h2 id=curl-we-still-have-not-seen-a-valid-security-report-done-with-ai-help>Curl: We still have not seen a valid security report done with AI help
-<a class=anchor href=#curl-we-still-have-not-seen-a-valid-security-report-done-with-ai-help>#</a></h2><p><a href=https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1>https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1</a></p><p>Daniel Stenberg, một nhà phát triển phần mềm, đã đăng một bài viết trên LinkedIn bày tỏ sự không hài lòng của mình về việc gửi báo cáo bảo mật hiện tại. Ông cho biết, mỗi người gửi báo cáo bảo mật cần trả lời một câu hỏi, đó là liệu họ có sử dụng trí tuệ nhân tạo (AI) để tìm ra vấn đề hoặc tạo báo cáo hay không. Nếu câu trả lời là có, thì họ sẽ phải đối mặt với một loạt các câu hỏi tiếp theo để chứng minh rằng báo cáo của họ là thật.</p><p>Daniel Stenberg cũng cho biết, ông sẽ ngay lập tức cấm bất kỳ ai gửi báo cáo mà ông cho là do AI tạo ra. Ông cho rằng, những báo cáo này là một cuộc tấn công DDoS, lãng phí thời gian của ông. Ông cũng đề cập rằng, mặc dù ông đã thấy rất nhiều báo cáo, nhưng không có báo cáo nào là báo cáo bảo mật hợp lệ được tạo ra bằng AI.</p><p>Trong phần bình luận, có rất nhiều người đồng ý và ủng hộ quan điểm của Daniel Stenberg. Một số người đề nghị rằng, người gửi báo cáo bảo mật nên trả một khoản tiền đặt cọc nhất định, nếu báo cáo được chấp nhận, tiền đặt cọc sẽ được hoàn lại; nếu báo cáo bị từ chối, tiền đặt cọc sẽ bị tịch thu. Điều này có thể tăng thêm trách nhiệm và sự trung thực của người gửi báo cáo.</p><p>Có người hỏi Daniel Stenberg, mỗi tháng ông nhận được bao nhiêu báo cáo như vậy và nguồn gốc của những báo cáo này là từ đâu. Daniel Stenberg không đưa ra con số cụ thể, nhưng ông cho biết, tình trạng này đã rất phổ biến và nghiêm trọng.</p><p>Một số người cũng đề cập rằng, tình trạng này không chỉ là vấn đề của báo cáo bảo mật, mà còn là vấn đề của toàn bộ Internet. Nội dung do AI tạo ra đã trở thành một vấn đề nghiêm trọng, bao gồm các đơn xin việc, vị trí công việc và mã được tạo tự động, v.v. Có người hỏi, khi nào tình trạng này sẽ kết thúc.</p><p>Nói chung, bài đăng của Daniel Stenberg đã gây ra một cuộc thảo luận về nội dung do AI tạo ra, và nhiều người đã bày tỏ sự lo lắng và không hài lòng về vấn đề này. Họ hy vọng tìm ra một giải pháp để ngăn chặn ảnh hưởng của nội dung do AI tạo ra đối với Internet và hệ thống báo cáo bảo mật.</p><h3 id=hn--nóng-427-điểm--237-bình-luận--tác-giả-indigodaddy--1-ngày-trước>HN | Nóng: 427 điểm | 237 bình luận | Tác giả: indigodaddy | 1 ngày trước
-<a class=anchor href=#hn--n%c3%b3ng-427-%c4%91i%e1%bb%83m--237-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-indigodaddy--1-ng%c3%a0y-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43907376">https://news.ycombinator.com/item?id=43907376</a></p><ul><li>Báo cáo an ninh do trí tuệ nhân tạo tạo ra có chất lượng kém, lãng phí thời gian và nguồn lực của đội ngũ an ninh</li><li>Tính hiệu quả của báo cáo an ninh phụ thuộc vào sự hiểu biết và mô tả vấn đề của người báo cáo, chứ không phải dựa vào các công cụ trí tuệ nhân tạo</li><li>Việc thu phí khi gửi báo cáo an ninh có thể cản trở các nhà nghiên cứu an ninh thực thụ gửi báo cáo có giá trị</li><li>Xây dựng hệ thống uy tín và cơ chế đánh giá thủ công có thể lọc bỏ hiệu quả các báo cáo an ninh chất lượng thấp</li><li>Ứng dụng các công cụ trí tuệ nhân tạo trong lĩnh vực an ninh vẫn còn nhiều thách thức và hạn chế</li><li>Báo cáo an ninh hiệu quả đòi hỏi người báo cáo phải có sự hiểu biết và phân tích sâu sắc về vấn đề, chứ không chỉ đơn giản dựa vào đầu ra của các công cụ trí tuệ nhân tạo</li><li>Đội ngũ an ninh cần thận trọng với các báo cáo an ninh, tránh bị các báo cáo giả mạo do trí tuệ nhân tạo tạo ra đánh lừa</li><li>Xây dựng một cơ chế kiểm tra và xác minh báo cáo an ninh hoàn chỉnh có thể giúp nâng cao chất lượng và hiệu quả của báo cáo an ninh</li></ul><h2 id=vvvvvv-source-code>VVVVVV Source Code
-<a class=anchor href=#vvvvvv-source-code>#</a></h2><p><a href=https://github.com/TerryCavanagh/VVVVVV>https://github.com/TerryCavanagh/VVVVVV</a></p><p>Trang web này là về kho mã nguồn của một trò chơi độc lập có tên là VVVVVV. Trò chơi được phát triển bởi Terry Cavanagh, âm nhạc được sáng tác bởi Magnus Pålsson. Kho lưu trữ này chứa mã nguồn của trò chơi, bao gồm cả mã cho phiên bản desktop và phiên bản di động. Trò chơi vẫn có thể được mua trên trang web chính thức, nhưng người dùng cũng có thể biên dịch và sử dụng trò chơi miễn phí.</p><p>Kho lưu trữ bao gồm lịch sử cập nhật của trò chơi, danh sách những người đóng góp và thỏa thuận cấp phép. Các cuộc thảo luận về cập nhật trò chơi chủ yếu diễn ra trong kênh Discord có tên &ldquo;unofficial VVVVVV discord&rdquo;. Nhóm phát triển trò chơi bao gồm Terry Cavanagh, Bennett Foddy, Magnus Pålsson, FamilyJules, Simon Roth, Ethan Lee, Misa Kai, Sam Kaplan và Pauli Kohberger, v.v.</p><p>Kho lưu trữ cũng bao gồm thỏa thuận cấp phép của trò chơi, người dùng có thể tự do biên dịch và sử dụng trò chơi khi tuân thủ thỏa thuận. Mã nguồn của trò chơi được viết bằng các ngôn ngữ như ActionScript, C++, C, Java và CMake. Kho lưu trữ cũng bao gồm các phiên bản lịch sử và nhật ký cập nhật của trò chơi.</p><p>Ngoài ra, kho lưu trữ còn bao gồm các tài nguyên của trò chơi, chẳng hạn như Logo của trò chơi và tệp README. Tệp README chứa thông tin về giới thiệu trò chơi, lịch sử cập nhật và thỏa thuận cấp phép, v.v. Kho lưu trữ cũng bao gồm danh sách những người đóng góp và danh sách cảm ơn, cảm ơn tất cả người dùng đã đóng góp vào quá trình phát triển trò chơi.</p><hr><h3 id=hn--nóng-400-điểm--81-bình-luận--tác-giả-radeeyate--24-giờ-trước>HN | Nóng: 400 điểm | 81 bình luận | Tác giả: radeeyate | 24 giờ trước
-<a class=anchor href=#hn--n%c3%b3ng-400-%c4%91i%e1%bb%83m--81-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-radeeyate--24-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43910681">https://news.ycombinator.com/item?id=43910681</a></p><ul><li>Các nhà phát triển trò chơi có thể có được những ý tưởng mới thông qua thử nghiệm và nghịch ngợm các cơ chế trò chơi</li><li>Tính độc đáo không phải là một điều kiện cần thiết cho chất lượng trò chơi, việc tham khảo và cải tiến các cơ chế trò chơi hiện có là chấp nhận được</li><li>Đôi khi việc có một ý tưởng rõ ràng không đảm bảo sự thành công của trò chơi, thử nghiệm và tính linh hoạt là rất quan trọng</li><li>Phát triển trò chơi cần xem xét các vấn đề như hiệu suất, độ trễ, v.v., những vấn đề này có thể không quan trọng trong các loại hình phát triển khác</li><li>Các nhà phát triển trò chơi có thể học hỏi từ những thất bại và sai lầm, thu được kinh nghiệm và bài học quý giá</li><li>Mã nguồn mở của trò chơi có thể cho phép các nhà phát triển khác học hỏi và tham khảo, thúc đẩy sự tiến bộ của phát triển trò chơi</li><li>Phát triển trò chơi là một công việc phức tạp, cần xem xét nhiều yếu tố, bao gồm cơ chế trò chơi, nghệ thuật, âm thanh, v.v.</li></ul><h2 id=waiting-for-postgres-18-accelerating-disk-reads-with-asynchronous-io>Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O
-<a class=anchor href=#waiting-for-postgres-18-accelerating-disk-reads-with-asynchronous-io>#</a></h2><p><a href=https://pganalyze.com/blog/postgres-18-async-io>https://pganalyze.com/blog/postgres-18-async-io</a></p><p>Postgres 18 sắp ra mắt, chức năng I/O không đồng bộ mà nó mang lại sẽ thay đổi cách xử lý I/O của Postgres, đặc biệt là trong môi trường đám mây, có thể cải thiện đáng kể hiệu suất đọc. Việc giới thiệu I/O không đồng bộ cho phép Postgres đồng thời đưa ra nhiều yêu cầu đọc mà không cần đợi yêu cầu trước đó hoàn thành, do đó giảm thời gian chờ I/O và cải thiện việc sử dụng CPU.</p><p>API luồng đọc được giới thiệu trong Postgres 17 đã đặt nền móng cho việc triển khai I/O không đồng bộ. API luồng đọc chuẩn hóa các thao tác đọc trong Postgres và sử dụng posix_fadvise() để đọc trước dữ liệu. Tuy nhiên, cơ chế này vẫn phụ thuộc vào hành vi bộ nhớ cache của hệ điều hành và không đảm bảo rằng dữ liệu được đọc trước vào bộ đệm chia sẻ của Postgres.</p><p>Chức năng I/O không đồng bộ trong Postgres 18 được điều khiển thông qua cài đặt io_method mới. Cài đặt io_method có ba tùy chọn: sync, worker và io_uring. Chế độ sync giống với hành vi trong Postgres 17, sử dụng I/O đồng bộ và posix_fadvise() để đọc trước dữ liệu. Chế độ worker sử dụng quy trình làm việc I/O nền để đọc dữ liệu không đồng bộ, chế độ io_uring sử dụng giao diện io_uring của Linux để triển khai I/O không đồng bộ hiệu suất cao.</p><p>Ưu điểm về hiệu suất của I/O không đồng bộ đặc biệt rõ ràng trong môi trường đám mây, đặc biệt là khi sử dụng bộ nhớ gắn mạng (chẳng hạn như Amazon EBS). Các thử nghiệm benchmark cho thấy I/O không đồng bộ trong Postgres 18 có thể cải thiện hiệu suất đọc gấp đôi hoặc thậm chí cao hơn. Thử nghiệm sử dụng phiên bản AWS c7i.8xlarge, ổ đĩa EBS io2 100GB, 20.000 IOPS được cung cấp. Kết quả thử nghiệm cho thấy I/O không đồng bộ có thể cải thiện đáng kể hiệu suất đọc, đặc biệt là trong các tình huống bộ nhớ cache lạnh.</p><p>Nói chung, chức năng I/O không đồng bộ trong Postgres 18 là một tính năng tối ưu hóa hiệu suất quan trọng, đặc biệt là trong môi trường đám mây. Bằng cách sử dụng I/O không đồng bộ, Postgres có thể sử dụng tốt hơn tài nguyên CPU và I/O, cải thiện hiệu suất đọc và hiệu suất hệ thống tổng thể.</p><h3 id=hn--nóng-348-điểm--90-bình-luận--tác-giả-lfittl--8-giờ-trước>HN | Nóng: 348 điểm | 90 bình luận | Tác giả: lfittl | 8 giờ trước
-<a class=anchor href=#hn--n%c3%b3ng-348-%c4%91i%e1%bb%83m--90-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-lfittl--8-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43916577">https://news.ycombinator.com/item?id=43916577</a></p><ul><li>Chức năng I/O bất đồng bộ trong Postgres 18 có thể cải thiện tốc độ đọc đĩa, đặc biệt là trong hệ thống Linux.</li><li>Sử dụng io_uring có thể thực hiện I/O bất đồng bộ, nhưng hiện tại chỉ hỗ trợ hệ thống Linux.</li><li>Windows cũng có triển khai I/O bất đồng bộ, bao gồm IOCP và IORing, nhưng Postgres hiện chưa hỗ trợ.</li><li>Chức năng io_uring của Linux có thể so sánh với triển khai IORing của Windows.</li><li>Sử dụng I/O bất đồng bộ có thể cải thiện hiệu suất của hệ thống, đặc biệt trong trường hợp đồng thời cao và lượng dữ liệu lớn.</li><li>Chức năng I/O bất đồng bộ của Postgres vẫn cần được tối ưu hóa và cải tiến hơn nữa để đạt được hiệu suất tốt nhất.</li><li>Kernel và cơ chế thực thi của Linux và Windows đều có ưu và nhược điểm riêng, cả hai có thể học hỏi và tham khảo lẫn nhau.</li><li>Trải nghiệm desktop của Windows có thể bị loại bỏ, chỉ giữ lại hệ thống và trình điều khiển hiển thị, nhưng điều này đòi hỏi một mức độ khó khăn và hạn chế về kỹ thuật nhất định.</li></ul><h2 id=so-much-blood>So Much Blood
-<a class=anchor href=#so-much-blood>#</a></h2><p><a href=https://dynomight.net/blood/>https://dynomight.net/blood/</a></p><p>Trong một bài viết gần đây về việc đổi hàng hóa lấy tiền, có đề cập đến việc châu Âu đang thiếu hụt huyết tương, với mức thiếu hụt khoảng 38%, trong khi Mỹ giải quyết vấn đề này bằng cách trả tiền cho người hiến huyết tương, các sản phẩm từ máu chiếm 2% tổng giá trị xuất khẩu của Mỹ. Tuy nhiên, con số 2% này khiến nhiều người ngạc nhiên. Con số này xuất phát từ một bài viết năm 2024 trên tờ <em>The Economist</em>, bài viết chỉ ra rằng xuất khẩu các sản phẩm từ máu của Mỹ chiếm 1,8% tổng kim ngạch xuất khẩu hàng hóa của nước này, trong khi con số này chỉ là 0,5% mười năm trước. Mỹ hiện cung cấp khoảng 70% huyết tương trên toàn cầu để sản xuất thuốc.</p><p><img src=/images/WVDIbzS3Wo5AdexKvFfcWlcenOb.png alt=WVDIbzS3Wo5AdexKvFfcWlcenOb.png></p><p>Tuy nhiên, con số 2% này là sai. Bài viết trên <em>The Economist</em> không giải thích cách tính ra con số này và vì bài viết không có tên tác giả nên không thể xác minh. Để tìm ra con số chính xác, cần xem xét số liệu thống kê thương mại của chính phủ Mỹ. Theo những số liệu này, tổng giá trị xuất khẩu hàng hóa của Mỹ năm 2023 là 2045 tỷ đô la Mỹ, bao gồm cả các sản phẩm từ máu. Mã phân loại của các sản phẩm từ máu là HTS 3002, bao gồm máu người, máu động vật, kháng huyết thanh và các sản phẩm từ máu khác.</p><p>Bằng cách xem xét các phân loại này, có thể thu được dữ liệu chi tiết về xuất khẩu các sản phẩm từ máu. Một số danh mục gần như chắc chắn chứa máu người, chẳng hạn như huyết tương người, huyết thanh người bình thường và huyết thanh miễn dịch người. Tổng giá trị xuất khẩu của các danh mục này là khoảng 10,8 tỷ đô la Mỹ, chiếm 0,5298% tổng kim ngạch xuất khẩu hàng hóa của Mỹ. Một số danh mục khác về cơ bản không chứa máu người, chẳng hạn như huyết thanh bào thai bê và vắc-xin thú y. Tổng giá trị xuất khẩu của các danh mục này là khoảng 2,86 tỷ đô la Mỹ, chiếm 0,1403% tổng kim ngạch xuất khẩu hàng hóa của Mỹ.</p><p>Ngoài ra, có một số danh mục có thể chứa máu người, chẳng hạn như các sản phẩm miễn dịch học, vắc-xin và các sản phẩm trị liệu tế bào. Tổng giá trị xuất khẩu của các danh mục này là khoảng 28,27 tỷ đô la Mỹ, chiếm 1,3826% tổng kim ngạch xuất khẩu hàng hóa của Mỹ. Tuy nhiên, không phải tất cả các sản phẩm này đều chứa máu người. Bằng cách hỏi các nhà sinh vật học và xem xét các dữ liệu liên quan, có thể ước tính rằng khoảng 8% các sản phẩm miễn dịch học, 5% vắc-xin và 80% các sản phẩm trị liệu tế bào có thể chứa máu người.</p><p>Do đó, con số chính xác về xuất khẩu các sản phẩm từ máu của Mỹ là khoảng 0,6867%, bao gồm các danh mục chắc chắn chứa máu người và các danh mục có thể chứa máu người. Con số này thấp hơn so với con số ban đầu là 2%, nhưng vẫn cho thấy các sản phẩm từ máu là một mặt hàng xuất khẩu quan trọng của Mỹ.</p><hr><h3 id=hn--nóng-312-điểm--135-bình-luận--tác-giả-debesyla--14-giờ-trước>HN | Nóng: 312 điểm | 135 bình luận | Tác giả: debesyla | 14 giờ trước
-<a class=anchor href=#hn--n%c3%b3ng-312-%c4%91i%e1%bb%83m--135-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-debesyla--14-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc>#</a></h3><p><a href="https://news.ycombinator.com/item?id=43913751">https://news.ycombinator.com/item?id=43913751</a></p><ul><li>Hoa Kỳ là một trong số ít các quốc gia cho phép thu hoạch các sản phẩm máu thương mại, đó cũng là lý do tại sao Hoa Kỳ xuất khẩu các sản phẩm máu</li><li>Ai đó đã thử sử dụng Common Crawl để tạo một công cụ tương tự như WayBack Machine, nhưng gặp phải vấn đề các IP bị chặn lập chỉ mục do truy vấn quá thường xuyên</li><li>Có người cho rằng LLM (mô hình ngôn ngữ lớn) đã vượt qua khả năng suy luận của con người ở một số khía cạnh, nhưng cũng có người không đồng ý với điều này</li><li>Chuyển đổi trực tiếp năng lượng thực phẩm thành điện năng có thể cung cấp năng lượng cho AI, năng lượng từ một thanh sô cô la Snickers có thể hỗ trợ hàng trăm truy vấn</li><li>Năng lượng cần thiết để con người tồn tại thấp hơn nhiều so với mức tiêu thụ năng lượng của LLM, con người có thể sống sót trong nhiều tháng hoặc thậm chí nhiều năm chỉ với một lượng nhỏ thức ăn</li><li>Có người cho rằng LLM đã vượt qua con người về kiến thức và kỹ năng, nhưng cũng có người cho rằng khả năng của con người vẫn không thể thay thế</li></ul></article><footer class=book-footer><div class="flex flex-wrap justify-between"><div><a class="flex align-center" href=http://localhost:1313/rss.xml title="RSS Feed" target=_blank rel=noopener><svg class="book-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M6.503 20.752C6.503 22.546 5.047 24 3.252 24c-1.796.0-3.252-1.454-3.252-3.248s1.456-3.248 3.252-3.248c1.795.001 3.251 1.454 3.251 3.248zM0 8.18v4.811c6.05.062 10.96 4.966 11.022 11.009h4.817C15.777 15.29 8.721 8.242.0 8.18zm0-3.368C10.58 4.858 19.152 13.406 19.183 24H24c-.03-13.231-10.755-23.954-24-24v4.812z"/></svg>
-<span>RSS Feed</span></a></div><link rel=alternate type=application/rss+xml title="The Fourth Bit" href=http://localhost:1313/rss.xml></div><script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script></footer><div class=book-comments></div><label for=menu-control class="hidden book-menu-overlay"></label></div><aside class=book-toc><div class=book-toc-content><nav id=TableOfContents><ul><li><a href=#2025-05-08-hacker-news-top-stories>2025-05-08 Hacker News Top Stories</a><ul><li><a href=#claudes-system-prompt-is-over-24k-tokens-with-tools>Claude’s system prompt is over 24k tokens with tools</a></li><li><a href=#matt-godbolt-sold-me-on-rust-by-showing-me-c>Matt Godbolt sold me on Rust by showing me C++</a></li><li><a href=#zed-high-performance-ai-code-editor>Zed: High-performance AI Code Editor</a></li><li><a href=#clion-is-now-free-for-non-commercial-use>CLion Is Now Free for Non-Commercial Use</a></li><li><a href=#india-launches-attack-on-9-sites-in-pakistan-and-pakistani-jammu-and-kashmir>India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir</a></li><li><a href=#unitys-open-source-double-standard-the-ban-of-vlc>Unity’s Open-Source Double Standard: the ban of VLC</a></li><li><a href=#curl-we-still-have-not-seen-a-valid-security-report-done-with-ai-help>Curl: We still have not seen a valid security report done with AI help</a></li><li><a href=#vvvvvv-source-code>VVVVVV Source Code</a></li><li><a href=#waiting-for-postgres-18-accelerating-disk-reads-with-asynchronous-io>Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</a></li><li><a href=#so-much-blood>So Much Blood</a></li></ul></li></ul></nav></div></aside></main></body></html>
+Đoạn văn bản này chứa một liên kết GitHub về một dự án xử lý rò rỉ lời nhắc hệ thống (system_prompts_leaks), dự án có tên &ldquo;asgeirtj/system_prompts_leaks&rdquo;">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-08-20250508-hacker-news-top-stories/">
+  <meta property="og:site_name" content="The Fourth Bit">
+  <meta property="og:title" content="2025-05-08 Top Stories">
+  <meta property="og:description" content="2025-05-08 Hacker News Top Stories # Việc rò rỉ системные подсказки của Claude cho thấy cơ chế bảo vệ bản quyền của nó có thể bị qua mặt, có khả năng gây ra tranh chấp pháp lý. Matt Godbolt đã chứng minh ưu điểm của Rust về an toàn kiểu và xử lý lỗi thông qua việc trình bày các vấn đề của C&#43;&#43;. Zed là một trình soạn thảo mã AI mã nguồn mở hiệu năng cao, chú trọng đến quyền riêng tư và khả năng tùy biến của người dùng, dự kiến sẽ ra mắt phiên bản Windows. CLion hiện miễn phí cho mục đích phi thương mại, nhưng phải tuân thủ thỏa thuận cấp phép, phù hợp với sinh viên, người yêu thích và các dự án mã nguồn mở. Ấn Độ đã phát động các cuộc tấn công bằng tên lửa vào Pakistan và khu vực Kashmir do Pakistan kiểm soát, làm gia tăng xung đột giữa hai bên. Unity bị cáo buộc áp dụng tiêu chuẩn kép đối với các thư viện mã nguồn mở, cấm sử dụng dự án VLC theo LGPL, nhưng bản thân họ cũng sử dụng các thư viện tương tự. Nội dung do AI tạo ra trong các báo cáo bảo mật có chất lượng thấp, Daniel Stenberg cho biết sẽ cấm những người dùng như vậy. Mã nguồn của trò chơi kinh điển VVVVVV đã được mở, bao gồm mã cho phiên bản máy tính để bàn và di động, người dùng có thể sử dụng và biên dịch miễn phí. Postgres 18 giới thiệu chức năng I/O không đồng bộ, cải thiện đáng kể hiệu suất đọc đĩa, đặc biệt là trong môi trường đám mây. Bài viết phân tích dữ liệu xuất khẩu huyết tương của Hoa Kỳ, chỉ ra rằng tỷ lệ xuất khẩu 2% được đề cập bởi The Economist có thể không chính xác. Claude’s system prompt is over 24k tokens with tools # Đoạn văn bản này chứa một liên kết GitHub về một dự án xử lý rò rỉ lời nhắc hệ thống (system_prompts_leaks), dự án có tên “asgeirtj/system_prompts_leaks”">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="docs">
+    <meta property="article:published_time" content="2025-06-06T09:03:00+00:00">
+    <meta property="article:modified_time" content="2025-06-06T09:03:00+00:00">
+<title>2025-05-08 Top Stories | The Fourth Bit</title>
+<link rel="icon" href="/0xhanh/techbit/favicon.png" >
+<link rel="manifest" href="/0xhanh/techbit/manifest.json">
+<link rel="canonical" href="http://localhost:1313/0xhanh/techbit/docs/hackernews/2025-05-08-20250508-hacker-news-top-stories/">
+<link rel="stylesheet" href="/0xhanh/techbit/book.min.3a96f335be5a469e9024039940712829a7462ed6a3fd5a567202a846d218969c.css" integrity="sha256-OpbzNb5aRp6QJAOZQHEoKadGLtaj/VpWcgKoRtIYlpw=" crossorigin="anonymous">
+  <script defer src="/0xhanh/techbit/fuse.min.js"></script>
+  <script defer src="/0xhanh/techbit/en.search.min.c0cc977e54ea1d4b24576a9d93e83ab4f3ae556ad4242a0124abbfe03cb5ce58.js" integrity="sha256-wMyXflTqHUskV2qdk&#43;g6tPOuVWrUJCoBJKu/4Dy1zlg=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/0xhanh/techbit/"><span>The Fourth Bit</span>
+  </a>
+</h2>
+
+
+<div class="book-search hidden">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <ul>
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/" class="">HackerNews</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/" class="">2025-06-06 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/" class="">2025-06-05 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-06-04-20250604-hacker-news-top-stories/" class="">2025-06-04 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/" class="">2025-06-03 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/" class="">2025-06-02 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-06-01-20250601-hacker-news-top-stories/" class="">2025-06-01 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/" class="">2025-05-31 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/" class="">2025-05-30 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/" class="">2025-05-29 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-28-20250528-hacker-news-top-stories/" class="">2025-05-28 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/" class="">2025-05-27 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/" class="">2025-05-26 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/" class="">2025-05-25 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/" class="">2025-05-24 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-23-20250523-hacker-news-top-stories/" class="">2025-05-23 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-22-20250522-hacker-news-top-stories/" class="">2025-05-22 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/" class="">2025-05-21 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-20-20250520-hacker-news-top-stories/" class="">2025-05-20 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-19-20250519-hacker-news-top-stories/" class="">2025-05-19 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-18-20250518-hacker-news-top-stories/" class="">2025-05-18 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-17-20250517-hacker-news-top-stories/" class="">2025-05-17 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-16-20250516-hacker-news-top-stories/" class="">2025-05-16 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-15-20250515-hacker-news-top-stories/" class="">2025-05-15 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-14-20250514-hacker-news-top-stories/" class="">2025-05-14 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-13-20250513-hacker-news-top-stories/" class="">2025-05-13 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-12-20250512-hacker-news-top-stories/" class="">2025-05-12 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-11-20250511-hacker-news-top-stories/" class="">2025-05-11 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-10-20250510-hacker-news-top-stories/" class="">2025-05-10 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-09-20250509-hacker-news-top-stories/" class="">2025-05-09 Top Stories</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/0xhanh/techbit/docs/hackernews/2025-05-08-20250508-hacker-news-top-stories/" class="active">2025-05-08 Top Stories</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/0xhanh/techbit/posts/"  >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/0xhanh/techbit/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>2025-05-08 Top Stories</h3>
+
+  <label for="toc-control">
+    
+    <img src="/0xhanh/techbit/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#2025-05-08-hacker-news-top-stories">2025-05-08 Hacker News Top Stories</a>
+      <ul>
+        <li><a href="#claudes-system-prompt-is-over-24k-tokens-with-tools">Claude’s system prompt is over 24k tokens with tools</a></li>
+        <li><a href="#matt-godbolt-sold-me-on-rust-by-showing-me-c">Matt Godbolt sold me on Rust by showing me C++</a></li>
+        <li><a href="#zed-high-performance-ai-code-editor">Zed: High-performance AI Code Editor</a></li>
+        <li><a href="#clion-is-now-free-for-non-commercial-use">CLion Is Now Free for Non-Commercial Use</a></li>
+        <li><a href="#india-launches-attack-on-9-sites-in-pakistan-and-pakistani-jammu-and-kashmir">India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir</a></li>
+        <li><a href="#unitys-open-source-double-standard-the-ban-of-vlc">Unity’s Open-Source Double Standard: the ban of VLC</a></li>
+        <li><a href="#curl-we-still-have-not-seen-a-valid-security-report-done-with-ai-help">Curl: We still have not seen a valid security report done with AI help</a></li>
+        <li><a href="#vvvvvv-source-code">VVVVVV Source Code</a></li>
+        <li><a href="#waiting-for-postgres-18-accelerating-disk-reads-with-asynchronous-io">Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</a></li>
+        <li><a href="#so-much-blood">So Much Blood</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown book-article"><h1 id="2025-05-08-hacker-news-top-stories">
+  2025-05-08 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-08-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Việc rò rỉ системные подсказки của Claude cho thấy cơ chế bảo vệ bản quyền của nó có thể bị qua mặt, có khả năng gây ra tranh chấp pháp lý.</li>
+<li>Matt Godbolt đã chứng minh ưu điểm của Rust về an toàn kiểu và xử lý lỗi thông qua việc trình bày các vấn đề của C++.</li>
+<li>Zed là một trình soạn thảo mã AI mã nguồn mở hiệu năng cao, chú trọng đến quyền riêng tư và khả năng tùy biến của người dùng, dự kiến sẽ ra mắt phiên bản Windows.</li>
+<li>CLion hiện miễn phí cho mục đích phi thương mại, nhưng phải tuân thủ thỏa thuận cấp phép, phù hợp với sinh viên, người yêu thích và các dự án mã nguồn mở.</li>
+<li>Ấn Độ đã phát động các cuộc tấn công bằng tên lửa vào Pakistan và khu vực Kashmir do Pakistan kiểm soát, làm gia tăng xung đột giữa hai bên.</li>
+<li>Unity bị cáo buộc áp dụng tiêu chuẩn kép đối với các thư viện mã nguồn mở, cấm sử dụng dự án VLC theo LGPL, nhưng bản thân họ cũng sử dụng các thư viện tương tự.</li>
+<li>Nội dung do AI tạo ra trong các báo cáo bảo mật có chất lượng thấp, Daniel Stenberg cho biết sẽ cấm những người dùng như vậy.</li>
+<li>Mã nguồn của trò chơi kinh điển VVVVVV đã được mở, bao gồm mã cho phiên bản máy tính để bàn và di động, người dùng có thể sử dụng và biên dịch miễn phí.</li>
+<li>Postgres 18 giới thiệu chức năng I/O không đồng bộ, cải thiện đáng kể hiệu suất đọc đĩa, đặc biệt là trong môi trường đám mây.</li>
+<li>Bài viết phân tích dữ liệu xuất khẩu huyết tương của Hoa Kỳ, chỉ ra rằng tỷ lệ xuất khẩu 2% được đề cập bởi The Economist có thể không chính xác.</li>
+</ol>
+<h2 id="claudes-system-prompt-is-over-24k-tokens-with-tools">
+  Claude’s system prompt is over 24k tokens with tools
+  <a class="anchor" href="#claudes-system-prompt-is-over-24k-tokens-with-tools">#</a>
+</h2>
+<p>Đoạn văn bản này chứa một liên kết GitHub về một dự án xử lý rò rỉ lời nhắc hệ thống (system_prompts_leaks), dự án có tên &ldquo;asgeirtj/system_prompts_leaks&rdquo;</p>
+<p>Dự án này có thể liên quan đến việc quản lý hoặc nghiên cứu rò rỉ các lời nhắc của hệ thống trí tuệ nhân tạo, nhằm mục đích phát triển các công cụ hoặc tài liệu liên quan để giúp cải thiện hoặc giám sát việc sử dụng các lời nhắc này.</p>
+<p>Trang claude.txt hiển thị các lời nhắc hệ thống của Claude, kích thước tệp là 110KB, 1110 dòng, rất lớn, các lời nhắc bao gồm nhiều cơ chế bảo vệ.</p>
+<h3 id="hn--nóng-583-điểm--307-bình-luận--tác-giả-mike210--1-ngày-trước">
+  HN | Nóng: 583 điểm | 307 bình luận | Tác giả: mike210 | 1 ngày trước
+  <a class="anchor" href="#hn--n%c3%b3ng-583-%c4%91i%e1%bb%83m--307-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-mike210--1-ng%c3%a0y-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43909409">https://news.ycombinator.com/item?id=43909409</a></p>
+<ul>
+<li>Gợi ý hệ thống của Claude có thể vượt qua bảo vệ bản quyền bằng cách thêm ngôn ngữ kỹ thuật</li>
+<li>Thẻ XML có thể được sử dụng để đánh lừa cơ chế bảo vệ bản quyền của Claude</li>
+<li>Ưu tiên của Claude đối với thẻ XML có thể là do dữ liệu huấn luyện của nó chứa một lượng lớn nội dung HTML</li>
+<li>Sử dụng thẻ XML có thể đóng gói nhiều nội dung và tham chiếu trong các gợi ý tiếp theo</li>
+<li>Anthropic có thể sử dụng tuyên bố của người dùng rằng họ sở hữu bản quyền làm lý do biện hộ</li>
+<li>Nếu Disney kiện Anthropic, Anthropic có thể có lý do chính đáng do tuyên bố của người dùng</li>
+<li>Cơ chế bảo vệ bản quyền của Claude có thể bị vượt qua bằng cách thêm ngôn ngữ cụ thể</li>
+<li>Sử dụng thẻ XML có thể đánh lừa hiệu quả cơ chế bảo vệ bản quyền của Claude</li>
+<li>Anthropic có thể bị coi là phụ thuộc vào vi phạm bản quyền do tuyên bố của người dùng</li>
+<li>Tuyên bố của người dùng có thể bị coi là một nỗ lực để đánh lừa cơ chế bảo vệ bản quyền của Claude</li>
+<li>Dữ liệu huấn luyện của Claude có thể chứa một lượng lớn nội dung có bản quyền, điều này có thể dẫn đến các vấn đề vi phạm bản quyền</li>
+<li>Anthropic có thể cần cải thiện cơ chế bảo vệ bản quyền của mình để ngăn chặn các vấn đề tương tự xảy ra</li>
+</ul>
+<hr>
+<h2 id="matt-godbolt-sold-me-on-rust-by-showing-me-c">
+  Matt Godbolt sold me on Rust by showing me C++
+  <a class="anchor" href="#matt-godbolt-sold-me-on-rust-by-showing-me-c">#</a>
+</h2>
+<p><a href="https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/">https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/</a></p>
+<p>Bài viết này thảo luận về tầm quan trọng của tính an toàn kiểu trong các ngôn ngữ lập trình, đặc biệt thông qua bài thuyết trình của Matt Godbolt &ldquo;Correct by Construction: APIs That Are Easy to Use and Hard to Misuse&rdquo;. Tác giả hồi tưởng lại hơn hai mươi năm kinh nghiệm sử dụng C/C++ của mình và chỉ ra những ưu điểm của ngôn ngữ Rust trong việc giải quyết các vấn đề về tính an toàn kiểu.</p>
+<p>Đầu tiên, tác giả lấy ví dụ về một hàm gửi lệnh giao dịch chứng khoán để minh họa vấn đề về tính không an toàn kiểu trong C++. Các tham số của hàm bao gồm mã chứng khoán, cờ mua/bán, số lượng và giá, nhưng trình biên dịch C++ không thể ngăn cản các nhà phát triển nhầm lẫn các kiểu của các tham số này, dẫn đến các lỗi tiềm ẩn. Tác giả đã thử sử dụng các phương pháp như bí danh kiểu, lớp và mẫu để cải thiện tính an toàn kiểu, nhưng những phương pháp này đều có những hạn chế nhất định.</p>
+<p>Sau đó, tác giả giới thiệu những ưu điểm của ngôn ngữ Rust về tính an toàn kiểu. Ngôn ngữ Rust có thể ngăn chặn hiệu quả các lỗi liên quan đến kiểu thông qua hệ thống kiểu mạnh mẽ và kiểm tra thời gian biên dịch của nó. Tác giả sử dụng cùng một hàm đặt lệnh chứng khoán làm ví dụ để minh họa cách ngôn ngữ Rust có thể phát hiện lỗi kiểu trong thời gian biên dịch và cung cấp thông tin lỗi rõ ràng.</p>
+<p>Ngoài ra, tác giả còn thảo luận về những ưu điểm của ngôn ngữ Rust trong việc xử lý đầu vào của người dùng. Ngôn ngữ Rust có thể đảm bảo rằng dữ liệu đầu vào của người dùng là an toàn và hợp lệ thông qua hệ thống kiểu và cơ chế xử lý lỗi của nó. Tác giả chỉ ra rằng những ưu điểm của ngôn ngữ Rust về tính an toàn kiểu khiến nó trở thành một ngôn ngữ lập trình an toàn và đáng tin cậy hơn.</p>
+<p>Tóm lại, bài viết này thông qua việc so sánh ngôn ngữ C++ và Rust, đã cho thấy những ưu điểm của ngôn ngữ Rust về tính an toàn kiểu. Tác giả tin rằng hệ thống kiểu mạnh mẽ và kiểm tra thời gian biên dịch của ngôn ngữ Rust khiến nó trở thành một ngôn ngữ lập trình an toàn và đáng tin cậy hơn, đặc biệt là khi xử lý các hệ thống phức tạp và đầu vào của người dùng.</p>
+<h3 id="hn--nóng-570-điểm--538-bình-luận--tác-giả-lorendb--1-ngày-trước">
+  HN | Nóng: 570 điểm | 538 bình luận | Tác giả: LorenDB | 1 ngày trước
+  <a class="anchor" href="#hn--n%c3%b3ng-570-%c4%91i%e1%bb%83m--538-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-lorendb--1-ng%c3%a0y-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43907820">https://news.ycombinator.com/item?id=43907820</a></p>
+<ul>
+<li>Cơ chế xử lý lỗi của ngôn ngữ Rust gọn gàng và nhất quán hơn C++, việc sử dụng kiểu Result và toán tử ? có thể giúp việc xử lý lỗi trở nên dễ dàng và an toàn hơn.</li>
+<li>Cơ chế xử lý lỗi của C++ trở nên phức tạp và không nhất quán do các lý do lịch sử, thư viện chuẩn cũng không có phương pháp xử lý lỗi thống nhất.</li>
+<li>Có người cho rằng C++ có thể cải thiện việc xử lý lỗi bằng cách giới thiệu các tính năng và thư viện mới, chẳng hạn như kiểu std::expected.</li>
+<li>Tuy nhiên, vấn đề hành vi không xác định (UB) của C++ vẫn tồn tại và có thể dẫn đến các sự cố khó gỡ lỗi.</li>
+<li>Một số người cho rằng C++ nên nhấn mạnh hơn vào lỗi và tính an toàn tại thời điểm biên dịch, thay vì lỗi và hiệu suất tại thời điểm chạy.</li>
+<li>Có người cho rằng ngôn ngữ Rust làm tốt hơn trong việc xử lý lỗi, bằng cách buộc người viết mã kiểm tra và xử lý lỗi, có thể tránh được nhiều vấn đề tiềm ẩn.</li>
+</ul>
+<h2 id="zed-high-performance-ai-code-editor">
+  Zed: High-performance AI Code Editor
+  <a class="anchor" href="#zed-high-performance-ai-code-editor">#</a>
+</h2>
+<p><a href="https://zed.dev/blog/fastest-ai-code-editor">https://zed.dev/blog/fastest-ai-code-editor</a></p>
+<p>Zed là một trình soạn thảo code AI nhanh chóng, được thiết kế để mang lại trải nghiệm lập trình tốt hơn cho các lập trình viên. Trình soạn thảo này được viết bằng Rust, mã nguồn mở và tuân theo giấy phép GPL. Các tính năng AI của Zed cũng là mã nguồn mở, người dùng có thể xem cách thức hoạt động cơ bản của Agent Panel.</p>
+<p>Agent Panel của Zed cho phép người dùng tương tác với các AI agent, đặt câu hỏi về codebase hoặc yêu cầu agent thực hiện các thay đổi code. Agent có thể nhanh chóng tìm kiếm codebase, tìm vị trí cần sửa đổi và thực hiện các thay đổi tương ứng. Người dùng có thể tương tác với agent thông qua các lệnh nhập đơn giản, không cần cấu hình phức tạp.</p>
+<p>Zed chú trọng đến quyền riêng tư và bảo mật của người dùng, lịch sử hội thoại của người dùng mặc định là riêng tư và sẽ không được sử dụng để huấn luyện các mô hình AI. Người dùng có thể chọn chia sẻ phản hồi để cải thiện các tính năng AI của Zed, nhưng điều này đòi hỏi người dùng chủ động lựa chọn. Agent sẽ nhắc người dùng xác nhận khi thực hiện các thao tác có thể không thể hoàn tác.</p>
+<p>Zed hỗ trợ các mô hình và công cụ tùy chỉnh, người dùng có thể chọn các mô hình ngôn ngữ khác nhau để điều khiển agent. Agent có thể truy cập tất cả các chức năng của trình soạn thảo, bao gồm hệ thống tệp, máy chủ ngôn ngữ, linters, formatters và lệnh terminal. Người dùng có thể tùy chỉnh quyền và cấu hình công cụ của agent.</p>
+<p>Zed cung cấp các gói miễn phí và trả phí, gói miễn phí cung cấp 50 prompt mỗi tháng, gói trả phí cung cấp 500 prompt mỗi tháng. Người dùng cũng có thể sử dụng API key của riêng mình để sử dụng các tính năng AI của Zed. Mục tiêu của Zed là trở thành trình soạn thảo code tốt nhất trên thế giới, mang đến cho người dùng trải nghiệm lập trình tốt nhất.</p>
+<p>Zed hiện chỉ hỗ trợ hệ thống macOS và Linux, hỗ trợ cho hệ thống Windows sẽ được ra mắt vào cuối năm 2025. Zed có kế hoạch ra mắt nhiều tính năng hơn, bao gồm trình gỡ lỗi, công cụ cộng tác và hỗ trợ Windows. Người dùng có thể tải xuống Zed và dùng thử trải nghiệm Agentic Editing mới.</p>
+<h3 id="hn--nóng-527-điểm--338-bình-luận--tác-giả-vquemener--17-giờ-trước">
+  HN | Nóng: 527 điểm | 338 bình luận | Tác giả: vquemener | 17 giờ trước
+  <a class="anchor" href="#hn--n%c3%b3ng-527-%c4%91i%e1%bb%83m--338-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-vquemener--17-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43912844">https://news.ycombinator.com/item?id=43912844</a></p>
+<ul>
+<li>Đội ngũ phát triển trình soạn thảo Zed rất tuyệt vời, kỹ thuật phần mềm được thực hiện rất tốt</li>
+<li>Chức năng cộng tác của trình soạn thảo Zed rất tốt, nhưng do sự ra mắt của các chức năng AI, chức năng cộng tác trở nên không ổn định và xuất hiện nhiều lỗi</li>
+<li>Đội ngũ phát triển có kế hoạch tập trung lại vào chức năng cộng tác, cải thiện khả năng làm việc nhóm</li>
+<li>Có người đề nghị đội ngũ phát triển nên tuyển dụng các nhà phát triển mới để giải quyết các vấn đề của chức năng cộng tác</li>
+<li>Chức năng AI của trình soạn thảo Zed rất mạnh mẽ, nhưng một số người dùng cảm thấy nó quá &ldquo;diệu kỳ&rdquo;, khó hiểu</li>
+<li>Một số người dùng thích sự minh bạch và khả năng kiểm soát của trình soạn thảo Zed hơn là tính tự động hóa của trình soạn thảo Cursor</li>
+<li>Hiệu năng của trình soạn thảo Zed rất tốt, đặc biệt là so với nền tảng Electron của trình soạn thảo Cursor</li>
+<li>Một số người dùng hy vọng trình soạn thảo Zed có thể thêm các chức năng mới, chẳng hạn như các ràng buộc kiểu Helix/Kakoune</li>
+<li>Một số người dùng cảm thấy các chức năng mới của trình soạn thảo Zed, chẳng hạn như bảng điều khiển agent, phá vỡ quy trình làm việc ban đầu</li>
+<li>Một số người dùng hy vọng có thể tắt bảng điều khiển agent của trình soạn thảo Zed, khôi phục quy trình làm việc ban đầu</li>
+</ul>
+<h2 id="clion-is-now-free-for-non-commercial-use">
+  CLion Is Now Free for Non-Commercial Use
+  <a class="anchor" href="#clion-is-now-free-for-non-commercial-use">#</a>
+</h2>
+<p><a href="https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/">https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</a></p>
+<p>CLion hiện đã miễn phí cho mục đích phi thương mại CLion là một môi trường phát triển tích hợp (IDE) đa nền tảng dành cho ngôn ngữ lập trình C và C++. Gần đây, công ty JetBrains đã công bố CLion hiện đã miễn phí cho mục đích phi thương mại. Điều này có nghĩa là sinh viên, người có sở thích và nhà phát triển dự án mã nguồn mở có thể sử dụng CLion miễn phí, với điều kiện họ không sử dụng nó cho mục đích thương mại.</p>
+<p>Mô hình cấp phép mới Công ty JetBrains đã triển khai một mô hình cấp phép mới, cho phép người dùng phi thương mại sử dụng CLion miễn phí. Mô hình này tương tự như các sản phẩm JetBrains khác như RustRover, Rider và WebStorm. Người dùng phi thương mại có thể sử dụng CLion miễn phí, bao gồm tất cả các tính năng và cập nhật, nhưng họ không thể sử dụng nó cho mục đích thương mại.</p>
+<p>Tại sao cung cấp giấy phép miễn phí Công ty JetBrains hy vọng rằng bằng cách cung cấp giấy phép miễn phí, CLion sẽ dễ dàng được chấp nhận hơn bởi nhiều người dùng, đặc biệt là sinh viên và những người có sở thích. Mặc dù ngôn ngữ lập trình C và C++ rất mạnh mẽ, nhưng đường cong học tập lại dốc, đòi hỏi nhiều thực hành và thử nghiệm. Bằng cách cung cấp giấy phép miễn phí, công ty JetBrains hy vọng có thể giúp người dùng dễ dàng học và sử dụng các ngôn ngữ này hơn.</p>
+<p>Mục đích thương mại và phi thương mại Cần lưu ý rằng giấy phép miễn phí của CLion chỉ áp dụng cho mục đích phi thương mại. Nếu người dùng sử dụng CLion cho mục đích thương mại, chẳng hạn như phát triển phần mềm thương mại hoặc cung cấp dịch vụ thương mại, thì họ cần mua giấy phép thương mại. Công ty JetBrains đã định nghĩa rõ ràng mục đích thương mại và phi thương mại, người dùng cần đọc kỹ thỏa thuận cấp phép để đảm bảo cách sử dụng của họ tuân thủ các yêu cầu cấp phép.</p>
+<p>Câu hỏi thường gặp Công ty JetBrains đã cung cấp một danh sách các câu hỏi thường gặp (FAQ) để giúp người dùng hiểu về mô hình cấp phép mới. FAQ trả lời các câu hỏi như cách đăng ký giấy phép miễn phí, cách nâng cấp hoặc gia hạn giấy phép, cách phân biệt mục đích thương mại và phi thương mại, v.v. Người dùng có thể hiểu rõ hơn về mô hình cấp phép mới và các yêu cầu liên quan đến việc sử dụng CLion bằng cách đọc FAQ.</p>
+<p>Tóm lại, CLion hiện đã miễn phí cho mục đích phi thương mại, đây là một tin rất tốt, đặc biệt đối với sinh viên và những người có sở thích. Bằng cách cung cấp giấy phép miễn phí, công ty JetBrains hy vọng có thể giúp người dùng dễ dàng học và sử dụng ngôn ngữ lập trình C và C++. Tuy nhiên, người dùng cần đọc kỹ thỏa thuận cấp phép để đảm bảo cách sử dụng của họ tuân thủ các yêu cầu cấp phép.</p>
+<h3 id="hn--nóng-503-điểm--316-bình-luận--tác-giả-alexeybrin--11-giờ-trước">
+  HN | Nóng: 503 điểm | 316 bình luận | Tác giả: AlexeyBrin | 11 giờ trước
+  <a class="anchor" href="#hn--n%c3%b3ng-503-%c4%91i%e1%bb%83m--316-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-alexeybrin--11-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43914705">https://news.ycombinator.com/item?id=43914705</a></p>
+<ul>
+<li>Những công ty như Jetbrains, mặc dù có các sản phẩm xuất sắc, nhưng có thể có những hạn chế về mô hình kinh doanh và tốc độ tăng trưởng</li>
+<li>Việc tạo ra doanh thu và tốc độ tăng trưởng không chỉ phụ thuộc vào chất lượng sản phẩm mà còn phụ thuộc vào nhiều yếu tố như tiếp thị, thu hút khách hàng và hợp tác chiến lược</li>
+<li>Định giá của các công ty mới nổi có thể dựa trên triển vọng tăng trưởng tiềm năng và khả năng đổi mới của họ, chứ không chỉ dựa trên tình hình doanh thu hiện tại</li>
+<li>Sự cạnh tranh trong lĩnh vực trợ lý viết mã AI có thể rất khốc liệt, và các nhà sản xuất IDE truyền thống cũng có thể duy trì lợi thế cạnh tranh bằng cách tích hợp các chức năng AI</li>
+<li>Định giá và tốc độ tăng trưởng của doanh nghiệp phụ thuộc vào nhiều yếu tố, bao gồm quyết định chiến lược, môi trường thị trường và khả năng đổi mới</li>
+<li>Các doanh nghiệp truyền thống và các công ty mới nổi có thể có sự khác biệt về mô hình kinh doanh, tốc độ tăng trưởng và khả năng đổi mới, nhưng đều có những ưu điểm và nhược điểm riêng</li>
+<li>Sự thành công của một doanh nghiệp không chỉ phụ thuộc vào chất lượng sản phẩm mà còn phụ thuộc vào mô hình kinh doanh, chiến lược tiếp thị và các mối quan hệ khách hàng của doanh nghiệp đó</li>
+<li>Sự phát triển và ứng dụng của công nghệ AI có thể thay đổi các mô hình mã hóa và phát triển phần mềm truyền thống, mang lại những cơ hội và thách thức kinh doanh mới</li>
+</ul>
+<h2 id="india-launches-attack-on-9-sites-in-pakistan-and-pakistani-jammu-and-kashmir">
+  India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir
+  <a class="anchor" href="#india-launches-attack-on-9-sites-in-pakistan-and-pakistani-jammu-and-kashmir">#</a>
+</h2>
+<p><a href="https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/">https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/</a></p>
+<p>Căng thẳng giữa Ấn Độ và Pakistan lại leo thang khi hai nước xảy ra xung đột ở khu vực Kashmir. Ấn Độ tuyên bố đã phát động các cuộc tấn công bằng tên lửa vào Pakistan và khu vực Kashmir do Pakistan kiểm soát, nhắm vào chín địa điểm &ldquo;cơ sở hạ tầng khủng bố&rdquo;, được cho là có liên quan đến vụ tấn công ở Kashmir thuộc Ấn Độ tháng trước, khiến 25 du khách Ấn Độ và một người dân địa phương thiệt mạng.</p>
+<p>Pakistan phủ nhận những địa điểm này là trại huấn luyện khủng bố và nói rằng ít nhất 31 dân thường đã thiệt mạng và 46 người bị thương trong các cuộc tấn công. Chính phủ Pakistan thề sẽ trả đũa hành động của Ấn Độ, nói rằng các cuộc tấn công của Ấn Độ là sự vi phạm nghiêm trọng chủ quyền của họ. Thủ tướng Pakistan Shehbaz Sharif cho biết trong một bài phát biểu trên truyền hình rằng Pakistan sẽ không lùi bước và sẽ phản công vào thời điểm và địa điểm thích hợp.</p>
+<p>Ấn Độ tuyên bố các cuộc tấn công của họ là để ngăn chặn các cuộc tấn công khủng bố tiếp theo và nói rằng mục tiêu của họ là các cuộc tấn công chính xác, tránh gây hại cho dân thường. Tuy nhiên, phía Pakistan cho biết các cuộc tấn công của Ấn Độ đã gây ra thương vong lớn cho dân thường và thiệt hại tài sản. Căng thẳng giữa hai nước đã kéo dài hàng thập kỷ, và khu vực Kashmir luôn là tâm điểm của xung đột. Trong những năm gần đây, quan hệ giữa hai nước đã dịu bớt, nhưng các sự kiện gần đây đã khiến tình hình trở nên căng thẳng trở lại.</p>
+<p>Phía Pakistan cho biết các cuộc tấn công của Ấn Độ không chỉ gây ra thương vong mà còn ảnh hưởng đến nền kinh tế và sự ổn định của Pakistan. Chính phủ Pakistan kêu gọi cộng đồng quốc tế can thiệp, yêu cầu Ấn Độ chấm dứt &ldquo;hành động xâm lược&rdquo; của mình. Phía Ấn Độ cho biết hành động của họ là cần thiết để tự vệ và nhằm bảo vệ sự an toàn của công dân.</p>
+<p>Xung đột giữa hai nước đã dẫn đến việc một lượng lớn người phải di dời, nhiều người buộc phải rời bỏ nhà cửa. Cộng đồng quốc tế bày tỏ quan ngại về điều này, kêu gọi hai nước kiềm chế và giải quyết tranh chấp thông qua đối thoại. Hiện tại, tình hình vẫn căng thẳng và quan hệ giữa hai nước khó đoán.</p>
+<h3 id="hn--nóng-465-điểm--551-bình-luận--tác-giả-alephnerd--1-ngày-trước">
+  HN | Nóng: 465 điểm | 551 bình luận | Tác giả: alephnerd | 1 ngày trước
+  <a class="anchor" href="#hn--n%c3%b3ng-465-%c4%91i%e1%bb%83m--551-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-alephnerd--1-ng%c3%a0y-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43909430">https://news.ycombinator.com/item?id=43909430</a></p>
+<ul>
+<li>Xung đột giữa Ấn Độ và Pakistan có thể bị thổi phồng, cả hai bên đều không muốn một cuộc chiến tranh toàn diện, nhưng chính phủ Ấn Độ muốn thể hiện sức mạnh của mình.</li>
+<li>Việc quân đội Pakistan hỗ trợ các tổ chức khủng bố là sự thật, và sự trả đũa của Ấn Độ là để chống lại những tổ chức này.</li>
+<li>Sau cuộc đối đầu năm 2019, các cuộc tấn công khủng bố ở khu vực Kashmir đã giảm, có thể là do sự trả đũa của Ấn Độ đã có hiệu quả.</li>
+<li>Khó khăn kinh tế, dịch bệnh và bất ổn chính trị nội bộ của Pakistan có thể là nguyên nhân làm giảm các cuộc tấn công khủng bố, chứ không phải sự trả đũa của Ấn Độ.</li>
+<li>Sự trả đũa của Ấn Độ có thể khiến quân đội Pakistan phải đối mặt với áp lực và gánh nặng kinh tế lớn hơn, từ đó làm giảm các cuộc tấn công khủng bố.</li>
+<li>Quân đội Pakistan sử dụng Ấn Độ như một mối đe dọa để duy trì quyền lực và ảnh hưởng của mình trong nước, sự trả đũa của Ấn Độ có thể khiến quân đội Pakistan trở nên mạnh mẽ hơn.</li>
+</ul>
+<h2 id="unitys-open-source-double-standard-the-ban-of-vlc">
+  Unity’s Open-Source Double Standard: the ban of VLC
+  <a class="anchor" href="#unitys-open-source-double-standard-the-ban-of-vlc">#</a>
+</h2>
+<p><a href="https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html">https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html</a></p>
+<p>Trang web này là một bài đăng trên blog, nội dung chính là về sự kiện Unity Store cấm sử dụng thư viện mã nguồn mở LGPL. Tác giả Martin Finkel giới thiệu dự án tích hợp VLC for Unity của họ, dự án này cho phép sử dụng công cụ đa phương tiện VLC trong các trò chơi Unity. Từ tháng 12 năm 2019, họ đã cung cấp các tệp nhị phân cho các nền tảng khác nhau trên Unity Store, bao gồm Windows, UWP và Android.</p>
+<p>Tuy nhiên, vào cuối mùa hè năm 2023, Unity đột ngột cấm tài khoản nhà phát hành của họ và sau nhiều tháng liên lạc, Unity đã từ chối cho phép họ tái xuất bản tài sản của mình. Tác giả chỉ ra rằng có rất nhiều tài sản trên Unity Store chứa các phụ thuộc LGPL, chẳng hạn như FFmpeg, nhưng Unity chỉ nhắm mục tiêu dự án của họ để cấm. Trớ trêu thay, trình chỉnh sửa và thời gian chạy của chính Unity cũng sử dụng các thư viện LGPL, chẳng hạn như Lame, libiconv và libwebsockets.</p>
+<p>Để đối phó với tình huống này, tác giả đã tạo Videolabs Store, cho phép người dùng mua các tệp nhị phân của VLC for Unity. Họ cũng cung cấp các dịch vụ tư vấn đa phương tiện, bao gồm xây dựng tùy chỉnh, sửa lỗi và tích hợp SDK, v.v. Tác giả nhấn mạnh tầm quan trọng của sự hợp tác giữa những người bảo trì dự án mã nguồn mở và người dùng thương mại để đảm bảo tính bền vững của dự án.</p>
+<p>Ngoài ra, tác giả cũng đề cập đến các sản phẩm khác, bao gồm giấy phép thương mại LibVLCSharp, sách điện tử LibVLC và SDK Kyber siêu trễ thấp để phát trực tuyến trò chơi/máy tính để bàn và điều khiển từ xa sắp ra mắt. Bài viết được cập nhật lần cuối vào ngày 10 tháng 1 năm 2024.</p>
+<h3 id="hn--nóng-455-điểm--126-bình-luận--tác-giả-cempaka--11-giờ-trước">
+  HN | Nóng: 455 điểm | 126 bình luận | Tác giả: cempaka | 11 giờ trước
+  <a class="anchor" href="#hn--n%c3%b3ng-455-%c4%91i%e1%bb%83m--126-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-cempaka--11-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43914832">https://news.ycombinator.com/item?id=43914832</a></p>
+<ul>
+<li>Tiêu chuẩn kép về mã nguồn mở của Unity là do nhóm pháp lý nhận được thông tin sai lệch và đưa nó vào thỏa thuận.</li>
+<li>Có sự khác biệt lớn giữa LGPL và GPL, LGPL cho phép các ứng dụng độc quyền liên kết đến các thư viện mã nguồn mở mà không cần phải công bố mã nguồn của ứng dụng độc quyền.</li>
+<li>Việc sử dụng các thành phần LGPL có thể mang lại sự phức tạp và rủi ro bảo mật, đặc biệt là về chữ ký ứng dụng và các yêu cầu nền tảng.</li>
+<li>LGPLv2 và LGPLv3 có các điều khoản khác nhau, LGPLv3 có điều khoản chống TiVo hóa, trong khi LGPLv2 thì không.</li>
+<li>Việc sử dụng các thành phần LGPLv2 trên một số nền tảng có thể được chấp nhận, nhưng có thể đi ngược lại tinh thần mã nguồn mở.</li>
+<li>Sự phức tạp và mơ hồ của giấy phép phần mềm đã dẫn đến tranh luận và hiểu lầm rộng rãi.</li>
+<li>Cần có một hệ thống giấy phép mới, đơn giản hơn và dễ hiểu hơn để thay thế hệ thống phức tạp hiện có.</li>
+</ul>
+<h2 id="curl-we-still-have-not-seen-a-valid-security-report-done-with-ai-help">
+  Curl: We still have not seen a valid security report done with AI help
+  <a class="anchor" href="#curl-we-still-have-not-seen-a-valid-security-report-done-with-ai-help">#</a>
+</h2>
+<p><a href="https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1">https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1</a></p>
+<p>Daniel Stenberg, một nhà phát triển phần mềm, đã đăng một bài viết trên LinkedIn bày tỏ sự không hài lòng của mình về việc gửi báo cáo bảo mật hiện tại. Ông cho biết, mỗi người gửi báo cáo bảo mật cần trả lời một câu hỏi, đó là liệu họ có sử dụng trí tuệ nhân tạo (AI) để tìm ra vấn đề hoặc tạo báo cáo hay không. Nếu câu trả lời là có, thì họ sẽ phải đối mặt với một loạt các câu hỏi tiếp theo để chứng minh rằng báo cáo của họ là thật.</p>
+<p>Daniel Stenberg cũng cho biết, ông sẽ ngay lập tức cấm bất kỳ ai gửi báo cáo mà ông cho là do AI tạo ra. Ông cho rằng, những báo cáo này là một cuộc tấn công DDoS, lãng phí thời gian của ông. Ông cũng đề cập rằng, mặc dù ông đã thấy rất nhiều báo cáo, nhưng không có báo cáo nào là báo cáo bảo mật hợp lệ được tạo ra bằng AI.</p>
+<p>Trong phần bình luận, có rất nhiều người đồng ý và ủng hộ quan điểm của Daniel Stenberg. Một số người đề nghị rằng, người gửi báo cáo bảo mật nên trả một khoản tiền đặt cọc nhất định, nếu báo cáo được chấp nhận, tiền đặt cọc sẽ được hoàn lại; nếu báo cáo bị từ chối, tiền đặt cọc sẽ bị tịch thu. Điều này có thể tăng thêm trách nhiệm và sự trung thực của người gửi báo cáo.</p>
+<p>Có người hỏi Daniel Stenberg, mỗi tháng ông nhận được bao nhiêu báo cáo như vậy và nguồn gốc của những báo cáo này là từ đâu. Daniel Stenberg không đưa ra con số cụ thể, nhưng ông cho biết, tình trạng này đã rất phổ biến và nghiêm trọng.</p>
+<p>Một số người cũng đề cập rằng, tình trạng này không chỉ là vấn đề của báo cáo bảo mật, mà còn là vấn đề của toàn bộ Internet. Nội dung do AI tạo ra đã trở thành một vấn đề nghiêm trọng, bao gồm các đơn xin việc, vị trí công việc và mã được tạo tự động, v.v. Có người hỏi, khi nào tình trạng này sẽ kết thúc.</p>
+<p>Nói chung, bài đăng của Daniel Stenberg đã gây ra một cuộc thảo luận về nội dung do AI tạo ra, và nhiều người đã bày tỏ sự lo lắng và không hài lòng về vấn đề này. Họ hy vọng tìm ra một giải pháp để ngăn chặn ảnh hưởng của nội dung do AI tạo ra đối với Internet và hệ thống báo cáo bảo mật.</p>
+<h3 id="hn--nóng-427-điểm--237-bình-luận--tác-giả-indigodaddy--1-ngày-trước">
+  HN | Nóng: 427 điểm | 237 bình luận | Tác giả: indigodaddy | 1 ngày trước
+  <a class="anchor" href="#hn--n%c3%b3ng-427-%c4%91i%e1%bb%83m--237-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-indigodaddy--1-ng%c3%a0y-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43907376">https://news.ycombinator.com/item?id=43907376</a></p>
+<ul>
+<li>Báo cáo an ninh do trí tuệ nhân tạo tạo ra có chất lượng kém, lãng phí thời gian và nguồn lực của đội ngũ an ninh</li>
+<li>Tính hiệu quả của báo cáo an ninh phụ thuộc vào sự hiểu biết và mô tả vấn đề của người báo cáo, chứ không phải dựa vào các công cụ trí tuệ nhân tạo</li>
+<li>Việc thu phí khi gửi báo cáo an ninh có thể cản trở các nhà nghiên cứu an ninh thực thụ gửi báo cáo có giá trị</li>
+<li>Xây dựng hệ thống uy tín và cơ chế đánh giá thủ công có thể lọc bỏ hiệu quả các báo cáo an ninh chất lượng thấp</li>
+<li>Ứng dụng các công cụ trí tuệ nhân tạo trong lĩnh vực an ninh vẫn còn nhiều thách thức và hạn chế</li>
+<li>Báo cáo an ninh hiệu quả đòi hỏi người báo cáo phải có sự hiểu biết và phân tích sâu sắc về vấn đề, chứ không chỉ đơn giản dựa vào đầu ra của các công cụ trí tuệ nhân tạo</li>
+<li>Đội ngũ an ninh cần thận trọng với các báo cáo an ninh, tránh bị các báo cáo giả mạo do trí tuệ nhân tạo tạo ra đánh lừa</li>
+<li>Xây dựng một cơ chế kiểm tra và xác minh báo cáo an ninh hoàn chỉnh có thể giúp nâng cao chất lượng và hiệu quả của báo cáo an ninh</li>
+</ul>
+<h2 id="vvvvvv-source-code">
+  VVVVVV Source Code
+  <a class="anchor" href="#vvvvvv-source-code">#</a>
+</h2>
+<p><a href="https://github.com/TerryCavanagh/VVVVVV">https://github.com/TerryCavanagh/VVVVVV</a></p>
+<p>Trang web này là về kho mã nguồn của một trò chơi độc lập có tên là VVVVVV. Trò chơi được phát triển bởi Terry Cavanagh, âm nhạc được sáng tác bởi Magnus Pålsson. Kho lưu trữ này chứa mã nguồn của trò chơi, bao gồm cả mã cho phiên bản desktop và phiên bản di động. Trò chơi vẫn có thể được mua trên trang web chính thức, nhưng người dùng cũng có thể biên dịch và sử dụng trò chơi miễn phí.</p>
+<p>Kho lưu trữ bao gồm lịch sử cập nhật của trò chơi, danh sách những người đóng góp và thỏa thuận cấp phép. Các cuộc thảo luận về cập nhật trò chơi chủ yếu diễn ra trong kênh Discord có tên &ldquo;unofficial VVVVVV discord&rdquo;. Nhóm phát triển trò chơi bao gồm Terry Cavanagh, Bennett Foddy, Magnus Pålsson, FamilyJules, Simon Roth, Ethan Lee, Misa Kai, Sam Kaplan và Pauli Kohberger, v.v.</p>
+<p>Kho lưu trữ cũng bao gồm thỏa thuận cấp phép của trò chơi, người dùng có thể tự do biên dịch và sử dụng trò chơi khi tuân thủ thỏa thuận. Mã nguồn của trò chơi được viết bằng các ngôn ngữ như ActionScript, C++, C, Java và CMake. Kho lưu trữ cũng bao gồm các phiên bản lịch sử và nhật ký cập nhật của trò chơi.</p>
+<p>Ngoài ra, kho lưu trữ còn bao gồm các tài nguyên của trò chơi, chẳng hạn như Logo của trò chơi và tệp README. Tệp README chứa thông tin về giới thiệu trò chơi, lịch sử cập nhật và thỏa thuận cấp phép, v.v. Kho lưu trữ cũng bao gồm danh sách những người đóng góp và danh sách cảm ơn, cảm ơn tất cả người dùng đã đóng góp vào quá trình phát triển trò chơi.</p>
+<hr>
+<h3 id="hn--nóng-400-điểm--81-bình-luận--tác-giả-radeeyate--24-giờ-trước">
+  HN | Nóng: 400 điểm | 81 bình luận | Tác giả: radeeyate | 24 giờ trước
+  <a class="anchor" href="#hn--n%c3%b3ng-400-%c4%91i%e1%bb%83m--81-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-radeeyate--24-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43910681">https://news.ycombinator.com/item?id=43910681</a></p>
+<ul>
+<li>Các nhà phát triển trò chơi có thể có được những ý tưởng mới thông qua thử nghiệm và nghịch ngợm các cơ chế trò chơi</li>
+<li>Tính độc đáo không phải là một điều kiện cần thiết cho chất lượng trò chơi, việc tham khảo và cải tiến các cơ chế trò chơi hiện có là chấp nhận được</li>
+<li>Đôi khi việc có một ý tưởng rõ ràng không đảm bảo sự thành công của trò chơi, thử nghiệm và tính linh hoạt là rất quan trọng</li>
+<li>Phát triển trò chơi cần xem xét các vấn đề như hiệu suất, độ trễ, v.v., những vấn đề này có thể không quan trọng trong các loại hình phát triển khác</li>
+<li>Các nhà phát triển trò chơi có thể học hỏi từ những thất bại và sai lầm, thu được kinh nghiệm và bài học quý giá</li>
+<li>Mã nguồn mở của trò chơi có thể cho phép các nhà phát triển khác học hỏi và tham khảo, thúc đẩy sự tiến bộ của phát triển trò chơi</li>
+<li>Phát triển trò chơi là một công việc phức tạp, cần xem xét nhiều yếu tố, bao gồm cơ chế trò chơi, nghệ thuật, âm thanh, v.v.</li>
+</ul>
+<h2 id="waiting-for-postgres-18-accelerating-disk-reads-with-asynchronous-io">
+  Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O
+  <a class="anchor" href="#waiting-for-postgres-18-accelerating-disk-reads-with-asynchronous-io">#</a>
+</h2>
+<p><a href="https://pganalyze.com/blog/postgres-18-async-io">https://pganalyze.com/blog/postgres-18-async-io</a></p>
+<p>Postgres 18 sắp ra mắt, chức năng I/O không đồng bộ mà nó mang lại sẽ thay đổi cách xử lý I/O của Postgres, đặc biệt là trong môi trường đám mây, có thể cải thiện đáng kể hiệu suất đọc. Việc giới thiệu I/O không đồng bộ cho phép Postgres đồng thời đưa ra nhiều yêu cầu đọc mà không cần đợi yêu cầu trước đó hoàn thành, do đó giảm thời gian chờ I/O và cải thiện việc sử dụng CPU.</p>
+<p>API luồng đọc được giới thiệu trong Postgres 17 đã đặt nền móng cho việc triển khai I/O không đồng bộ. API luồng đọc chuẩn hóa các thao tác đọc trong Postgres và sử dụng posix_fadvise() để đọc trước dữ liệu. Tuy nhiên, cơ chế này vẫn phụ thuộc vào hành vi bộ nhớ cache của hệ điều hành và không đảm bảo rằng dữ liệu được đọc trước vào bộ đệm chia sẻ của Postgres.</p>
+<p>Chức năng I/O không đồng bộ trong Postgres 18 được điều khiển thông qua cài đặt io_method mới. Cài đặt io_method có ba tùy chọn: sync, worker và io_uring. Chế độ sync giống với hành vi trong Postgres 17, sử dụng I/O đồng bộ và posix_fadvise() để đọc trước dữ liệu. Chế độ worker sử dụng quy trình làm việc I/O nền để đọc dữ liệu không đồng bộ, chế độ io_uring sử dụng giao diện io_uring của Linux để triển khai I/O không đồng bộ hiệu suất cao.</p>
+<p>Ưu điểm về hiệu suất của I/O không đồng bộ đặc biệt rõ ràng trong môi trường đám mây, đặc biệt là khi sử dụng bộ nhớ gắn mạng (chẳng hạn như Amazon EBS). Các thử nghiệm benchmark cho thấy I/O không đồng bộ trong Postgres 18 có thể cải thiện hiệu suất đọc gấp đôi hoặc thậm chí cao hơn. Thử nghiệm sử dụng phiên bản AWS c7i.8xlarge, ổ đĩa EBS io2 100GB, 20.000 IOPS được cung cấp. Kết quả thử nghiệm cho thấy I/O không đồng bộ có thể cải thiện đáng kể hiệu suất đọc, đặc biệt là trong các tình huống bộ nhớ cache lạnh.</p>
+<p>Nói chung, chức năng I/O không đồng bộ trong Postgres 18 là một tính năng tối ưu hóa hiệu suất quan trọng, đặc biệt là trong môi trường đám mây. Bằng cách sử dụng I/O không đồng bộ, Postgres có thể sử dụng tốt hơn tài nguyên CPU và I/O, cải thiện hiệu suất đọc và hiệu suất hệ thống tổng thể.</p>
+<h3 id="hn--nóng-348-điểm--90-bình-luận--tác-giả-lfittl--8-giờ-trước">
+  HN | Nóng: 348 điểm | 90 bình luận | Tác giả: lfittl | 8 giờ trước
+  <a class="anchor" href="#hn--n%c3%b3ng-348-%c4%91i%e1%bb%83m--90-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-lfittl--8-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43916577">https://news.ycombinator.com/item?id=43916577</a></p>
+<ul>
+<li>Chức năng I/O bất đồng bộ trong Postgres 18 có thể cải thiện tốc độ đọc đĩa, đặc biệt là trong hệ thống Linux.</li>
+<li>Sử dụng io_uring có thể thực hiện I/O bất đồng bộ, nhưng hiện tại chỉ hỗ trợ hệ thống Linux.</li>
+<li>Windows cũng có triển khai I/O bất đồng bộ, bao gồm IOCP và IORing, nhưng Postgres hiện chưa hỗ trợ.</li>
+<li>Chức năng io_uring của Linux có thể so sánh với triển khai IORing của Windows.</li>
+<li>Sử dụng I/O bất đồng bộ có thể cải thiện hiệu suất của hệ thống, đặc biệt trong trường hợp đồng thời cao và lượng dữ liệu lớn.</li>
+<li>Chức năng I/O bất đồng bộ của Postgres vẫn cần được tối ưu hóa và cải tiến hơn nữa để đạt được hiệu suất tốt nhất.</li>
+<li>Kernel và cơ chế thực thi của Linux và Windows đều có ưu và nhược điểm riêng, cả hai có thể học hỏi và tham khảo lẫn nhau.</li>
+<li>Trải nghiệm desktop của Windows có thể bị loại bỏ, chỉ giữ lại hệ thống và trình điều khiển hiển thị, nhưng điều này đòi hỏi một mức độ khó khăn và hạn chế về kỹ thuật nhất định.</li>
+</ul>
+<h2 id="so-much-blood">
+  So Much Blood
+  <a class="anchor" href="#so-much-blood">#</a>
+</h2>
+<p><a href="https://dynomight.net/blood/">https://dynomight.net/blood/</a></p>
+<p>Trong một bài viết gần đây về việc đổi hàng hóa lấy tiền, có đề cập đến việc châu Âu đang thiếu hụt huyết tương, với mức thiếu hụt khoảng 38%, trong khi Mỹ giải quyết vấn đề này bằng cách trả tiền cho người hiến huyết tương, các sản phẩm từ máu chiếm 2% tổng giá trị xuất khẩu của Mỹ. Tuy nhiên, con số 2% này khiến nhiều người ngạc nhiên. Con số này xuất phát từ một bài viết năm 2024 trên tờ <em>The Economist</em>, bài viết chỉ ra rằng xuất khẩu các sản phẩm từ máu của Mỹ chiếm 1,8% tổng kim ngạch xuất khẩu hàng hóa của nước này, trong khi con số này chỉ là 0,5% mười năm trước. Mỹ hiện cung cấp khoảng 70% huyết tương trên toàn cầu để sản xuất thuốc.</p>
+<p><img src="/images/WVDIbzS3Wo5AdexKvFfcWlcenOb.png" alt="WVDIbzS3Wo5AdexKvFfcWlcenOb.png" /></p>
+<p>Tuy nhiên, con số 2% này là sai. Bài viết trên <em>The Economist</em> không giải thích cách tính ra con số này và vì bài viết không có tên tác giả nên không thể xác minh. Để tìm ra con số chính xác, cần xem xét số liệu thống kê thương mại của chính phủ Mỹ. Theo những số liệu này, tổng giá trị xuất khẩu hàng hóa của Mỹ năm 2023 là 2045 tỷ đô la Mỹ, bao gồm cả các sản phẩm từ máu. Mã phân loại của các sản phẩm từ máu là HTS 3002, bao gồm máu người, máu động vật, kháng huyết thanh và các sản phẩm từ máu khác.</p>
+<p>Bằng cách xem xét các phân loại này, có thể thu được dữ liệu chi tiết về xuất khẩu các sản phẩm từ máu. Một số danh mục gần như chắc chắn chứa máu người, chẳng hạn như huyết tương người, huyết thanh người bình thường và huyết thanh miễn dịch người. Tổng giá trị xuất khẩu của các danh mục này là khoảng 10,8 tỷ đô la Mỹ, chiếm 0,5298% tổng kim ngạch xuất khẩu hàng hóa của Mỹ. Một số danh mục khác về cơ bản không chứa máu người, chẳng hạn như huyết thanh bào thai bê và vắc-xin thú y. Tổng giá trị xuất khẩu của các danh mục này là khoảng 2,86 tỷ đô la Mỹ, chiếm 0,1403% tổng kim ngạch xuất khẩu hàng hóa của Mỹ.</p>
+<p>Ngoài ra, có một số danh mục có thể chứa máu người, chẳng hạn như các sản phẩm miễn dịch học, vắc-xin và các sản phẩm trị liệu tế bào. Tổng giá trị xuất khẩu của các danh mục này là khoảng 28,27 tỷ đô la Mỹ, chiếm 1,3826% tổng kim ngạch xuất khẩu hàng hóa của Mỹ. Tuy nhiên, không phải tất cả các sản phẩm này đều chứa máu người. Bằng cách hỏi các nhà sinh vật học và xem xét các dữ liệu liên quan, có thể ước tính rằng khoảng 8% các sản phẩm miễn dịch học, 5% vắc-xin và 80% các sản phẩm trị liệu tế bào có thể chứa máu người.</p>
+<p>Do đó, con số chính xác về xuất khẩu các sản phẩm từ máu của Mỹ là khoảng 0,6867%, bao gồm các danh mục chắc chắn chứa máu người và các danh mục có thể chứa máu người. Con số này thấp hơn so với con số ban đầu là 2%, nhưng vẫn cho thấy các sản phẩm từ máu là một mặt hàng xuất khẩu quan trọng của Mỹ.</p>
+<hr>
+<h3 id="hn--nóng-312-điểm--135-bình-luận--tác-giả-debesyla--14-giờ-trước">
+  HN | Nóng: 312 điểm | 135 bình luận | Tác giả: debesyla | 14 giờ trước
+  <a class="anchor" href="#hn--n%c3%b3ng-312-%c4%91i%e1%bb%83m--135-b%c3%acnh-lu%e1%ba%adn--t%c3%a1c-gi%e1%ba%a3-debesyla--14-gi%e1%bb%9d-tr%c6%b0%e1%bb%9bc">#</a>
+</h3>
+<p><a href="https://news.ycombinator.com/item?id=43913751">https://news.ycombinator.com/item?id=43913751</a></p>
+<ul>
+<li>Hoa Kỳ là một trong số ít các quốc gia cho phép thu hoạch các sản phẩm máu thương mại, đó cũng là lý do tại sao Hoa Kỳ xuất khẩu các sản phẩm máu</li>
+<li>Ai đó đã thử sử dụng Common Crawl để tạo một công cụ tương tự như WayBack Machine, nhưng gặp phải vấn đề các IP bị chặn lập chỉ mục do truy vấn quá thường xuyên</li>
+<li>Có người cho rằng LLM (mô hình ngôn ngữ lớn) đã vượt qua khả năng suy luận của con người ở một số khía cạnh, nhưng cũng có người không đồng ý với điều này</li>
+<li>Chuyển đổi trực tiếp năng lượng thực phẩm thành điện năng có thể cung cấp năng lượng cho AI, năng lượng từ một thanh sô cô la Snickers có thể hỗ trợ hàng trăm truy vấn</li>
+<li>Năng lượng cần thiết để con người tồn tại thấp hơn nhiều so với mức tiêu thụ năng lượng của LLM, con người có thể sống sót trong nhiều tháng hoặc thậm chí nhiều năm chỉ với một lượng nhỏ thức ăn</li>
+<li>Có người cho rằng LLM đã vượt qua con người về kiến thức và kỹ năng, nhưng cũng có người cho rằng khả năng của con người vẫn không thể thay thế</li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+  
+  <div>
+    <a class="flex align-center" href="http://localhost:1313/0xhanh/techbit/rss.xml" title="RSS Feed" target="_blank" rel="noopener">
+      <svg xmlns="http://www.w3.org/2000/svg" class="book-icon" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M6.503 20.752c0 1.794-1.456 3.248-3.251 3.248-1.796 0-3.252-1.454-3.252-3.248 0-1.794 1.456-3.248 3.252-3.248 1.795.001 3.251 1.454 3.251 3.248zm-6.503-12.572v4.811c6.05.062 10.96 4.966 11.022 11.009h4.817c-.062-8.71-7.118-15.758-15.839-15.82zm0-3.368c10.58.046 19.152 8.594 19.183 19.188h4.817c-.03-13.231-10.755-23.954-24-24v4.812z"/>
+      </svg>
+      <span>RSS Feed</span>
+    </a>
+  </div>
+
+  
+  <link rel="alternate" type="application/rss+xml" title="The Fourth Bit" href="http://localhost:1313/0xhanh/techbit/rss.xml">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#2025-05-08-hacker-news-top-stories">2025-05-08 Hacker News Top Stories</a>
+      <ul>
+        <li><a href="#claudes-system-prompt-is-over-24k-tokens-with-tools">Claude’s system prompt is over 24k tokens with tools</a></li>
+        <li><a href="#matt-godbolt-sold-me-on-rust-by-showing-me-c">Matt Godbolt sold me on Rust by showing me C++</a></li>
+        <li><a href="#zed-high-performance-ai-code-editor">Zed: High-performance AI Code Editor</a></li>
+        <li><a href="#clion-is-now-free-for-non-commercial-use">CLion Is Now Free for Non-Commercial Use</a></li>
+        <li><a href="#india-launches-attack-on-9-sites-in-pakistan-and-pakistani-jammu-and-kashmir">India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir</a></li>
+        <li><a href="#unitys-open-source-double-standard-the-ban-of-vlc">Unity’s Open-Source Double Standard: the ban of VLC</a></li>
+        <li><a href="#curl-we-still-have-not-seen-a-valid-security-report-done-with-ai-help">Curl: We still have not seen a valid security report done with AI help</a></li>
+        <li><a href="#vvvvvv-source-code">VVVVVV Source Code</a></li>
+        <li><a href="#waiting-for-postgres-18-accelerating-disk-reads-with-asynchronous-io">Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</a></li>
+        <li><a href="#so-much-blood">So Much Blood</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
