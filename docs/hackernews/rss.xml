@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The Fourth Bit</title><link>http://localhost:1313/docs/hackernews/</link><description>The Fourth Bit</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>The Fourth Bit</managingEditor><webMaster>The Fourth Bit</webMaster><lastBuildDate>Fri, 06 Jun 2025 15:13:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-06 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 15:13:46 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-06-hacker-news-top-stories">
+  2025-06-06 Hacker News Top Stories
+  <a class="anchor" href="#2025-06-06-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>OpenAI phản đối lệnh của tòa án yêu cầu lưu giữ tất cả nhật ký ChatGPT, cho rằng lệnh này thiếu cơ sở pháp lý và xâm phạm quyền riêng tư của người dùng.</li>
+<li>Nhóm Chrome đề xuất hạn chế các trang web truy cập mạng cục bộ của người dùng, nhằm tăng cường bảo mật và đơn giản hóa việc kiểm soát quyền.</li>
+<li>Bản cập nhật Cursor 1.0 giới thiệu nhiều tính năng cốt lõi, bao gồm BugBot tự động đánh giá mã và Background Agent được mở hoàn toàn.</li>
+<li>Tesla tìm cách bảo vệ dữ liệu va chạm xe không bị công khai tại tòa án, để tránh rò rỉ bí mật thương mại.</li>
+<li>Google thử nghiệm hạn chế cài đặt ứng dụng Android sideload ở Singapore, làm dấy lên lo ngại về quyền tự chủ của người dùng và tính mở của hệ sinh thái.</li>
+<li>Nghiên cứu khám phá cuộc chạy đua vũ trang sinh thái và tình thế tiến thoái lưỡng nan trong quá trình tiến hóa giữa kỳ nhông da sần sùi ở vùng tây bắc Thái Bình Dương của Bắc Mỹ và rắn đuôi chuông California.</li>
+<li>Công nghệ bản đồ độ sâu của iPhone 15 Pro lưu trữ siêu dữ liệu thông qua định dạng HEIC, có thể được các nhà phát triển sử dụng để phân tích và diễn giải.</li>
+<li>Air Lab là một thiết bị đo chất lượng không khí mở, di động, hỗ trợ đo dữ liệu môi trường và kiểm tra phản hồi của cảm biến.</li>
+<li>Máy bay không người lái tự hành AI do Đại học Công nghệ Delft phát triển lần đầu tiên đánh bại nhà vô địch là con người trong một cuộc thi quốc tế, cho thấy tiềm năng của AI trong điều khiển thời gian thực.</li>
+<li>Google DeepMind chính thức giới thiệu các mô hình AI và dự án nghiên cứu của mình, bao gồm dòng Gemini, dòng Gemma và các ứng dụng trong nhiều lĩnh vực.</li>
+</ol>
+<hr>
+<h2 id="openai-slams-court-order-to-save-all-chatgpt-logs-including-deleted-chats">
+  OpenAI slams court order to save all ChatGPT logs, including deleted chats
+  <a class="anchor" href="#openai-slams-court-order-to-save-all-chatgpt-logs-including-deleted-chats">#</a>
+</h2>
+<p><a href="https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/">https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/</a></p>]]></description></item><item><title>2025-06-05 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:54:08 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-05-hacker-news-top-stories">
+  2025-06-05 Hacker News Top Stories
+  <a class="anchor" href="#2025-06-05-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Việc ứng dụng học sâu trong sinh học có thể dẫn đến sai sót do quá khớp (overfitting) và thiếu kiến thức sinh học, cần tăng cường kiểm tra tính xác thực.</li>
+<li>Ứng dụng Merlin Bird ID nhận dạng các loài chim thông qua ảnh, âm thanh và bản đồ, người dùng nói chung hài lòng với các chức năng của nó nhưng mong muốn được tối ưu hóa hơn nữa.</li>
+<li>FFmpeg hợp nhất hỗ trợ cho WebRTC, nâng cao tính ổn định và khả năng tương thích của nó trong truyền tải luồng (streaming).</li>
+<li>Sở Thuế vụ Hoa Kỳ đã mở mã nguồn dự án Direct File trên GitHub, nhưng dự án này có thể bị bãi bỏ do không được hỗ trợ hành chính.</li>
+<li>Tác giả viết &ldquo;BEAM Book&rdquo; nhằm giúp các kỹ sư tối ưu hóa hiệu suất máy ảo BEAM, nhấn mạnh tầm quan trọng của sự kiên trì và phản hồi từ cộng đồng.</li>
+<li>DiffX là một định dạng khác biệt mở rộng mới, được thiết kế để giải quyết những hạn chế của các định dạng truyền thống, nhưng sự phức tạp của nó đã gây ra tranh cãi.</li>
+<li>Bang Washington thông qua dự luật quyền sửa chữa, đảm bảo cư dân có quyền tự sửa chữa các thiết bị điện tử và đồ gia dụng.</li>
+<li>Dự án Precious Plastic rơi vào tình trạng khó khăn do thiếu vốn và các vấn đề vận hành, nhóm đang tìm kiếm giải pháp.</li>
+<li>Vẹt mào Sulphur-crested ở Úc đã học được cách vận hành vòi phun nước uống, thể hiện khả năng sáng tạo và truyền thống văn hóa của chúng.</li>
+<li>Dịch vụ GPU của Google Cloud Run hiện đã có phiên bản GA, đơn giản hóa việc triển khai khối lượng công việc AI, nhưng vấn đề chi phí vẫn cần được quan tâm.</li>
+</ol>
+<h2 id="deep-learning-gets-the-glory-deep-fact-checking-gets-ignored">
+  Deep learning gets the glory, deep fact checking gets ignored
+  <a class="anchor" href="#deep-learning-gets-the-glory-deep-fact-checking-gets-ignored">#</a>
+</h2>
+<p><a href="https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html">https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html</a></p>]]></description></item><item><title>2025-06-04 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-06-04-20250604-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:52:43 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-06-04-20250604-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-04-hacker-news-top-stories">
+  2025-06-04 Hacker News Top Stories
+  <a class="anchor" href="#2025-06-04-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Các kỹ thuật lập trình hỗ trợ bởi trí tuệ nhân tạo đã đạt được những tiến bộ đáng kể, có thể cải thiện đáng kể hiệu quả phát triển và trở thành một công cụ mạnh mẽ cho các nhà phát triển.</li>
+<li>Quarkdown là một hệ thống sắp chữ Markdown hiện đại, hỗ trợ nhiều định dạng đầu ra và mở rộng cú pháp Markdown, cung cấp các chức năng sắp chữ mạnh mẽ.</li>
+<li>Ủy ban Châu Âu từ chối tiết lộ người soạn thảo đề xuất giám sát quy mô lớn của mình, làm dấy lên lo ngại về quyền riêng tư và tự do trực tuyến của công dân.</li>
+<li>Ukraine sử dụng máy bay không người lái được phát triển bằng trí tuệ nhân tạo và công nghệ mạng nơ-ron đã thể hiện xuất sắc khả năng chống lại sự can thiệp của Nga, nâng cao khả năng chiến đấu.</li>
+<li>Cơ chế xử lý lỗi của ngôn ngữ Go vẫn chưa tìm ra giải pháp hoàn hảo, nhóm đang khám phá nhiều giải pháp khả thi để cải thiện thiết kế ngôn ngữ.</li>
+<li>Builder.ai, một công ty khởi nghiệp về AI trị giá 15 tỷ đô la, đã phá sản, cái gọi là công nghệ AI của họ thực chất là công việc do các nhà phát triển Ấn Độ thực hiện.</li>
+<li>Nền tảng Absurd.website chủ trương tạo ra các dự án web vô lý hàng tháng, thách thức nhận thức truyền thống về chức năng và tính thực tế thông qua sự hài hước và châm biếm.</li>
+<li>Trí tuệ nhân tạo tăng cường tầm quan trọng của các ngành khoa học nhân văn, nhưng cũng mang đến những thách thức, các nhà giáo dục cần chủ động ứng phó với những thay đổi do AI mang lại.</li>
+<li>Các nhà khoa học Nhật Bản đã phát triển máu nhân tạo tương thích với tất cả các nhóm máu, giải quyết vấn đề thiếu hụt nguồn cung cấp máu, dự kiến đưa vào sử dụng vào khoảng năm 2030.</li>
+<li>Các ứng dụng Android sử dụng công nghệ theo dõi máy chủ cục bộ để vượt qua các biện pháp bảo vệ quyền riêng tư, thu thập dữ liệu người dùng, gây ra lo ngại về quyền riêng tư và bảo mật.</li>
+</ol>
+<h2 id="my-ai-skeptic-friends-are-all-nuts">
+  My AI skeptic friends are all nuts
+  <a class="anchor" href="#my-ai-skeptic-friends-are-all-nuts">#</a>
+</h2>
+<p><a href="https://fly.io/blog/youre-all-nuts/">https://fly.io/blog/youre-all-nuts/</a></p>]]></description></item><item><title>2025-06-03 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:51:14 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-03-hacker-news-top-stories">
+  2025-06-03 Hacker News Top Stories
+  <a class="anchor" href="#2025-06-03-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Trong công việc, hoàn thành nhiệm vụ là yêu cầu cơ bản, nhưng để được thăng tiến và coi trọng, cần có tư duy và đóng góp ở cấp độ cao hơn.</li>
+<li>Người sáng tạo nên tập trung vào nội dung yêu thích khi không ai chú ý, xây dựng sự tích lũy tác phẩm, chuẩn bị cho thành công trong tương lai.</li>
+<li>Phong cách hình ảnh của &ldquo;Samurai Jack&rdquo; độc đáo, nhấn mạnh vào khả năng biểu đạt của hình ảnh, chịu ảnh hưởng từ các bộ phim kinh điển và Miyazaki Hayao, theo đuổi cảm giác câu chuyện trong mỗi khung hình.</li>
+<li>Dự án OAuth của Cloudflare trình bày các bản ghi phát triển và bảo trì mã, thảo luận về tác động của trí tuệ nhân tạo đối với hiệu quả và xã hội.</li>
+<li>Kan.bn là một giải pháp thay thế Trello mã nguồn mở, hỗ trợ kiểm soát quyền và cộng tác nhóm, nhằm mục đích cung cấp một công cụ quản lý dự án hoàn toàn có thể tùy chỉnh.</li>
+<li>Nhiều công ty đang tuyển dụng vào tháng 6 năm 2025, bao gồm các lĩnh vực công nghệ, tài chính, y tế, v.v., cung cấp cơ hội làm việc từ xa.</li>
+<li>LibriVox là một nền tảng sách nói thuộc phạm vi công cộng miễn phí, mặc dù chất lượng âm thanh không đồng đều, nhưng vẫn được đánh giá cao.</li>
+<li>Khi các kỹ năng kỹ thuật bị hàng hóa hóa, khả năng phán đoán trở thành yếu tố then chốt để phân biệt giữa sự xuất sắc và bình thường, công việc trong tương lai sẽ chú trọng hơn đến phán đoán chiến lược.</li>
+<li>Vanta là một trình phân tích hành vi mạng nhẹ, hỗ trợ tái cấu trúc giao thức và trích xuất dữ liệu, phù hợp cho mục đích giáo dục và học tập.</li>
+<li>Giá của máy đọc sách điện tử không giảm, lý do bao gồm quy mô thị trường nhỏ, chi phí công nghệ cao và mô hình lợi nhuận phụ thuộc vào việc bán sách.</li>
+</ol>
+<h2 id="if-you-are-useful-it-doesnt-mean-you-are-valued">
+  If you are useful, it doesn’t mean you are valued
+  <a class="anchor" href="#if-you-are-useful-it-doesnt-mean-you-are-valued">#</a>
+</h2>
+<p><a href="https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean">https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean</a></p>]]></description></item><item><title>2025-06-02 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:49:48 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-02-hacker-news-top-stories">
+  2025-06-02 Hacker News Top Stories
+  <a class="anchor" href="#2025-06-02-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Các nhà nghiên cứu đã phát hiện ra root shell trong thiết bị thanh toán thẻ tín dụng Worldline Yomani, hé lộ những nguy cơ tiềm ẩn về bảo mật.</li>
+<li>JSON lũy tiến (Progressive JSON) giúp cải thiện hiệu quả truyền dữ liệu và trải nghiệm người dùng bằng cách phân tách dữ liệu để xử lý đồng thời khi nhận.</li>
+<li>Figma Slides thể hiện tốt trong thiết kế và xây dựng, nhưng có những vấn đề lớn về chức năng trình bày và tính ổn định.</li>
+<li>Nhiếp ảnh gia Christophe Nuyens chia sẻ kinh nghiệm làm việc trong &ldquo;Andor&rdquo;, cho rằng chất lượng sản xuất của phim truyền hình đã vượt qua một số bộ phim điện ảnh.</li>
+<li>DeepSeek-V3 có chi phí vận hành cục bộ cao, chủ yếu do suy luận theo lô (batch processing) và giới hạn tài nguyên phần cứng.</li>
+<li>RenderFormer hiện thực hóa việc dựng hình lưới tam giác chất lượng cao thông qua mạng nơ-ron, nhưng vẫn còn những hạn chế trong việc xử lý các cảnh phức tạp.</li>
+<li>Nền tảng Patio cung cấp hướng dẫn về trang trí nhà cửa và làm vườn, khuyến khích chia sẻ công cụ và học tập DIY để thúc đẩy phát triển bền vững.</li>
+<li>Dự án Kilnettle Shrine đã tạo ra một máy cắt băng dính thoại in 3D chi phí thấp và khuyến khích độc giả tự làm.</li>
+<li>Oniux sử dụng Linux namespace để cung cấp khả năng cách ly mạng Tor cho các ứng dụng, tăng cường bảo vệ quyền riêng tư và bảo mật.</li>
+<li>Google AI Edge hỗ trợ triển khai AI đa nền tảng, giúp các nhà phát triển hiện thực hóa các ứng dụng AI trên thiết bị với độ trễ thấp và bảo vệ quyền riêng tư dữ liệu.</li>
+</ol>
+<h2 id="root-shell-on-a-credit-card-terminal">
+  Root shell on a credit card terminal
+  <a class="anchor" href="#root-shell-on-a-credit-card-terminal">#</a>
+</h2>
+<p><a href="https://stefan-gloor.ch/yomani-hack">https://stefan-gloor.ch/yomani-hack</a></p>]]></description></item><item><title>2025-06-01 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-06-01-20250601-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:48:24 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-06-01-20250601-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-01-hacker-news-top-stories">
+  2025-06-01 Hacker News Top Stories
+  <a class="anchor" href="#2025-06-01-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Nhiếp ảnh gia Charles Brooks đã sử dụng ống kính thăm dò và kỹ thuật xếp chồng tiêu điểm để chụp được hiệu ứng kiến trúc hùng vĩ bên trong các nhạc cụ, thể hiện kỹ năng nhiếp ảnh điêu luyện và góc nhìn độc đáo về cấu trúc nhạc cụ.</li>
+<li>Precision Clock Mk IV là một đồng hồ có độ chính xác cao, tích hợp nhiều chức năng tiên tiến, thông qua thiết kế tỉ mỉ và các giải pháp tối ưu hóa, đạt được độ chính xác và độ tin cậy cao trong việc hiển thị thời gian.</li>
+<li>Các nhà nghiên cứu đã vô tình phát hiện ra một phương pháp mới để tạo ra các nhân AI hiệu suất cao, thông qua huấn luyện và tối ưu hóa dữ liệu tổng hợp, đã cải thiện đáng kể hiệu suất của nhân, vượt qua các chuẩn mực PyTorch.</li>
+<li>Cờ trình biên dịch &ldquo;fast-math&rdquo; mặc dù có thể tối ưu hóa các phép toán để tăng tốc độ, nhưng có thể làm tổn hại đến độ chính xác của tính toán, các nhà phát triển nên sử dụng thận trọng và tiến hành kiểm tra đầy đủ.</li>
+<li>Micro Center đã khai trương tại Santa Clara, thu hút một lượng lớn những người đam mê công nghệ, cung cấp nhiều lựa chọn sản phẩm điện tử và các hoạt động ưu đãi, trở thành điểm đến lý tưởng cho những người tự lắp ráp máy tính và game thủ.</li>
+<li>Valkey, với tư cách là một nhánh cộng đồng của Redis, thông qua tối ưu hóa hiệu suất và hỗ trợ đa luồng, đã vượt trội đáng kể so với Redis 8.0, trở thành một giải pháp thay thế mã nguồn mở tốt hơn.</li>
+<li>Sổ tay cụm từ C++ sang Rust giúp các nhà phát triển chuyển đổi, thông qua các ví dụ mã và cân nhắc thiết kế, hướng dẫn các lập trình viên C++ học ngôn ngữ Rust.</li>
+<li>Chức năng tìm kiếm bằng trí tuệ nhân tạo có thể tạo ra thông tin sai lệch, người dùng cần sử dụng thận trọng và xác minh tính chính xác của thông tin để tránh bị hiểu sai.</li>
+<li>Bộ phim chưa phát hành của Jerry Lewis, &ldquo;The Day the Clown Cried&rdquo;, đã được tìm thấy ở Thụy Điển, dự kiến sẽ được khôi phục và công khai trưng bày giá trị lịch sử của nó.</li>
+<li>Báo cáo của Mary Meeker đã phân tích xu hướng phát triển của trí tuệ nhân tạo, chỉ ra rằng công nghệ AI đang tiến bộ nhanh chóng, đặc biệt là sự phát triển của các mô hình ngôn ngữ lớn có ảnh hưởng sâu rộng đến thị trường và xã hội.</li>
+</ol>
+<h2 id="photos-taken-inside-musical-instruments">
+  Photos taken inside musical instruments
+  <a class="anchor" href="#photos-taken-inside-musical-instruments">#</a>
+</h2>
+<p><a href="https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments">https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</a></p>]]></description></item><item><title>2025-05-31 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:46:20 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-31-hacker-news-top-stories">
+  2025-05-31 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-31-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>FLUX.1 Kontext là một mô hình khớp dòng sinh (generative flow matching model), hỗ trợ tạo và chỉnh sửa ảnh bằng gợi ý văn bản và hình ảnh, có đặc điểm là tạo nhanh và chi phí thấp.</li>
+<li>Kỹ thuật cơ số 2^51 giúp cải thiện hiệu suất tính toán bằng cách tối ưu hóa các phép toán cộng số nguyên lớn, phù hợp để xử lý hiệu quả lượng lớn dữ liệu.</li>
+<li>Các hãng hàng không sử dụng chiến lược tính giá vé cao hơn đối với khách du lịch một mình để phân biệt người đi một mình với người đi theo nhóm, nhằm tăng doanh thu.</li>
+<li>AWS đảm bảo tính đúng đắn của hệ thống thông qua các phương pháp và công cụ hình thức, nâng cao hiệu quả phát triển và độ tin cậy của dịch vụ, đặc biệt thể hiện tốt trong các hệ thống phân tán.</li>
+<li>Wave3 Social là một câu lạc bộ xã hội nhằm giải quyết vấn đề cô đơn của nam giới, thông qua các hoạt động ngoại tuyến giúp xây dựng tình bạn vững chắc.</li>
+<li>Cuốn sách &ldquo;Practical Software Defined Radio&rdquo; giới thiệu kiến thức cơ bản và kỹ năng thực hành về SDR, phù hợp cho độc giả ở mọi trình độ học hỏi và ứng dụng.</li>
+<li>Thông qua tối ưu hóa tính toán bằng AVX512, nhóm đã giải quyết thành công bài toán chứng minh công việc (Proof-of-Work) của Google và giành được giải thưởng của cuộc thi.</li>
+<li>Microsandbox kết hợp ưu điểm của máy ảo và container, cung cấp môi trường sandbox khởi động nhanh và có tính bảo mật cao, phù hợp để chạy các đoạn mã không đáng tin cậy.</li>
+<li>Buttplug MCP là một máy chủ hỗ trợ các chương trình LLM điều khiển các thiết bị giao diện sinh dục, hiện đang trong giai đoạn thử nghiệm và vẫn đang giải quyết các vấn đề về độ ổn định kết nối.</li>
+<li>Procreate nhấn mạnh việc bảo vệ quyền sáng tạo và quyền riêng tư của người dùng, không sử dụng công nghệ AI tạo sinh, đồng thời cam kết duy trì giá trị độc đáo của sự sáng tạo của con người.</li>
+</ol>
+<h2 id="flux1-kontext">
+  FLUX.1 Kontext
+  <a class="anchor" href="#flux1-kontext">#</a>
+</h2>
+<p><a href="https://bfl.ai/models/flux-kontext">https://bfl.ai/models/flux-kontext</a></p>]]></description></item><item><title>2025-05-30 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 10:10:03 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-30-hacker-news-top-stories">
+  2025-05-30 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-30-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Tòa án Thương mại Quốc tế Hoa Kỳ đã phán quyết các mức thuế toàn cầu do Trump áp đặt là bất hợp pháp và ngăn chặn việc thực thi các mức thuế này, có thể gây ảnh hưởng lớn đến chính sách kinh tế của Trump.</li>
+<li>DeepSeek-R1-0528 là mô hình mới nhất do công ty DeepSeek ra mắt, thông qua tối ưu hóa thuật toán và nâng cấp tài nguyên tính toán, đã có những cải tiến đáng kể về khả năng suy luận và diễn giải.</li>
+<li>WeatherStar 4000+ là một trình mô phỏng kênh thời tiết, cung cấp thông tin thời tiết phong phú và dữ liệu dự báo, người dùng có thể tùy chỉnh nội dung hiển thị và cài đặt.</li>
+<li>American Science and Surplus là một cửa hàng bán lẻ nổi tiếng với việc bán các mặt hàng kỳ lạ, hiện đang khởi động các hoạt động gây quỹ để duy trì hoạt động do doanh số bán hàng sụt giảm.</li>
+<li>Lĩnh vực thiết kế web những năm 1990 do ba bậc thầy Zeldman, Siegel và Nielsen thống trị, họ lần lượt đại diện cho triết lý thiết kế về trải nghiệm người dùng, tính thẩm mỹ và khả năng sử dụng.</li>
+<li>.NET 10 Preview 4 hỗ trợ chạy trực tiếp các tệp C#, không cần tạo tệp dự án, đơn giản hóa quy trình phát triển, đặc biệt phù hợp để kiểm tra nhanh các đoạn mã.</li>
+<li>Typed-FFmpeg 3.0 là một gói Python hiện đại, cung cấp hỗ trợ toàn diện cho FFmpeg, giải quyết những hạn chế của các gói hiện có và giới thiệu các tính năng mới.</li>
+<li>Lập trình viên con người vẫn vượt trội hơn các mô hình ngôn ngữ lớn trong việc giải quyết các vấn đề phức tạp, LLM có những hạn chế trong xử lý chi tiết và kiến thức chuyên môn.</li>
+<li>Bằng cách biên dịch mạng nơ-ron thành mã C, có thể tăng tốc đáng kể tốc độ suy luận, tác giả đã đạt được hiệu suất tăng 1744 lần thông qua thử nghiệm.</li>
+<li>Tác giả đã triển khai một hệ điều hành đồ chơi trong &ldquo;Super Mario Bros.&rdquo;, thông qua trình giả lập lưu trạng thái để trình diễn các khái niệm về lập trình đa luồng và đồng bộ hóa luồng.</li>
+</ol>
+<h2 id="us-trade-court-finds-trump-tariffs-illegal">
+  US Trade Court finds Trump tariffs illegal
+  <a class="anchor" href="#us-trade-court-finds-trump-tariffs-illegal">#</a>
+</h2>
+<p><a href="https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court">https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court</a></p>]]></description></item><item><title>2025-05-29 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:44:52 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-29-hacker-news-top-stories">
+  2025-05-29 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-29-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Thảo luận về sự suy giảm mức độ quan tâm đến chất lượng và tính xác thực trong xã hội ngày nay, cũng như tác động của nội dung do AI tạo ra đối với truyền thông và xã hội.</li>
+<li>Giới thiệu các tính năng mới của công cụ LLM CLI, hỗ trợ mở rộng khả năng của LLM thông qua mã Python hoặc plugin, để thực hiện các tác vụ phức tạp.</li>
+<li>Giới thiệu Desktop Docs, một nền tảng tìm kiếm hình ảnh và video nâng cao, hỗ trợ tìm kiếm dựa trên nội dung, màu sắc và đối tượng được hỗ trợ bởi AI.</li>
+<li>Cho rằng bút và sổ tay là công cụ quan trọng nhất của nhà phát triển, nhấn mạnh tầm quan trọng của việc viết và suy nghĩ trong việc giải quyết vấn đề.</li>
+<li>Giới thiệu Leta, công cụ tìm kiếm tập trung vào quyền riêng tư do Mullvad ra mắt, truy cập kết quả tìm kiếm thông qua proxy và sử dụng hệ thống không ổ đĩa để tăng cường bảo vệ quyền riêng tư.</li>
+<li>Thảo luận về những rủi ro của việc phụ thuộc quá nhiều vào các mô hình ngôn ngữ lớn trong kỹ thuật phần mềm, có thể dẫn đến giảm chất lượng mã và suy giảm khả năng của nhà phát triển.</li>
+<li>xAI đầu tư 300 triệu đô la vào Telegram, tích hợp chatbot Grok vào ứng dụng, cả hai bên chia sẻ doanh thu từ đăng ký.</li>
+<li>Đề xuất một phương pháp tối ưu hóa hiệu suất của các mô hình ngôn ngữ lớn, bằng cách hợp nhất chuyển tiếp mô hình thành một &ldquo;megakernel&rdquo; duy nhất, cải thiện hiệu suất và tốc độ sử dụng GPU.</li>
+<li>Kể về trải nghiệm nhận được thông báo ngừng vi phạm bản quyền vì thiết kế ngược trang web Waffle House để tạo ra &ldquo;Chỉ số Waffle House&rdquo;.</li>
+<li>Giới thiệu một giải pháp để thương lượng nguồn điện PoE+ trong môi trường khởi động trước, thông qua ứng dụng UEFI để đạt được mức công suất cao.</li>
+</ol>
+<h2 id="the-who-cares-era">
+  The Who Cares Era
+  <a class="anchor" href="#the-who-cares-era">#</a>
+</h2>
+<p><a href="https://dansinker.com/posts/2025-05-23-who-cares/">https://dansinker.com/posts/2025-05-23-who-cares/</a></p>]]></description></item><item><title>2025-05-28 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-28-20250528-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:43:26 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-28-20250528-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-28-hacker-news-top-stories">
+  2025-05-28 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-28-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Game phong cách &ldquo;Minecraft&rdquo; được thực hiện hoàn toàn bằng HTML/CSS, dù có vấn đề về hiệu năng nhưng thể hiện tiềm năng của CSS.</li>
+<li>Trang web kêu gọi công chúng quan tâm đến bảo tồn động vật hoang dã thông qua những bức ảnh thú vị về một con cú mèo đang hồi phục được quấn trong khăn tắm.</li>
+<li>CEO của Duolingo kiên quyết sử dụng AI thay thế con người gây tranh cãi, người dùng chỉ trích điều này ảnh hưởng đến hiệu quả và trải nghiệm học tập.</li>
+<li>Công cụ làm bài tập bằng AI khiến học sinh phụ thuộc vào công nghệ để hoàn thành nhiệm vụ, bài viết kêu gọi giáo dục quay trở lại bồi dưỡng tư duy phản biện.</li>
+<li>&ldquo;Lý thuyết Ma trận&rdquo; tạo ra sự ngạc nhiên về nhận thức thông qua liên kết từ ngữ, được ứng dụng trong các lĩnh vực như chơi chữ, đặt tên thương hiệu, v.v.</li>
+<li>Giải pháp nén video không mất dữ liệu dựa trên bộ lọc Bloom hợp lý, đạt được hiệu quả lưu trữ cao thông qua bitmap và dữ liệu chứng thực.</li>
+<li>Chim ưng Cooper&rsquo;s ở thành phố học cách sử dụng quy luật của đèn giao thông để săn mồi, thể hiện khả năng thích nghi của động vật với môi trường do con người tạo ra.</li>
+<li>Đổi mới công nghệ không thay thế được nhà phát triển, khả năng thiết kế hệ thống và ra quyết định kinh doanh vẫn là giá trị cốt lõi mà AI khó có thể thay thế.</li>
+<li>Trò chơi biến thể Tetris không áp lực nhấn mạnh trải nghiệm xếp chồng thuần túy, người dùng đề xuất tối ưu hóa tính ngẫu nhiên và chức năng.</li>
+<li>Gợi ý hệ thống Claude 4 thể hiện thiết kế đạo đức AI thông qua hệ thống quy tắc, từ chối rõ ràng việc tạo ra nội dung gây hại.</li>
+</ol>
+<h2 id="css-minecraft">
+  CSS Minecraft
+  <a class="anchor" href="#css-minecraft">#</a>
+</h2>
+<p><a href="https://benjaminaster.com/css-minecraft/">https://benjaminaster.com/css-minecraft/</a></p>]]></description></item><item><title>2025-05-27 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:42:07 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-27-hacker-news-top-stories">
+  2025-05-27 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-27-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Tòa án Đức kết án bốn cựu giám đốc điều hành của Volkswagen vì vụ bê bối gian lận khí thải động cơ diesel, liên quan đến các thiết bị gian lận bất hợp pháp dẫn đến làm giả lượng khí thải, gây ra thiệt hại lớn.</li>
+<li>Đại học Xã hội Nguồn mở (OSSU) cung cấp lộ trình tự học khoa học máy tính miễn phí, bao gồm các nội dung cốt lõi như lập trình, cấu trúc dữ liệu, hỗ trợ học tập linh hoạt và tương tác cộng đồng.</li>
+<li>Google vô tình công khai số điện thoại của người dùng, số điện thoại dùng để xác thực danh tính đã được thêm vào hồ sơ doanh nghiệp, gây ra lo ngại về rò rỉ quyền riêng tư.</li>
+<li>Hacker News chuyển sang Common Lisp để cải thiện hiệu suất, trình biên dịch mới cho phép chạy đa nhân, nhưng mã nguồn không được mở.</li>
+<li>Lieferando.de thu thập 5,7% tên miền liên quan đến nhà hàng, có thể được sử dụng để tối ưu hóa SEO hoặc thúc đẩy lưu lượng truy cập, gây ra lo ngại về pháp lý và gian lận.</li>
+<li>Các nhà phát triển đang tạo ra các ứng dụng tự lưu trữ mã nguồn mở để gửi bản tin cho bạn bè và gia đình, tránh phụ thuộc vào mạng xã hội.</li>
+<li>Vật liệu mới có khả năng thu thập thụ động độ ẩm từ không khí, có tiềm năng ứng dụng trong việc thu thập nước ở các khu vực khô hạn và làm mát thiết bị.</li>
+<li>Chomsky chỉ ra rằng ChatGPT có thể mô phỏng ngôn ngữ nhưng không hiểu ý nghĩa, cần được giám sát cẩn thận để ngăn chặn việc lan truyền thông tin sai lệch.</li>
+<li>GitHub issues được coi là một công cụ sổ tay tuyệt vời, hỗ trợ Markdown, làm nổi bật cú pháp mã và chức năng tìm kiếm, phù hợp cho quản lý dự án và ghi chép kiến thức.</li>
+<li>Kỷ niệm mười năm JSON Web Token, mặc dù được sử dụng rộng rãi trong lĩnh vực bảo mật, nhưng vẫn phải đối mặt với các thách thức bảo mật như thời hạn hiệu lực và cập nhật quyền.</li>
+</ol>
+<h2 id="german-court-sends-vw-execs-to-prison-over-dieselgate-scandal">
+  German court sends VW execs to prison over Dieselgate scandal
+  <a class="anchor" href="#german-court-sends-vw-execs-to-prison-over-dieselgate-scandal">#</a>
+</h2>
+<p><a href="https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/">https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/</a></p>]]></description></item><item><title>2025-05-26 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:40:42 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-26-hacker-news-top-stories">
+  2025-05-26 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-26-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Tái phát minh bánh xe giúp học hỏi và hiểu các nguyên lý cơ bản, có thể mang lại những khám phá và đổi mới.</li>
+<li>Thẻ hệ thống của Claude 4 trình bày chi tiết dữ liệu huấn luyện, chức năng và các rủi ro an toàn tiềm ẩn của mô hình.</li>
+<li>Hội nghị khoa học Hoa Kỳ chuyển đến các quốc gia khác do chính sách nhập cư, có thể ảnh hưởng đến giao lưu quốc tế và uy tín.</li>
+<li>Các trò chơi cũ tồn tại lâu dài nhờ khả năng tương thích thiết bị và hỗ trợ cộng đồng, trong khi các trò chơi mới nhanh chóng biến mất do chiến lược kinh doanh.</li>
+<li>Tachy0n là một lỗ hổng 0day cho iOS, bắt nguồn từ việc Apple không kiểm tra hồi quy đầy đủ các vấn đề đã biết.</li>
+<li>Đan Mạch tăng tuổi nghỉ hưu lên 70 để đảm bảo tính bền vững của hệ thống lương hưu, nhưng gây ra sự phản đối của công chúng.</li>
+<li>Lottie là một định dạng hoạt hình đồ họa vector mã nguồn mở, được sử dụng rộng rãi trên nhiều nền tảng, nhưng có vấn đề về hiệu suất và kích thước tệp.</li>
+<li>Một lập trình viên đã giải quyết bài toán Boggle 50 năm bằng phương pháp nhánh và cận, tìm ra bàn cờ có điểm số cao nhất.</li>
+<li>Công việc của các lập trình viên Amazon trở nên máy móc hơn do việc sử dụng các công cụ AI, có thể ảnh hưởng đến chất lượng mã và phát triển kỹ năng.</li>
+<li>Expressive Animator là một phần mềm hoạt hình SVG, hỗ trợ xuất nhiều định dạng, nhưng khái niệm &ldquo;giấy phép trọn đời&rdquo; của nó gây tranh cãi.</li>
+</ol>
+<h2 id="reinvent-the-wheel">
+  Reinvent the Wheel
+  <a class="anchor" href="#reinvent-the-wheel">#</a>
+</h2>
+<p><a href="https://endler.dev/2025/reinvent-the-wheel/">https://endler.dev/2025/reinvent-the-wheel/</a></p>]]></description></item><item><title>2025-05-25 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:39:14 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-25-hacker-news-top-stories">
+  2025-05-25 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-25-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Tác giả khám phá tầm quan trọng của việc cảm thấy vui mừng cho bạn bè, đưa ra khái niệm &ldquo;bánh đà bạn bè&rdquo;, đồng thời đưa ra các lời khuyên để trở thành một người bạn tốt, nhấn mạnh việc hỗ trợ bạn bè có thể làm cho cuộc sống hạnh phúc hơn.</li>
+<li>Tác giả sử dụng mô hình o3 của OpenAI để phát hiện ra một lỗ hổng zero-day từ xa trong triển khai SMB của kernel Linux, cho thấy vai trò hỗ trợ của LLM trong nghiên cứu lỗ hổng.</li>
+<li>Hiệu ứng đại số là một tính năng của ngôn ngữ lập trình, cho phép định nghĩa và xử lý các hiệu ứng khác nhau, có ưu điểm về cú pháp, tính trừu tượng và khả năng kết hợp, phù hợp với các tình huống như dependency injection và xử lý lỗi.</li>
+<li>Một trình điều khiển kernel Linux chuyển đổi bộ quay số điện thoại xoay thành thiết bị đầu vào evdev, dự án đã gây ra cuộc thảo luận trên Hacker News về sự đổi mới của các thiết bị cổ điển.</li>
+<li>Học sinh trung học Chloe Lee đã cải tiến cấu trúc phân tử của acetaminophen, giảm độc tính cho gan và tăng cường hiệu quả, mang lại tiềm năng phát triển các loại thuốc giảm đau an toàn hơn.</li>
+<li>Các công ty nhỏ nên tập trung vào hình ảnh thương hiệu chân thực, nhân văn, kết nối với khách hàng, thay vì bắt chước các công ty lớn, nhấn mạnh tầm quan trọng của những người chấp nhận sớm.</li>
+<li>hcker.news là một giao diện người dùng Hacker News dựa trên dòng thời gian, cung cấp nhiều cài đặt tùy chỉnh và tùy chọn lọc, nhằm mục đích nâng cao trải nghiệm người dùng.</li>
+<li>Raspberry Pi 2 có thể tắt khi sử dụng đèn flash xenon do vấn đề nhạy cảm với ánh sáng của chip U16, người dùng cộng đồng đã giải quyết vấn đề bằng cách che phủ chip.</li>
+<li>Bài viết khám phá thực tế công việc của người viết tự do, bao gồm thu nhập không ổn định và sự không chắc chắn về nghề nghiệp, nhưng cũng nhấn mạnh sự tự do và linh hoạt của công việc.</li>
+<li>ContextChat là một công cụ trò chuyện AI, hỗ trợ quản lý nhiều dự án và lựa chọn nhiều mô hình, nhằm mục đích nâng cao hiệu quả công việc thông qua khả năng xử lý ngữ cảnh mạnh mẽ.</li>
+</ol>
+<h2 id="root-for-your-friends">
+  Root for your friends
+  <a class="anchor" href="#root-for-your-friends">#</a>
+</h2>
+<p><a href="https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html">https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</a></p>]]></description></item><item><title>2025-05-24 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:37:48 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-24-hacker-news-top-stories">
+  2025-05-24 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-24-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Chính quyền Trump tạm dừng tư cách tuyển sinh sinh viên quốc tế của Đại học Harvard với lý do &ldquo;tính hợp pháp của yêu cầu ghi chép&rdquo;, gây ra tranh cãi về uy tín giáo dục và chính sách nhập cư của Hoa Kỳ.</li>
+<li>Microsoft ra mắt tiện ích mở rộng VS Code tích hợp chức năng quản lý cơ sở dữ liệu PostgreSQL, giúp nâng cao hiệu quả phát triển thông qua tự động hoàn thành thông minh và trực quan hóa lược đồ.</li>
+<li>John Carmack chia sẻ các hướng nghiên cứu kỹ thuật tại hội nghị Upper Bound 2025, nhấn mạnh việc học tập theo thời gian thực và đổi mới trong điều kiện nguồn lực hạn chế.</li>
+<li>Công cụ mã nguồn mở Defuddle thực hiện chuyển đổi HTML-to-Markdown bằng cách loại bỏ các phần tử dư thừa trên trang web, được định vị là một giải pháp thay thế cho Readability.</li>
+<li>Jessica Livingston, người sáng lập Y Combinator, khuyến khích sinh viên tốt nghiệp chủ động khám phá sở thích, thoát khỏi định nghĩa đơn nhất của xã hội về thành công.</li>
+<li>Dự án Flatpak đang đối mặt với những thách thức do sự đình trệ trong phát triển và thiếu bảo trì, cần tăng cường hỗ trợ tiêu chuẩn container và tối ưu hóa quyền sandbox.</li>
+<li>Lý thuyết thủy triều động sửa đổi mô hình thủy triều cân bằng của Newton, tiết lộ các yếu tố như đất liền, hiệu ứng Coriolis dẫn đến sự phức tạp của thủy triều, dự đoán hiện đại dựa trên phân tích tần số M2.</li>
+<li>Các công cụ mã hóa AI như GitHub Copilot bị chỉ trích là &ldquo;lập trình viên vẹt&rdquo;, sự phụ thuộc quá mức có thể dẫn đến suy giảm kỹ năng, cần kết hợp kinh nghiệm của con người để kiểm soát chất lượng.</li>
+<li>Tác giả chuyển sang chứng chỉ Let’s Encrypt do vấn đề với nhà cung cấp dịch vụ, hoàn thành triển khai giao thức ACME thông qua các công cụ tự động và tối ưu hóa quản lý SSL.</li>
+<li>Glitch thông báo ngừng dịch vụ lưu trữ web vào tháng 7 năm 2025, tập trung vào các tính năng cộng đồng, người dùng cần di chuyển dự án và tải xuống bản sao lưu mã.</li>
+</ol>
+<h2 id="trump-administration-halts-harvards-ability-to-enroll-international-students">
+  Trump administration halts Harvard’s ability to enroll international students
+  <a class="anchor" href="#trump-administration-halts-harvards-ability-to-enroll-international-students">#</a>
+</h2>
+<p><a href="https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html">https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html</a></p>]]></description></item><item><title>2025-05-23 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-23-20250523-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:36:20 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-23-20250523-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-23-hacker-news-top-stories">
+  2025-05-23 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-23-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Mô hình Claude 4 ra mắt, cung cấp khả năng mã hóa, suy luận và AI Agent mạnh mẽ hơn, đồng thời giới thiệu các công cụ tư duy mở rộng và cải thiện hiệu suất.</li>
+<li>Google công bố mô hình Gemini Diffusion, sử dụng phương pháp khuếch tán để tạo ngôn ngữ, nhanh hơn các mô hình tự hồi quy truyền thống.</li>
+<li>OpenAI mua lại công ty khởi nghiệp thiết bị AI io của Jony Ive với giá 6,5 tỷ đô la, đánh dấu sự gia nhập lĩnh vực phần cứng.</li>
+<li>Mozilla thông báo đóng cửa dịch vụ Pocket, người dùng có thể xuất dữ liệu trong thời gian quy định, lý do đóng cửa là sự thay đổi trong thói quen sử dụng Internet.</li>
+<li>Decibel tồn tại những vấn đề về định nghĩa hỗn loạn và sử dụng không hợp lý với tư cách là một đơn vị khoa học, cần xác định rõ mức tham chiếu để tránh hiểu lầm.</li>
+<li>Nghiên cứu chỉ ra rằng tầm quan trọng của bộ nhớ trong các thuật toán tính toán vượt quá thời gian, thách thức các giả định truyền thống về độ phức tạp thời gian và không gian.</li>
+<li>Một người vẽ bản đồ đã chia sẻ dự án cá nhân của mình về việc tạo bản đồ hành tinh cho &ldquo;Alpha Centauri&rdquo;, thể hiện phương pháp tạo bản đồ hư cấu.</li>
+<li>Bài viết chỉ ra rằng việc gọi hàm LLM không có khả năng mở rộng trong xử lý dữ liệu lớn, đồng thời đề xuất sử dụng điều phối mã để nâng cao hiệu quả.</li>
+<li>Đề xuất một phương pháp chỉnh sửa văn bản cộng tác mà không cần CRDT hoặc OT, giải quyết các vấn đề về lập chỉ mục thông qua ID duy nhất toàn cục và các thao tác sau khi chèn.</li>
+<li>Tác giả hồi tưởng lại kinh nghiệm tạo ra các mẫu fractal, đồng thời thảo luận về sự khác biệt và ứng dụng giữa phương pháp tạo của chúng và L-System.</li>
+</ol>
+<h2 id="claude-4">
+  Claude 4
+  <a class="anchor" href="#claude-4">#</a>
+</h2>
+<p><a href="https://www.anthropic.com/news/claude-4">https://www.anthropic.com/news/claude-4</a></p>]]></description></item><item><title>2025-05-22 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-22-20250522-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 10:05:47 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-22-20250522-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-22-hacker-news-top-stories">
+  2025-05-22 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-22-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Microsoft bị chỉ trích vì bắt buộc các nhà phát triển phải xem xét các PR chất lượng thấp do AI code assistant Copilot tạo ra.</li>
+<li>Google phát hành mô hình tạo video Veo 3, mô hình ảnh Imagen 4 và công cụ làm phim Flow, thúc đẩy sự đổi mới trong tạo phương tiện.</li>
+<li>Litestream nâng cấp hỗ trợ nhiều người ghi và khôi phục tại một thời điểm, tối ưu hóa sao lưu cơ sở dữ liệu SQLite và các tình huống multi-tenant.</li>
+<li>Google ra mắt mô hình AI ưu tiên thiết bị di động Gemma 3n, cho phép xử lý đa phương thức hiệu quả trên thiết bị.</li>
+<li>Signal mặc định chặn chụp ảnh màn hình thông qua tính năng &ldquo;Screen Security&rdquo;, ứng phó với rủi ro về quyền riêng tư của Microsoft Recall.</li>
+<li>Mistral AI mở mã nguồn mô hình Devstral, thể hiện hiệu suất vượt trội trong các bài kiểm tra điểm chuẩn mã, hỗ trợ xử lý mã nhạy cảm của doanh nghiệp.</li>
+<li>Dịch vụ đăng ký Google AI Ultra cung cấp các công cụ AI cao cấp và 30TB dung lượng lưu trữ, dành cho người dùng cao cấp với mức phí 249,99 đô la/tháng.</li>
+<li>Bộ chọn NSA biến âm thanh lưu lượng mạng, cung cấp một công cụ độc đáo cho chẩn đoán mạng và sáng tạo nghệ thuật.</li>
+<li>Thư viện ZLinq tối ưu hóa hiệu suất LINQ trên nền tảng .NET thông qua phân bổ bộ nhớ bằng không, hỗ trợ SIMD và gọi theo chuỗi.</li>
+<li>Animated Factorization trực quan hóa động việc phân tích thừa số số, hỗ trợ hiểu các khái niệm toán học và tối ưu hóa tương tác.</li>
+</ol>
+<h2 id="watching-ai-drive-microsoft-employees-insane">
+  Watching AI drive Microsoft employees insane
+  <a class="anchor" href="#watching-ai-drive-microsoft-employees-insane">#</a>
+</h2>
+<p><a href="https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/">https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/</a></p>]]></description></item><item><title>2025-05-21 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 10:04:27 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-21-hacker-news-top-stories">
+  2025-05-21 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-21-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Have I Been Pwned 2.0 ra mắt, bổ sung chức năng tìm kiếm rò rỉ email, bảng điều khiển người dùng, v.v., xóa tìm kiếm tên người dùng và số điện thoại.</li>
+<li>DDoSecrets công khai 410GB dữ liệu kết xuất heap, tiết lộ máy chủ của công ty TeleMessage của Israel tồn tại lỗ hổng mã hóa.</li>
+<li>Jules, tác nhân mã hóa không đồng bộ, hỗ trợ các tác vụ sửa lỗi mã, nâng cấp phiên bản, v.v., thông qua tích hợp GitHub và mô hình Gemini để tạo kế hoạch thực thi.</li>
+<li>Tác giả chia sẻ kinh nghiệm phát triển trò chơi không dùng engine thương mại, sử dụng C# và chuỗi công cụ tự phát triển để hiện thực hóa khả năng đa nền tảng và tải lại nóng.</li>
+<li>Claude Code SDK phát hành, cung cấp bộ công cụ phát triển công cụ lập trình AI, hỗ trợ tạo mã và quản lý hội thoại đa phương thức.</li>
+<li>Phần Lan lên kế hoạch điều chỉnh khổ đường sắt từ 1524 mm thành 1435 mm, nâng cao kết nối xuyên biên giới và khả năng cơ động quân sự.</li>
+<li>Tác giả của 《Dilbert》 Scott Adams tuyên bố ung thư tuyến tiền liệt đã di căn, dự kiến chỉ còn sống đến mùa hè năm 2024.</li>
+<li>Các nhà vật lý suy ngẫm về ứng dụng của AI trong nghiên cứu khoa học, chỉ ra rằng nó có hiệu quả hạn chế trong việc giải phương trình đạo hàm riêng và có sự cường điệu trong quảng cáo.</li>
+<li>Bài viết đề xuất bản chất của học sâu là ứng dụng tô pô học, thông qua mạng nơ-ron để thực hiện biến đổi tô pô dữ liệu trong không gian nhiều chiều.</li>
+<li>Bài toán toán học thảo luận về giải pháp tối ưu cho phương trình biểu tượng cảm xúc, chuyển đổi thành giải đường cong elliptic và hiển thị quy mô giải pháp tối thiểu.</li>
+</ol>
+<h2 id="have-i-been-pwned-20">
+  Have I Been Pwned 2.0
+  <a class="anchor" href="#have-i-been-pwned-20">#</a>
+</h2>
+<p><a href="https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/">https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/</a></p>]]></description></item><item><title>2025-05-20 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-20-20250520-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:34:52 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-20-20250520-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-20-hacker-news-top-stories">
+  2025-05-20 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-20-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Microsoft mở mã nguồn một phần các thành phần của Windows Subsystem for Linux (WSLG và nhân WSL2), nhằm mục đích tăng cường sự hợp tác cộng đồng và hội nhập hệ sinh thái.</li>
+<li>Việc xác định tùy chọn ngôn ngữ của người dùng thông qua địa chỉ IP có những thiếu sót, nên ưu tiên sử dụng tiêu đề Accept-Language của trình duyệt hoặc chuyển đổi thủ công.</li>
+<li>Chính phủ Pháp tuyên bố ủng hộ các nguyên tắc mã nguồn mở của Liên Hợp Quốc và thực hành quản trị số hóa thông qua nền tảng xã hội phi tập trung mã nguồn mở.</li>
+<li>Zod 4 được phát hành, hiệu suất được cải thiện đáng kể (phân tích cú pháp chuỗi nhanh hơn 14 lần), kích thước gói giảm một nửa và giới thiệu tối ưu hóa tree shaking.</li>
+<li>Thiết bị rèm tự động tự chế trị giá 30 đô la sử dụng in 3D và ESP8266 để đạt được khả năng điều khiển thông minh, chi phí thấp và hoạt động êm ái.</li>
+<li>GitHub Copilot coding agent mở bản xem trước, có thể tự động xử lý các tác vụ phát triển có độ phức tạp trung bình, dành cho người dùng Pro+ và doanh nghiệp.</li>
+<li>Ngân hàng Đầu tư Châu Âu có kế hoạch đầu tư 70 tỷ Euro trong 7 năm để phát triển AI và các công nghệ như máy bay không người lái, đẩy nhanh việc tài trợ cho các công ty khởi nghiệp.</li>
+<li>Bức ảnh chân dung Nadal thế kỷ 19 ghi lại thần thái của những người nổi tiếng trong văn hóa, thể hiện giá trị lịch sử của nhiếp ảnh như một sự kết hợp giữa khoa học và nghệ thuật.</li>
+<li>Nhà phát triển Naeem giới thiệu bộ sưu tập các dự án phụ từ năm 2009, bao gồm các lĩnh vực như trò chơi, thiết kế chủ đề, v.v., nhấn mạnh phát triển dựa trên sở thích.</li>
+<li>Công cụ trình duyệt Vaev được xây dựng từ đầu, hỗ trợ kết xuất HTML/CSS và xuất PDF, sử dụng giấy phép LGPL-3.0 mã nguồn mở.</li>
+</ol>
+<h2 id="the-windows-subsystem-for-linux-is-now-open-source">
+  The Windows Subsystem for Linux is now open source
+  <a class="anchor" href="#the-windows-subsystem-for-linux-is-now-open-source">#</a>
+</h2>
+<p><a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/">https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/</a></p>]]></description></item><item><title>2025-05-19 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-19-20250519-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:33:26 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-19-20250519-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-19-hacker-news-top-stories">
+  2025-05-19 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-19-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>FSRS thông qua học máy để điều chỉnh động khoảng thời gian ôn tập, giảm gánh nặng ghi nhớ cho người dùng và nâng cao hiệu quả.</li>
+<li>Mystical là ngôn ngữ lập trình đồ họa dựa trên PostScript, thông qua các ký hiệu trực quan để nâng cao khả năng đọc hiểu mã.</li>
+<li>AniSora là mô hình tạo video hoạt hình mã nguồn mở của Bilibili, hỗ trợ sáng tạo phong cách anime độ phân giải cao.</li>
+<li>Phân tích SBERT tiết lộ bản thảo Voynich có thể tồn tại cấu trúc ngôn ngữ được xây dựng, xác minh tiềm năng của công nghệ NLP.</li>
+<li>Tranh cãi về bức xạ Hawking bị chỉ ra là vi phạm định luật bảo toàn baryon, lý thuyết không-thời gian tĩnh hỗ trợ kết luận sao chết không có bức xạ.</li>
+<li>Tự xây dựng hệ thống quản lý kiến thức thông qua Directus và công cụ AI để thực hiện quản lý ghi chú an toàn trên nhiều thiết bị.</li>
+<li>Chuyên gia nhờ ưu thế kinh nghiệm có thể nhanh chóng nhận biết bản chất vấn đề, người mới dễ rơi vào thử và sai kém hiệu quả.</li>
+<li>Máy chủ MCP đối mặt với thách thức về an toàn và độ tin cậy, giải pháp phi tập trung có thể trở thành hướng đi tương lai.</li>
+<li>Plugin hardtime.nvim thông qua hạn chế thao tác lặp lại phím giúp người dùng nắm vững thao tác Vim hiệu quả.</li>
+<li>ROM tiếng Nhật của Macintosh Plus đã được khôi phục và tích hợp vào MAME, xác minh đặc tính tối ưu hóa bộ nhớ của nó.</li>
+</ol>
+<h2 id="spaced-repetition-systems-have-gotten-better">
+  Spaced repetition systems have gotten better
+  <a class="anchor" href="#spaced-repetition-systems-have-gotten-better">#</a>
+</h2>
+<p><a href="https://domenic.me/fsrs/">https://domenic.me/fsrs/</a></p>]]></description></item><item><title>2025-05-18 Top Stories</title><link>http://localhost:1313/docs/hackernews/2025-05-18-20250518-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:32:00 +0000</pubDate><author>The Fourth Bit (your.email@example.com)</author><guid>http://localhost:1313/docs/hackernews/2025-05-18-20250518-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-18-hacker-news-top-stories">
+  2025-05-18 Hacker News Top Stories
+  <a class="anchor" href="#2025-05-18-hacker-news-top-stories">#</a>
+</h1>
+<ol>
+<li>Dustin Curtis cho rằng việc quá phụ thuộc vào nội dung do AI tạo ra sẽ dẫn đến sự suy giảm khả năng sáng tạo của con người, chủ trương giữ lại giá trị của tư duy thủ công.</li>
+<li>Google ra mắt công nghệ chuyển đổi văn bản thành SQL dựa trên Gemini, nâng cao khả năng tương tác dữ liệu của những người không chuyên về kỹ thuật nhưng tồn tại những thách thức về quyền riêng tư và tính chính xác.</li>
+<li>Nguyên tắc tối ưu hóa lập trình đề xuất chuyển điều kiện lên trên, chuyển các thao tác lặp xuống dưới, để đơn giản hóa cấu trúc mã và nâng cao hiệu suất.</li>
+<li>JavaScript bổ sung cú pháp using/await using để thực hiện quản lý tài nguyên rõ ràng, nhưng có thể làm tăng độ phức tạp của mã.</li>
+<li>Moody&rsquo;s hạ xếp hạng tín dụng của Mỹ xuống Aa1 do vấn đề nợ của nước này, dự kiến thâm hụt liên bang năm 2035 sẽ chiếm 9% GDP.</li>
+<li>KVSplit giảm 72% mức sử dụng bộ nhớ thông qua bộ nhớ cache KV định lượng khác biệt, một số cấu hình có thể cải thiện tốc độ suy luận LLM.</li>
+<li>Dự luật giám sát mới của Thụy Sĩ bị các công ty như Proton phản đối, có thể buộc các công ty bảo mật quyền riêng tư phải di dời để tránh yêu cầu lưu giữ dữ liệu.</li>
+<li>ClojureScript 1.12.42 nâng cấp Closure Compiler và tiếp quản việc bảo trì nó, tăng cường giải pháp JavaScript đa môi trường.</li>
+<li>XTool, một sự thay thế Xcode đa nền tảng, gây ra tranh cãi, cần phải dựa vào chuỗi công cụ Xcode và có rủi ro pháp lý tiềm ẩn.</li>
+<li>Dự án Wow@Home phát hiện tín hiệu ngoài hành tinh thông qua mạng lưới kính viễn vọng vô tuyến chi phí thấp, tiếp nối truyền thống nghiên cứu tín hiệu Wow.</li>
+</ol>
+<h2 id="thoughts-on-thinking">
+  Thoughts on thinking
+  <a class="anchor" href="#thoughts-on-thinking">#</a>
+</h2>
+<p><a href="https://dcurt.is/thinking">https://dcurt.is/thinking</a></p>]]></description></item></channel></rss>
