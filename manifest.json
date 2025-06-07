@@ -1,14 +1,14 @@
 {
   "name": "The Fourth Bit",
   "short_name": "The Fourth Bit",
-  "start_url": "/0xhanh/techbit/",
-  "scope": "/0xhanh/techbit/",
+  "start_url": "/techbit/",
+  "scope": "/techbit/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/0xhanh/techbit/favicon.svg",
+      "src": "/techbit/favicon.svg",
       "sizes": "512x512"
     }
   ]
