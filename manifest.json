@@ -1,14 +1,14 @@
 {
-  "name": "TheFogBit",
-  "short_name": "TheFogBit",
-  "start_url": "/techbit/",
-  "scope": "/techbit/",
+  "name": "The4thBit",
+  "short_name": "The4thBit",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/techbit/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
