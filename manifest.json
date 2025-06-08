@@ -1,6 +1,6 @@
 {
-  "name": "TheFourthBit",
-  "short_name": "TheFourthBit",
+  "name": "TheFogBit",
+  "short_name": "TheFogBit",
   "start_url": "/techbit/",
   "scope": "/techbit/",
   "display": "standalone",
