@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>en-us</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-10 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-06-10-20250610-hacker-news-top-stories/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-06-10-20250610-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-10-top-câu-chuyện-trên-hacker-news">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-11 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250611-hacker-news-top-stories/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250611-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="các-câu-chuyện-hàng-đầu-trên-hacker-news-ngày-11-06-2025">
+  Các Câu Chuyện Hàng Đầu trên Hacker News ngày 11-06-2025
+  <a class="anchor" href="#c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-h%c3%a0ng-%c4%91%e1%ba%a7u-tr%c3%aan-hacker-news-ng%c3%a0y-11-06-2025">#</a>
+</h1>
+<ol>
+<li>Apple đã công bố các công nghệ mới bao gồm Foundation Models, framework container hóa và thiết kế Liquid Glass, nhằm mục đích nâng cao công cụ dành cho nhà phát triển và trải nghiệm người dùng.</li>
+<li>Apple đã giới thiệu một gói Swift để chạy các container Linux trên macOS, hỗ trợ hình ảnh OCI và công nghệ máy ảo nhẹ.</li>
+<li>Apple đã giới thiệu ngôn ngữ thiết kế &ldquo;Liquid Glass&rdquo; đa nền tảng, nhằm mục đích nâng cao trải nghiệm người dùng thông qua các hiệu ứng hình ảnh động và sống động.</li>
+<li>Mistral AI đã phát hành mô hình suy luận đầu tiên Magistral, hỗ trợ suy luận đa ngôn ngữ và theo lĩnh vực cụ thể, cung cấp các phiên bản nguồn mở và doanh nghiệp.</li>
+<li>Thủy quân lục chiến Hoa Kỳ đã được điều động đến Los Angeles để đối phó với các cuộc biểu tình, gây ra tranh cãi về nhiệm vụ và leo thang.</li>
+<li>Sly Stone, thủ lĩnh của ban nhạc funk Sly and the Family Stone, đã qua đời ở tuổi 82, để lại ảnh hưởng sâu sắc đến làng nhạc.</li>
+<li>Meta đã lách các hạn chế của Android để theo dõi người dùng thông qua công nghệ &ldquo;theo dõi máy chủ cục bộ&rdquo;, có thể phải đối mặt với các khoản tiền phạt lớn.</li>
+<li>Những người thành công đạt được sự đổi mới và ra quyết định hiệu quả bằng cách đặt ra các giới hạn thay vì theo đuổi mục tiêu.</li>
+<li>Munal OS là một hệ điều hành thử nghiệm đồ họa, sử dụng hộp cát WASM và được viết bằng Rust, hỗ trợ mạng và sandbox ứng dụng.</li>
+<li>Apple đã giới thiệu Linux Container Runtime, cho phép chạy các container Linux tương thích OCI trên macOS, dựa trên công nghệ máy ảo nhẹ.</li>
+</ol>
+<hr>
+<h2 id="apple-công-bố-các-framework-foundation-models-và-containerization-vv">
+  Apple công bố các framework Foundation Models và Containerization, v.v.
+  <a class="anchor" href="#apple-c%c3%b4ng-b%e1%bb%91-c%c3%a1c-framework-foundation-models-v%c3%a0-containerization-vv">#</a>
+</h2>
+<blockquote>
+<p>Apple announces Foundation Models and Containerization frameworks, etc</p>]]></description></item><item><title>2025-06-10 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-06-10-20250610-hacker-news-top-stories/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-06-10-20250610-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-10-top-câu-chuyện-trên-hacker-news">
   2025-06-10 Top Câu Chuyện trên Hacker News
   <a class="anchor" href="#2025-06-10-top-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news">#</a>
 </h1>
@@ -384,24 +406,4 @@
   Watching AI drive Microsoft employees insane
   <a class="anchor" href="#watching-ai-drive-microsoft-employees-insane">#</a>
 </h2>
-<p><a href="https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/">https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/</a></p>]]></description></item><item><title>2025-05-21 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 10:04:27 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-05-21-20250521-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-21-hacker-news-top-stories">
-  2025-05-21 Hacker News Top Stories
-  <a class="anchor" href="#2025-05-21-hacker-news-top-stories">#</a>
-</h1>
-<ol>
-<li>Have I Been Pwned 2.0 ra mắt, bổ sung chức năng tìm kiếm rò rỉ email, bảng điều khiển người dùng, v.v., xóa tìm kiếm tên người dùng và số điện thoại.</li>
-<li>DDoSecrets công khai 410GB dữ liệu kết xuất heap, tiết lộ máy chủ của công ty TeleMessage của Israel tồn tại lỗ hổng mã hóa.</li>
-<li>Jules, tác nhân mã hóa không đồng bộ, hỗ trợ các tác vụ sửa lỗi mã, nâng cấp phiên bản, v.v., thông qua tích hợp GitHub và mô hình Gemini để tạo kế hoạch thực thi.</li>
-<li>Tác giả chia sẻ kinh nghiệm phát triển trò chơi không dùng engine thương mại, sử dụng C# và chuỗi công cụ tự phát triển để hiện thực hóa khả năng đa nền tảng và tải lại nóng.</li>
-<li>Claude Code SDK phát hành, cung cấp bộ công cụ phát triển công cụ lập trình AI, hỗ trợ tạo mã và quản lý hội thoại đa phương thức.</li>
-<li>Phần Lan lên kế hoạch điều chỉnh khổ đường sắt từ 1524 mm thành 1435 mm, nâng cao kết nối xuyên biên giới và khả năng cơ động quân sự.</li>
-<li>Tác giả của 《Dilbert》 Scott Adams tuyên bố ung thư tuyến tiền liệt đã di căn, dự kiến chỉ còn sống đến mùa hè năm 2024.</li>
-<li>Các nhà vật lý suy ngẫm về ứng dụng của AI trong nghiên cứu khoa học, chỉ ra rằng nó có hiệu quả hạn chế trong việc giải phương trình đạo hàm riêng và có sự cường điệu trong quảng cáo.</li>
-<li>Bài viết đề xuất bản chất của học sâu là ứng dụng tô pô học, thông qua mạng nơ-ron để thực hiện biến đổi tô pô dữ liệu trong không gian nhiều chiều.</li>
-<li>Bài toán toán học thảo luận về giải pháp tối ưu cho phương trình biểu tượng cảm xúc, chuyển đổi thành giải đường cong elliptic và hiển thị quy mô giải pháp tối thiểu.</li>
-</ol>
-<h2 id="have-i-been-pwned-20">
-  Have I Been Pwned 2.0
-  <a class="anchor" href="#have-i-been-pwned-20">#</a>
-</h2>
-<p><a href="https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/">https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/</a></p>]]></description></item></channel></rss>
+<p><a href="https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/">https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/</a></p>]]></description></item></channel></rss>
