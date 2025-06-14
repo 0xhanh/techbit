@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-13 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250613-hacker-news-top-stories/</link><pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250613-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-2025-06-13">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-14 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250614-hacker-news-top-stories/</link><pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250614-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="các-câu-chuyện-hàng-đầu-trên-hacker-news-ngày-14-06-2025">
+  Các Câu Chuyện Hàng Đầu trên Hacker News ngày 14-06-2025
+  <a class="anchor" href="#c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-h%c3%a0ng-%c4%91%e1%ba%a7u-tr%c3%aan-hacker-news-ng%c3%a0y-14-06-2025">#</a>
+</h1>
+<ol>
+<li>GCP đã gặp sự cố kéo dài 7 giờ 27 phút vào ngày 13 tháng 6 năm 2025, ảnh hưởng đến 52 sản phẩm và 58 khu vực, có thể do lỗi của dịch vụ nội bộ Chemist gây ra và lan sang các dịch vụ bên thứ ba phụ thuộc vào GCP.</li>
+<li>Việc xác thực lại thường xuyên không cải thiện tính bảo mật, có thể dẫn đến gián đoạn quy trình làm việc và sự mệt mỏi khi xác thực đa yếu tố, bảo mật nên được thực hiện thông qua quản lý quyền truy cập hiệu quả và các chính sách phản ứng nhanh.</li>
+<li>Bộ cấp phát bộ nhớ Jemalloc đã trải qua ba giai đoạn phát triển chính kể từ khi ra đời vào năm 2004, giải quyết thành công vấn đề phân mảnh và đạt được những thành tựu đáng kể về hiệu suất, nhưng sự phát triển đã chậm lại trong thời kỳ Meta.</li>
+<li>Nếu Mặt trăng chỉ có một pixel, mô hình Hệ Mặt Trời thể hiện sự rộng lớn của vũ trụ, tốc độ ánh sáng có vẻ chậm trên quy mô vũ trụ, nhận thức của con người về vũ trụ bị giới hạn bởi quy mô và sự trao đổi chất của chính họ.</li>
+<li>Bằng cách raster hóa trực tiếp các đường cong glyph, việc hiển thị văn bản rõ ràng theo thời gian thực trên GPU đã được thực hiện, giải quyết các vấn đề về khử răng cưa sub-pixel và hiển thị chất lượng cao.</li>
+<li>Meta đã đầu tư 14,3 tỷ đô la để khởi động phòng thí nghiệm siêu trí tuệ, tăng cường sức mạnh của mình trong lĩnh vực trí tuệ nhân tạo, cho thấy bố cục chiến lược và quyết tâm cạnh tranh của mình trong lĩnh vực AI.</li>
+<li>Cloudflare đã gặp sự cố dịch vụ do sự cố của dịch vụ Workers KV quan trọng, có thể liên quan đến lỗi của dịch vụ bên thứ ba, sự cố đã được khôi phục nhưng vẫn đang theo dõi tính ổn định của nền tảng.</li>
+<li>OxCaml là một phần mở rộng của ngôn ngữ lập trình OCaml, tập trung vào tối ưu hóa hiệu suất, đặc biệt là về đồng thời và quản lý bộ nhớ, phù hợp cho các tình huống ứng dụng hiệu suất cao, nhưng vẫn đang trong giai đoạn thử nghiệm.</li>
+<li>Một số đế chế công nghệ quảng cáo giả mạo sử dụng CAPTCHA giả mạo và thông báo đẩy để truyền bá thông tin sai lệch, vượt qua kiểm duyệt nội dung của các nền tảng truyền thông xã hội, gây ra mối đe dọa an ninh mạng.</li>
+<li>Một ứng dụng khách BitTorrent được viết từ đầu bằng ngôn ngữ Go đã triển khai các chức năng cốt lõi, bao gồm phân tích tệp torrent và giao tiếp ngang hàng, dự kiến sẽ thêm hỗ trợ liên kết từ tính và DHT.</li>
+</ol>
+<hr>
+<h2 id="sự-cố-ngừng-hoạt-động-gcp">
+  Sự cố ngừng hoạt động GCP
+  <a class="anchor" href="#s%e1%bb%b1-c%e1%bb%91-ng%e1%bb%abng-ho%e1%ba%a1t-%c4%91%e1%bb%99ng-gcp">#</a>
+</h2>
+<blockquote>
+<p>GCP Outage</p>]]></description></item><item><title>2025-06-13 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250613-hacker-news-top-stories/</link><pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250613-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-2025-06-13">
   Top các câu chuyện trên Hacker News ngày 2025-06-13
   <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-2025-06-13">#</a>
 </h1>
@@ -390,24 +412,4 @@
   Root for your friends
   <a class="anchor" href="#root-for-your-friends">#</a>
 </h2>
-<p><a href="https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html">https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</a></p>]]></description></item><item><title>2025-05-24 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:37:48 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-05-24-20250524-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-24-hacker-news-top-stories">
-  2025-05-24 Hacker News Top Stories
-  <a class="anchor" href="#2025-05-24-hacker-news-top-stories">#</a>
-</h1>
-<ol>
-<li>Chính quyền Trump tạm dừng tư cách tuyển sinh sinh viên quốc tế của Đại học Harvard với lý do &ldquo;tính hợp pháp của yêu cầu ghi chép&rdquo;, gây ra tranh cãi về uy tín giáo dục và chính sách nhập cư của Hoa Kỳ.</li>
-<li>Microsoft ra mắt tiện ích mở rộng VS Code tích hợp chức năng quản lý cơ sở dữ liệu PostgreSQL, giúp nâng cao hiệu quả phát triển thông qua tự động hoàn thành thông minh và trực quan hóa lược đồ.</li>
-<li>John Carmack chia sẻ các hướng nghiên cứu kỹ thuật tại hội nghị Upper Bound 2025, nhấn mạnh việc học tập theo thời gian thực và đổi mới trong điều kiện nguồn lực hạn chế.</li>
-<li>Công cụ mã nguồn mở Defuddle thực hiện chuyển đổi HTML-to-Markdown bằng cách loại bỏ các phần tử dư thừa trên trang web, được định vị là một giải pháp thay thế cho Readability.</li>
-<li>Jessica Livingston, người sáng lập Y Combinator, khuyến khích sinh viên tốt nghiệp chủ động khám phá sở thích, thoát khỏi định nghĩa đơn nhất của xã hội về thành công.</li>
-<li>Dự án Flatpak đang đối mặt với những thách thức do sự đình trệ trong phát triển và thiếu bảo trì, cần tăng cường hỗ trợ tiêu chuẩn container và tối ưu hóa quyền sandbox.</li>
-<li>Lý thuyết thủy triều động sửa đổi mô hình thủy triều cân bằng của Newton, tiết lộ các yếu tố như đất liền, hiệu ứng Coriolis dẫn đến sự phức tạp của thủy triều, dự đoán hiện đại dựa trên phân tích tần số M2.</li>
-<li>Các công cụ mã hóa AI như GitHub Copilot bị chỉ trích là &ldquo;lập trình viên vẹt&rdquo;, sự phụ thuộc quá mức có thể dẫn đến suy giảm kỹ năng, cần kết hợp kinh nghiệm của con người để kiểm soát chất lượng.</li>
-<li>Tác giả chuyển sang chứng chỉ Let’s Encrypt do vấn đề với nhà cung cấp dịch vụ, hoàn thành triển khai giao thức ACME thông qua các công cụ tự động và tối ưu hóa quản lý SSL.</li>
-<li>Glitch thông báo ngừng dịch vụ lưu trữ web vào tháng 7 năm 2025, tập trung vào các tính năng cộng đồng, người dùng cần di chuyển dự án và tải xuống bản sao lưu mã.</li>
-</ol>
-<h2 id="trump-administration-halts-harvards-ability-to-enroll-international-students">
-  Trump administration halts Harvard’s ability to enroll international students
-  <a class="anchor" href="#trump-administration-halts-harvards-ability-to-enroll-international-students">#</a>
-</h2>
-<p><a href="https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html">https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html</a></p>]]></description></item></channel></rss>
+<p><a href="https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html">https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</a></p>]]></description></item></channel></rss>
