@@ -1,6 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-14 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250614-hacker-news-top-stories/</link><pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250614-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="các-câu-chuyện-hàng-đầu-trên-hacker-news-ngày-14-06-2025">
-  Các Câu Chuyện Hàng Đầu trên Hacker News ngày 14-06-2025
-  <a class="anchor" href="#c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-h%c3%a0ng-%c4%91%e1%ba%a7u-tr%c3%aan-hacker-news-ng%c3%a0y-14-06-2025">#</a>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-15 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250615-hacker-news-top-stories/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250615-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-15-06-2025">
+  Top các câu chuyện trên Hacker News ngày 15-06-2025
+  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-15-06-2025">#</a>
+</h1>
+<ol>
+<li>HP mua lại Palm và những bài học thất bại: HP đã không thể tích hợp hiệu quả công nghệ WebOS của Palm do sự thay đổi CEO và điều chỉnh chiến lược, dẫn đến thất bại của TouchPad.</li>
+<li>Thiết kế kính lỏng của Apple: Thiết kế giao diện kính lỏng của Apple không chỉ là một bản cập nhật về mặt thị giác mà còn đặt nền móng cho giao diện AR trong tương lai.</li>
+<li>Lạc nội mạc tử cung: Lạc nội mạc tử cung là một bệnh phức tạp với nguyên nhân chưa rõ ràng và thiếu các phương pháp chữa trị hiệu quả, cần nhiều nghiên cứu và quan tâm hơn.</li>
+<li>Hiện thực hóa Stable Diffusion 3.5 bằng PyTorch thuần túy: miniDiffusion là một triển khai PyTorch thuần túy để phục vụ mục đích giáo dục và thử nghiệm, với code ngắn gọn và cấu trúc rõ ràng.</li>
+<li>Mô hình ngôn ngữ thích ứng: Khung SEAL cải thiện khả năng tích hợp kiến thức và khái quát hóa ít mẫu của mô hình ngôn ngữ thông qua tự tinh chỉnh và tối ưu hóa học tăng cường.</li>
+<li>Thuật toán tìm kiếm chuỗi con thân thiện với SIMD: Bài viết thảo luận về các thuật toán tìm kiếm chuỗi được tối ưu hóa bằng SIMD, cũng như việc triển khai và so sánh hiệu năng của chúng trên các tập lệnh khác nhau.</li>
+<li>Hiện thực hóa lập trình logic: Bài viết giới thiệu các đặc điểm và cách hiện thực của Prolog và Datalog, đồng thời thể hiện tiềm năng của lập trình logic trong truy vấn cơ sở dữ liệu.</li>
+<li>Khủng hoảng sa thải trong ngành công nghệ: Việc sa thải chủ yếu do chi phí vốn tăng và thay đổi chính sách thuế gây ra, một số doanh nghiệp ứng phó bằng cách chuyển hoạt động R&amp;D ra nước ngoài.</li>
+<li>Gián đoạn dịch vụ Google Cloud: Gián đoạn dịch vụ bắt nguồn từ việc thiếu xử lý lỗi trong quá trình thay đổi code, cho thấy những thiếu sót trong quy trình kiểm thử và triển khai.</li>
+<li>Tiến bộ trong quy hoạch tuyến tính số nguyên: Quy hoạch tuyến tính số nguyên hỗn hợp đã đạt được những tiến bộ đáng kể trong các ứng dụng thực tế, nhưng vẫn phải đối mặt với những thách thức và nghiên cứu vẫn đang diễn ra tích cực.</li>
+</ol>
+<hr>
+<h2 id="tôi-đã-thuyết-phục-hội-đồng-quản-trị-của-hp-mua-palm-và-chứng-kiến-họ-giết-chết-nó">
+  Tôi đã thuyết phục hội đồng quản trị của HP mua Palm và chứng kiến họ giết chết nó
+  <a class="anchor" href="#t%c3%b4i-%c4%91%c3%a3-thuy%e1%ba%bft-ph%e1%bb%a5c-h%e1%bb%99i-%c4%91%e1%bb%93ng-qu%e1%ba%a3n-tr%e1%bb%8b-c%e1%bb%a7a-hp-mua-palm-v%c3%a0-ch%e1%bb%a9ng-ki%e1%ba%bfn-h%e1%bb%8d-gi%e1%ba%bft-ch%e1%ba%bft-n%c3%b3">#</a>
+</h2>
+<blockquote>
+<p>I convinced HP’s board to buy Palm and watched them kill it</p>]]></description></item><item><title>2025-06-14 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250614-hacker-news-top-stories/</link><pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250614-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-14-06-2025">
+  Top các câu chuyện trên Hacker News ngày 14-06-2025
+  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-14-06-2025">#</a>
 </h1>
 <ol>
 <li>GCP đã gặp sự cố kéo dài 7 giờ 27 phút vào ngày 13 tháng 6 năm 2025, ảnh hưởng đến 52 sản phẩm và 58 khu vực, có thể do lỗi của dịch vụ nội bộ Chemist gây ra và lan sang các dịch vụ bên thứ ba phụ thuộc vào GCP.</li>
@@ -392,24 +414,4 @@
   Reinvent the Wheel
   <a class="anchor" href="#reinvent-the-wheel">#</a>
 </h2>
-<p><a href="https://endler.dev/2025/reinvent-the-wheel/">https://endler.dev/2025/reinvent-the-wheel/</a></p>]]></description></item><item><title>2025-05-25 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:39:14 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-05-25-20250525-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-25-hacker-news-top-stories">
-  2025-05-25 Hacker News Top Stories
-  <a class="anchor" href="#2025-05-25-hacker-news-top-stories">#</a>
-</h1>
-<ol>
-<li>Tác giả khám phá tầm quan trọng của việc cảm thấy vui mừng cho bạn bè, đưa ra khái niệm &ldquo;bánh đà bạn bè&rdquo;, đồng thời đưa ra các lời khuyên để trở thành một người bạn tốt, nhấn mạnh việc hỗ trợ bạn bè có thể làm cho cuộc sống hạnh phúc hơn.</li>
-<li>Tác giả sử dụng mô hình o3 của OpenAI để phát hiện ra một lỗ hổng zero-day từ xa trong triển khai SMB của kernel Linux, cho thấy vai trò hỗ trợ của LLM trong nghiên cứu lỗ hổng.</li>
-<li>Hiệu ứng đại số là một tính năng của ngôn ngữ lập trình, cho phép định nghĩa và xử lý các hiệu ứng khác nhau, có ưu điểm về cú pháp, tính trừu tượng và khả năng kết hợp, phù hợp với các tình huống như dependency injection và xử lý lỗi.</li>
-<li>Một trình điều khiển kernel Linux chuyển đổi bộ quay số điện thoại xoay thành thiết bị đầu vào evdev, dự án đã gây ra cuộc thảo luận trên Hacker News về sự đổi mới của các thiết bị cổ điển.</li>
-<li>Học sinh trung học Chloe Lee đã cải tiến cấu trúc phân tử của acetaminophen, giảm độc tính cho gan và tăng cường hiệu quả, mang lại tiềm năng phát triển các loại thuốc giảm đau an toàn hơn.</li>
-<li>Các công ty nhỏ nên tập trung vào hình ảnh thương hiệu chân thực, nhân văn, kết nối với khách hàng, thay vì bắt chước các công ty lớn, nhấn mạnh tầm quan trọng của những người chấp nhận sớm.</li>
-<li>hcker.news là một giao diện người dùng Hacker News dựa trên dòng thời gian, cung cấp nhiều cài đặt tùy chỉnh và tùy chọn lọc, nhằm mục đích nâng cao trải nghiệm người dùng.</li>
-<li>Raspberry Pi 2 có thể tắt khi sử dụng đèn flash xenon do vấn đề nhạy cảm với ánh sáng của chip U16, người dùng cộng đồng đã giải quyết vấn đề bằng cách che phủ chip.</li>
-<li>Bài viết khám phá thực tế công việc của người viết tự do, bao gồm thu nhập không ổn định và sự không chắc chắn về nghề nghiệp, nhưng cũng nhấn mạnh sự tự do và linh hoạt của công việc.</li>
-<li>ContextChat là một công cụ trò chuyện AI, hỗ trợ quản lý nhiều dự án và lựa chọn nhiều mô hình, nhằm mục đích nâng cao hiệu quả công việc thông qua khả năng xử lý ngữ cảnh mạnh mẽ.</li>
-</ol>
-<h2 id="root-for-your-friends">
-  Root for your friends
-  <a class="anchor" href="#root-for-your-friends">#</a>
-</h2>
-<p><a href="https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html">https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</a></p>]]></description></item></channel></rss>
+<p><a href="https://endler.dev/2025/reinvent-the-wheel/">https://endler.dev/2025/reinvent-the-wheel/</a></p>]]></description></item></channel></rss>
