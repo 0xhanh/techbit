@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-15 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250615-hacker-news-top-stories/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250615-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-15-06-2025">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-16 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250616-hacker-news-top-stories/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250616-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-16-06-2025">
+  Top các câu chuyện trên Hacker News ngày 16-06-2025
+  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-16-06-2025">#</a>
+</h1>
+<ol>
+<li>Gary Marcus thảo luận về bài báo của Apple về những hạn chế trong khả năng suy luận của các mô hình suy luận lớn và bảy phản bác không đầy đủ.</li>
+<li>Giới thiệu chi tiết cách sửa đổi thiết bị đầu cuối Starlink Mini, loại bỏ bảng bộ định tuyến WiFi tích hợp và thay thế bằng kết nối Ethernet.</li>
+<li>Tác giả đã xây dựng Datalog tương tác trong Rust và chia sẻ kinh nghiệm và thách thức triển khai tại hội nghị Minnowbrook.</li>
+<li>Thảo luận về phương pháp tính điện trở hiệu dụng giữa hai nút bất kỳ trong mạng lưới điện trở vô hạn và các ứng dụng vật lý của nó.</li>
+<li>Phân tích những hạn chế về khả năng mở rộng của thuật toán Q-learning và thảo luận về các giải pháp khả thi.</li>
+<li>Một nhà báo bị từ chối nhập cảnh vào Hoa Kỳ vì đưa tin về một sự kiện, phản ánh sự phá hoại quyền tự do ngôn luận của công nghệ giám sát Palantir của Hoa Kỳ.</li>
+<li>Hướng dẫn trình bày cách sử dụng Raspberry Pi để sửa đổi EDID của phích cắm giả HDMI để đánh lừa thiết bị nhận dạng.</li>
+<li>Thảo luận về sự quyến rũ độc đáo của ngôn ngữ lập trình Lisp và tầm quan trọng của nó trong việc thể hiện sự sáng tạo trong lập trình.</li>
+<li>Nghiên cứu phát hiện ra rằng hệ vi sinh vật đường ruột của bệnh nhân mắc chứng rối loạn lo âu xã hội có thể làm tăng nỗi sợ xã hội ở chuột, gợi ý vai trò nhân quả của nó.</li>
+</ol>
+<hr>
+<h2 id="bảy-phản-hồi-cho-bài-viết-lý-luận-của-apple-lan-truyền-và-lý-do-chúng-không-đạt-yêu-cầu">
+  Bảy phản hồi cho bài viết lý luận của Apple lan truyền và lý do chúng không đạt yêu cầu
+  <a class="anchor" href="#b%e1%ba%a3y-ph%e1%ba%a3n-h%e1%bb%93i-cho-b%c3%a0i-vi%e1%ba%bft-l%c3%bd-lu%e1%ba%adn-c%e1%bb%a7a-apple-lan-truy%e1%bb%81n-v%c3%a0-l%c3%bd-do-ch%c3%bang-kh%c3%b4ng-%c4%91%e1%ba%a1t-y%c3%aau-c%e1%ba%a7u">#</a>
+</h2>
+<blockquote>
+<p>Seven replies to the viral Apple reasoning paper and why they fall short</p>]]></description></item><item><title>2025-06-15 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250615-hacker-news-top-stories/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250615-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-15-06-2025">
   Top các câu chuyện trên Hacker News ngày 15-06-2025
   <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-15-06-2025">#</a>
 </h1>
@@ -394,24 +415,4 @@
   German court sends VW execs to prison over Dieselgate scandal
   <a class="anchor" href="#german-court-sends-vw-execs-to-prison-over-dieselgate-scandal">#</a>
 </h2>
-<p><a href="https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/">https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/</a></p>]]></description></item><item><title>2025-05-26 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:40:42 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-05-26-20250526-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-26-hacker-news-top-stories">
-  2025-05-26 Hacker News Top Stories
-  <a class="anchor" href="#2025-05-26-hacker-news-top-stories">#</a>
-</h1>
-<ol>
-<li>Tái phát minh bánh xe giúp học hỏi và hiểu các nguyên lý cơ bản, có thể mang lại những khám phá và đổi mới.</li>
-<li>Thẻ hệ thống của Claude 4 trình bày chi tiết dữ liệu huấn luyện, chức năng và các rủi ro an toàn tiềm ẩn của mô hình.</li>
-<li>Hội nghị khoa học Hoa Kỳ chuyển đến các quốc gia khác do chính sách nhập cư, có thể ảnh hưởng đến giao lưu quốc tế và uy tín.</li>
-<li>Các trò chơi cũ tồn tại lâu dài nhờ khả năng tương thích thiết bị và hỗ trợ cộng đồng, trong khi các trò chơi mới nhanh chóng biến mất do chiến lược kinh doanh.</li>
-<li>Tachy0n là một lỗ hổng 0day cho iOS, bắt nguồn từ việc Apple không kiểm tra hồi quy đầy đủ các vấn đề đã biết.</li>
-<li>Đan Mạch tăng tuổi nghỉ hưu lên 70 để đảm bảo tính bền vững của hệ thống lương hưu, nhưng gây ra sự phản đối của công chúng.</li>
-<li>Lottie là một định dạng hoạt hình đồ họa vector mã nguồn mở, được sử dụng rộng rãi trên nhiều nền tảng, nhưng có vấn đề về hiệu suất và kích thước tệp.</li>
-<li>Một lập trình viên đã giải quyết bài toán Boggle 50 năm bằng phương pháp nhánh và cận, tìm ra bàn cờ có điểm số cao nhất.</li>
-<li>Công việc của các lập trình viên Amazon trở nên máy móc hơn do việc sử dụng các công cụ AI, có thể ảnh hưởng đến chất lượng mã và phát triển kỹ năng.</li>
-<li>Expressive Animator là một phần mềm hoạt hình SVG, hỗ trợ xuất nhiều định dạng, nhưng khái niệm &ldquo;giấy phép trọn đời&rdquo; của nó gây tranh cãi.</li>
-</ol>
-<h2 id="reinvent-the-wheel">
-  Reinvent the Wheel
-  <a class="anchor" href="#reinvent-the-wheel">#</a>
-</h2>
-<p><a href="https://endler.dev/2025/reinvent-the-wheel/">https://endler.dev/2025/reinvent-the-wheel/</a></p>]]></description></item></channel></rss>
+<p><a href="https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/">https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/</a></p>]]></description></item></channel></rss>
