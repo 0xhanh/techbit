@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-16 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250616-hacker-news-top-stories/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250616-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-16-06-2025">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-17 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250617-hacker-news-top-stories/</link><pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250617-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-17-06-2025">
+  Top các câu chuyện trên Hacker News ngày 17-06-2025
+  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-17-06-2025">#</a>
+</h1>
+<ol>
+<li>Một người đàn ông vào tù vì tội phạm ma túy đã học lập trình thông qua một dự án trong tù và nhận được vị trí kỹ sư phần mềm tại Turso thông qua Project Limbo, cho thấy khả năng phục hồi và việc làm của tội phạm.</li>
+<li>Bow Shock Systems Consulting đề xuất thành lập một câu lạc bộ phục hồi Internet, sử dụng radio LoRa và phần mềm Meshtastic để thực hiện liên lạc giữa các cộng đồng trong trường hợp mất kết nối Internet, nhằm giải quyết vấn đề gián đoạn Internet.</li>
+<li>Các API công khai của Android ẩn chứa nhiều phương thức và hằng số hài hước, chẳng hạn như isUserAMonkey() và isUserAGoat(), thể hiện sự hài hước của các nhà phát triển trong công việc nghiêm túc.</li>
+<li>Nanonets-OCR-s là một mô hình OCR tiên tiến, có thể chuyển đổi tài liệu thành Markdown có cấu trúc, hỗ trợ nhận dạng bảng, công thức và hình ảnh, nhưng có thể tồn tại vấn đề &ldquo;ảo giác&rdquo;.</li>
+<li>Nghiên cứu chỉ ra rằng việc sử dụng các mô hình ngôn ngữ lớn để hỗ trợ viết có thể dẫn đến gánh nặng nhận thức, làm suy yếu khả năng diễn đạt và hiểu sâu sắc, ảnh hưởng đến giáo dục và hiệu quả học tập.</li>
+<li>David Attenborough ở tuổi 99 đã hồi tưởng lại tình yêu của mình đối với đại dương và lạc quan về sự phục hồi của đại dương trong tương lai, nhấn mạnh tiềm năng của con người trong việc giải quyết các vấn đề về đại dương.</li>
+<li>Một lý thuyết mới cho rằng trọng lực có thể là biểu hiện của sự gia tăng entropy, cho rằng sự rung động và trộn lẫn ngẫu nhiên của các hạt dẫn đến hiện tượng trọng lực và có liên quan đến nhiệt động lực học lỗ đen.</li>
+<li>WhatsApp thông báo sẽ giới thiệu quảng cáo trong ứng dụng, sử dụng dữ liệu người dùng để nhắm mục tiêu quảng cáo, nhưng nội dung tin nhắn và nhật ký cuộc gọi vẫn được mã hóa đầu cuối, gây ra tranh cãi về quyền riêng tư.</li>
+<li>Zeekstd là một định dạng có thể định địa chỉ Zstandard được triển khai bằng Rust, hỗ trợ đọc ngẫu nhiên và giải nén hiệu quả dữ liệu nén, phù hợp với các tệp nén được lưu trữ từ xa.</li>
+<li>Vương quốc Anh có kế hoạch đóng cửa phần lớn các tổng đài điện thoại truyền thống trong thập kỷ tới, thay vào đó cung cấp dịch vụ băng thông rộng cáp quang thông qua &ldquo;tổng đài kỹ thuật số siêu cấp&rdquo;, đánh dấu sự chuyển đổi kỹ thuật số của hệ thống viễn thông.</li>
+</ol>
+<hr>
+<h2 id="làm-việc-với-cơ-sở-dữ-liệu-từ-nhà-tù">
+  Làm việc với cơ sở dữ liệu từ nhà tù
+  <a class="anchor" href="#l%c3%a0m-vi%e1%bb%87c-v%e1%bb%9bi-c%c6%a1-s%e1%bb%9f-d%e1%bb%af-li%e1%bb%87u-t%e1%bb%ab-nh%c3%a0-t%c3%b9">#</a>
+</h2>
+<blockquote>
+<p>Working on databases from prison</p>]]></description></item><item><title>2025-06-16 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250616-hacker-news-top-stories/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250616-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-16-06-2025">
   Top các câu chuyện trên Hacker News ngày 16-06-2025
   <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-16-06-2025">#</a>
 </h1>
@@ -395,24 +417,4 @@
   CSS Minecraft
   <a class="anchor" href="#css-minecraft">#</a>
 </h2>
-<p><a href="https://benjaminaster.com/css-minecraft/">https://benjaminaster.com/css-minecraft/</a></p>]]></description></item><item><title>2025-05-27 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:42:07 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-05-27-20250527-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-27-hacker-news-top-stories">
-  2025-05-27 Hacker News Top Stories
-  <a class="anchor" href="#2025-05-27-hacker-news-top-stories">#</a>
-</h1>
-<ol>
-<li>Tòa án Đức kết án bốn cựu giám đốc điều hành của Volkswagen vì vụ bê bối gian lận khí thải động cơ diesel, liên quan đến các thiết bị gian lận bất hợp pháp dẫn đến làm giả lượng khí thải, gây ra thiệt hại lớn.</li>
-<li>Đại học Xã hội Nguồn mở (OSSU) cung cấp lộ trình tự học khoa học máy tính miễn phí, bao gồm các nội dung cốt lõi như lập trình, cấu trúc dữ liệu, hỗ trợ học tập linh hoạt và tương tác cộng đồng.</li>
-<li>Google vô tình công khai số điện thoại của người dùng, số điện thoại dùng để xác thực danh tính đã được thêm vào hồ sơ doanh nghiệp, gây ra lo ngại về rò rỉ quyền riêng tư.</li>
-<li>Hacker News chuyển sang Common Lisp để cải thiện hiệu suất, trình biên dịch mới cho phép chạy đa nhân, nhưng mã nguồn không được mở.</li>
-<li>Lieferando.de thu thập 5,7% tên miền liên quan đến nhà hàng, có thể được sử dụng để tối ưu hóa SEO hoặc thúc đẩy lưu lượng truy cập, gây ra lo ngại về pháp lý và gian lận.</li>
-<li>Các nhà phát triển đang tạo ra các ứng dụng tự lưu trữ mã nguồn mở để gửi bản tin cho bạn bè và gia đình, tránh phụ thuộc vào mạng xã hội.</li>
-<li>Vật liệu mới có khả năng thu thập thụ động độ ẩm từ không khí, có tiềm năng ứng dụng trong việc thu thập nước ở các khu vực khô hạn và làm mát thiết bị.</li>
-<li>Chomsky chỉ ra rằng ChatGPT có thể mô phỏng ngôn ngữ nhưng không hiểu ý nghĩa, cần được giám sát cẩn thận để ngăn chặn việc lan truyền thông tin sai lệch.</li>
-<li>GitHub issues được coi là một công cụ sổ tay tuyệt vời, hỗ trợ Markdown, làm nổi bật cú pháp mã và chức năng tìm kiếm, phù hợp cho quản lý dự án và ghi chép kiến thức.</li>
-<li>Kỷ niệm mười năm JSON Web Token, mặc dù được sử dụng rộng rãi trong lĩnh vực bảo mật, nhưng vẫn phải đối mặt với các thách thức bảo mật như thời hạn hiệu lực và cập nhật quyền.</li>
-</ol>
-<h2 id="german-court-sends-vw-execs-to-prison-over-dieselgate-scandal">
-  German court sends VW execs to prison over Dieselgate scandal
-  <a class="anchor" href="#german-court-sends-vw-execs-to-prison-over-dieselgate-scandal">#</a>
-</h2>
-<p><a href="https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/">https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/</a></p>]]></description></item></channel></rss>
+<p><a href="https://benjaminaster.com/css-minecraft/">https://benjaminaster.com/css-minecraft/</a></p>]]></description></item></channel></rss>
