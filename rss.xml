@@ -1,6 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-18 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250618-hacker-news-top-stories/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250618-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-18-các-câu-chuyện-hàng-đầu-trên-hacker-news">
-  2025-06-18 Các Câu Chuyện Hàng Đầu trên Hacker News
-  <a class="anchor" href="#2025-06-18-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-h%c3%a0ng-%c4%91%e1%ba%a7u-tr%c3%aan-hacker-news">#</a>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-19 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250619-hacker-news-top-stories/</link><pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250619-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-19">
+  Top các câu chuyện trên HackerNews ngày 2025-06-19
+  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-2025-06-19">#</a>
+</h1>
+<ol>
+<li>《Nhà phát triển đầu to》 chủ trương đơn giản hóa code bằng quy tắc 80/20, tránh trừu tượng hóa quá sớm, và đề xuất &ldquo;kiểm thử trung gian&rdquo; hữu dụng hơn kiểm thử đơn vị, thông qua cách thức hài hước tự trào.</li>
+<li>Tác giả vô tình hồi sinh trình theo dõi torrent đã ngừng hoạt động, phát hiện 3,1 triệu peer, tiết lộ rủi ro tập trung và nguy cơ pháp lý, cuối cùng phải đóng cửa dịch vụ vì lựa chọn tên miền thanh toán bằng thẻ tín dụng.</li>
+<li>Nền tảng thể dục nguồn mở Workout.cool hồi sinh dự án bỏ hoang với giấy phép MIT, hỗ trợ triển khai cục bộ, nhưng một số người dùng báo cáo lỗi tải, tác giả gốc kêu gọi hợp tác.</li>
+<li>Anthropic khuyên khi xây dựng AI Agent nên ưu tiên sử dụng API LLM cơ bản và mô hình đơn giản, nhấn mạnh việc hiểu code nền tảng và tránh phụ thuộc quá mức vào framework trong các tình huống đơn giản.</li>
+<li>Scrappy cho phép người dùng nhanh chóng tạo ứng dụng cá nhân thông qua kéo thả đối tượng và một ít JavaScript, chủ trương quay trở lại thao tác trực tiếp thay vì tạo code bằng AI.</li>
+<li>Iran cáo buộc WhatsApp làm rò rỉ thông tin người dùng và yêu cầu xóa phần mềm này, nhưng Meta nhấn mạnh mã hóa đầu cuối, các chuyên gia chỉ ra rằng vẫn còn rủi ro về metadata.</li>
+<li>Kiểm toán viên thành phố New York Brad Lander gây tranh cãi vì đi cùng những người bị ICE giam giữ bên ngoài tòa án di trú, cáo buộc liên bang thiếu bằng chứng, sự kiện bị tiêu đề đánh lừa.</li>
+<li>Thư viện bzip2 được viết lại bằng Rust giúp tăng tốc độ nén và giải nén từ 5-15%, loại bỏ sự phức tạp trong quá trình biên dịch C, có thể trở thành giải pháp thay thế chính thức của Linux.</li>
+<li>Mô hình trọng số mở MiniMax-M1 có số lượng tham số đạt 456 tỷ, hỗ trợ ngữ cảnh 1 triệu token, cần nhiều H200 GPU để chạy, chi phí sau khi lượng tử hóa có thể giảm xuống dưới 10.000 đô la.</li>
+<li>Bài viết so sánh Google Dịch với lĩnh vực lập trình, chỉ ra rằng mặc dù LLM có thể xử lý cấu trúc code, nhưng khó đối phó với ngữ cảnh văn hóa và ẩn dụ trừu tượng, cần trải qua &ldquo;mùa đông AI&rdquo; để vượt qua giới hạn.</li>
+</ol>
+<hr>
+<h2 id="nhà-phát-triển-đầu-óc-grug-2022">
+  Nhà Phát Triển Đầu Óc Grug (2022)
+  <a class="anchor" href="#nh%c3%a0-ph%c3%a1t-tri%e1%bb%83n-%c4%91%e1%ba%a7u-%c3%b3c-grug-2022">#</a>
+</h2>
+<blockquote>
+<p>The Grug Brained Developer (2022)</p>]]></description></item><item><title>2025-06-18 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250618-hacker-news-top-stories/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250618-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-18">
+  Top các câu chuyện trên HackerNews ngày 2025-06-18
+  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-2025-06-18">#</a>
 </h1>
 <ol>
 <li>Honda đã phóng và thu hồi thành công tên lửa tái sử dụng thử nghiệm, xác minh các công nghệ quan trọng và đạt được những tiến bộ quan trọng.</li>
@@ -399,24 +421,4 @@
   US Trade Court finds Trump tariffs illegal
   <a class="anchor" href="#us-trade-court-finds-trump-tariffs-illegal">#</a>
 </h2>
-<p><a href="https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court">https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court</a></p>]]></description></item><item><title>2025-05-29 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:44:52 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-05-29-20250529-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-29-hacker-news-top-stories">
-  2025-05-29 Hacker News Top Stories
-  <a class="anchor" href="#2025-05-29-hacker-news-top-stories">#</a>
-</h1>
-<ol>
-<li>Thảo luận về sự suy giảm mức độ quan tâm đến chất lượng và tính xác thực trong xã hội ngày nay, cũng như tác động của nội dung do AI tạo ra đối với truyền thông và xã hội.</li>
-<li>Giới thiệu các tính năng mới của công cụ LLM CLI, hỗ trợ mở rộng khả năng của LLM thông qua mã Python hoặc plugin, để thực hiện các tác vụ phức tạp.</li>
-<li>Giới thiệu Desktop Docs, một nền tảng tìm kiếm hình ảnh và video nâng cao, hỗ trợ tìm kiếm dựa trên nội dung, màu sắc và đối tượng được hỗ trợ bởi AI.</li>
-<li>Cho rằng bút và sổ tay là công cụ quan trọng nhất của nhà phát triển, nhấn mạnh tầm quan trọng của việc viết và suy nghĩ trong việc giải quyết vấn đề.</li>
-<li>Giới thiệu Leta, công cụ tìm kiếm tập trung vào quyền riêng tư do Mullvad ra mắt, truy cập kết quả tìm kiếm thông qua proxy và sử dụng hệ thống không ổ đĩa để tăng cường bảo vệ quyền riêng tư.</li>
-<li>Thảo luận về những rủi ro của việc phụ thuộc quá nhiều vào các mô hình ngôn ngữ lớn trong kỹ thuật phần mềm, có thể dẫn đến giảm chất lượng mã và suy giảm khả năng của nhà phát triển.</li>
-<li>xAI đầu tư 300 triệu đô la vào Telegram, tích hợp chatbot Grok vào ứng dụng, cả hai bên chia sẻ doanh thu từ đăng ký.</li>
-<li>Đề xuất một phương pháp tối ưu hóa hiệu suất của các mô hình ngôn ngữ lớn, bằng cách hợp nhất chuyển tiếp mô hình thành một &ldquo;megakernel&rdquo; duy nhất, cải thiện hiệu suất và tốc độ sử dụng GPU.</li>
-<li>Kể về trải nghiệm nhận được thông báo ngừng vi phạm bản quyền vì thiết kế ngược trang web Waffle House để tạo ra &ldquo;Chỉ số Waffle House&rdquo;.</li>
-<li>Giới thiệu một giải pháp để thương lượng nguồn điện PoE+ trong môi trường khởi động trước, thông qua ứng dụng UEFI để đạt được mức công suất cao.</li>
-</ol>
-<h2 id="the-who-cares-era">
-  The Who Cares Era
-  <a class="anchor" href="#the-who-cares-era">#</a>
-</h2>
-<p><a href="https://dansinker.com/posts/2025-05-23-who-cares/">https://dansinker.com/posts/2025-05-23-who-cares/</a></p>]]></description></item></channel></rss>
+<p><a href="https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court">https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court</a></p>]]></description></item></channel></rss>
