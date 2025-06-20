@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-19 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250619-hacker-news-top-stories/</link><pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250619-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-19">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-20 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250620-hacker-news-top-stories/</link><pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250620-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-20-các-câu-chuyện-hàng-đầu-trên-hacker-news">
+  2025-06-20 Các Câu Chuyện Hàng Đầu trên Hacker News
+  <a class="anchor" href="#2025-06-20-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-h%c3%a0ng-%c4%91%e1%ba%a7u-tr%c3%aan-hacker-news">#</a>
+</h1>
+<ol>
+<li>Andrej Karpathy thảo luận về ảnh hưởng sâu rộng của AI đối với ngành công nghiệp phần mềm, chỉ ra rằng LLMs đang trở thành một mô hình mới cho phần mềm, nhưng vẫn phải đối mặt với những thách thức về kỹ thuật và ứng dụng.</li>
+<li>Công cụ Unregistry cho phép người dùng đẩy trực tiếp các Docker image lên máy chủ từ xa mà không cần sử dụng kho lưu trữ bên ngoài, truyền qua SSH tunnel, phù hợp cho triển khai sản xuất và CI/CD pipeline.</li>
+<li>Zed debugger được phát hành, mặc dù các chức năng chưa hoàn thiện, nhưng đã hỗ trợ gỡ lỗi đa ngôn ngữ, trong tương lai dự kiến sẽ bổ sung thêm nhiều chức năng nâng cao.</li>
+<li>Quy tắc visa mới của Hoa Kỳ yêu cầu sinh viên nước ngoài mở khóa tài khoản mạng xã hội để xem xét, gây ra lo ngại về quyền riêng tư và tự do ngôn luận.</li>
+<li>Nghiên cứu phát hiện các trang web bí mật theo dõi người dùng thông qua kỹ thuật browser fingerprinting, ngay cả khi người dùng xóa cookies hoặc chọn không tham gia theo dõi, việc theo dõi vẫn diễn ra.</li>
+<li>Dự án Bento tích hợp bo mạch chủ Steam Deck OLED vào bên dưới bàn phím, thích hợp để sử dụng với màn hình ngoài, nhằm mục đích nâng cao tính di động.</li>
+<li>Tàu vũ trụ SpaceX Starship số 36 phát nổ trước khi thử nghiệm đốt tĩnh, nguyên nhân vẫn chưa rõ ràng, có thể ảnh hưởng đến kế hoạch phóng.</li>
+<li>Texas Instruments có kế hoạch đầu tư hơn 60 tỷ đô la Mỹ vào sản xuất chất bán dẫn cơ bản tại Hoa Kỳ, hỗ trợ nhu cầu trong các lĩnh vực quan trọng và thúc đẩy sự đổi mới của Hoa Kỳ.</li>
+<li>Lỗi nhận dạng OCR dẫn đến việc ngày 11 của tháng trong cơ sở dữ liệu Google Ngrams được đề cập với tần suất thấp bất thường, chủ yếu là do số &ldquo;1&rdquo; tương tự như chữ cái &ldquo;I&rdquo; hoặc &ldquo;l&rdquo;.</li>
+<li>Windows 10 sắp kết thúc hỗ trợ, khuyến nghị người dùng kéo dài tuổi thọ của máy tính cũ bằng cách cài đặt hệ điều hành Linux, cung cấp khả năng bảo mật tốt hơn và hỗ trợ cộng đồng.</li>
+</ol>
+<hr>
+<h2 id="andrej-karpathy-phần-mềm-trong-kỷ-nguyên-ai-video-">
+  Andrej Karpathy: Phần mềm trong kỷ nguyên AI [video] <a href="#andrej-karpathy-software-in-the-era-of-ai-video">#</a>
+  <a class="anchor" href="#andrej-karpathy-ph%e1%ba%a7n-m%e1%bb%81m-trong-k%e1%bb%b7-nguy%c3%aan-ai-video-">#</a>
+</h2>
+<blockquote>
+<p>Andrej Karpathy: Software in the era of AI [video] <a href="#andrej-karpathy-software-in-the-era-of-ai-video">#</a></p>]]></description></item><item><title>2025-06-19 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250619-hacker-news-top-stories/</link><pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250619-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-19">
   Top các câu chuyện trên HackerNews ngày 2025-06-19
   <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-2025-06-19">#</a>
 </h1>
@@ -401,24 +423,4 @@
   FLUX.1 Kontext
   <a class="anchor" href="#flux1-kontext">#</a>
 </h2>
-<p><a href="https://bfl.ai/models/flux-kontext">https://bfl.ai/models/flux-kontext</a></p>]]></description></item><item><title>2025-05-30 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 10:10:03 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-05-30-20250530-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-30-hacker-news-top-stories">
-  2025-05-30 Hacker News Top Stories
-  <a class="anchor" href="#2025-05-30-hacker-news-top-stories">#</a>
-</h1>
-<ol>
-<li>Tòa án Thương mại Quốc tế Hoa Kỳ đã phán quyết các mức thuế toàn cầu do Trump áp đặt là bất hợp pháp và ngăn chặn việc thực thi các mức thuế này, có thể gây ảnh hưởng lớn đến chính sách kinh tế của Trump.</li>
-<li>DeepSeek-R1-0528 là mô hình mới nhất do công ty DeepSeek ra mắt, thông qua tối ưu hóa thuật toán và nâng cấp tài nguyên tính toán, đã có những cải tiến đáng kể về khả năng suy luận và diễn giải.</li>
-<li>WeatherStar 4000+ là một trình mô phỏng kênh thời tiết, cung cấp thông tin thời tiết phong phú và dữ liệu dự báo, người dùng có thể tùy chỉnh nội dung hiển thị và cài đặt.</li>
-<li>American Science and Surplus là một cửa hàng bán lẻ nổi tiếng với việc bán các mặt hàng kỳ lạ, hiện đang khởi động các hoạt động gây quỹ để duy trì hoạt động do doanh số bán hàng sụt giảm.</li>
-<li>Lĩnh vực thiết kế web những năm 1990 do ba bậc thầy Zeldman, Siegel và Nielsen thống trị, họ lần lượt đại diện cho triết lý thiết kế về trải nghiệm người dùng, tính thẩm mỹ và khả năng sử dụng.</li>
-<li>.NET 10 Preview 4 hỗ trợ chạy trực tiếp các tệp C#, không cần tạo tệp dự án, đơn giản hóa quy trình phát triển, đặc biệt phù hợp để kiểm tra nhanh các đoạn mã.</li>
-<li>Typed-FFmpeg 3.0 là một gói Python hiện đại, cung cấp hỗ trợ toàn diện cho FFmpeg, giải quyết những hạn chế của các gói hiện có và giới thiệu các tính năng mới.</li>
-<li>Lập trình viên con người vẫn vượt trội hơn các mô hình ngôn ngữ lớn trong việc giải quyết các vấn đề phức tạp, LLM có những hạn chế trong xử lý chi tiết và kiến thức chuyên môn.</li>
-<li>Bằng cách biên dịch mạng nơ-ron thành mã C, có thể tăng tốc đáng kể tốc độ suy luận, tác giả đã đạt được hiệu suất tăng 1744 lần thông qua thử nghiệm.</li>
-<li>Tác giả đã triển khai một hệ điều hành đồ chơi trong &ldquo;Super Mario Bros.&rdquo;, thông qua trình giả lập lưu trạng thái để trình diễn các khái niệm về lập trình đa luồng và đồng bộ hóa luồng.</li>
-</ol>
-<h2 id="us-trade-court-finds-trump-tariffs-illegal">
-  US Trade Court finds Trump tariffs illegal
-  <a class="anchor" href="#us-trade-court-finds-trump-tariffs-illegal">#</a>
-</h2>
-<p><a href="https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court">https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court</a></p>]]></description></item></channel></rss>
+<p><a href="https://bfl.ai/models/flux-kontext">https://bfl.ai/models/flux-kontext</a></p>]]></description></item></channel></rss>
