@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-20 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250620-hacker-news-top-stories/</link><pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250620-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-20">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-21 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250621-hacker-news-top-stories/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250621-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-21">
+  Top các câu chuyện trên HackerNews ngày 2025-06-21
+  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-2025-06-21">#</a>
+</h1>
+<ol>
+<li>Hurl là một công cụ dòng lệnh, dùng để chạy và kiểm thử các yêu cầu HTTP ở định dạng thuần văn bản, hỗ trợ chuỗi yêu cầu, thu thập giá trị và đánh giá phản hồi, phù hợp cho kiểm thử API và tích hợp CI/CD.</li>
+<li>ExTracker là một trình theo dõi BitTorrent được viết bằng Elixir, hỗ trợ nhiều BEP, cung cấp hiệu năng cao và sử dụng bộ nhớ thấp, phù hợp cho phát triển và thử nghiệm.</li>
+<li>Phoenix.new là một môi trường thời gian chạy AI từ xa, hỗ trợ tương tác trình duyệt và triển khai trực tiếp, nhằm mục đích thay đổi quy trình làm việc của nhà phát triển, giảm sự phụ thuộc vào phát triển cục bộ.</li>
+<li>Bằng cách biên dịch các mô hình ngôn ngữ lớn thành MegaKernel, có thể đạt được suy luận độ trễ thấp, phù hợp với cấu hình GPU đơn và đa GPU, tối ưu hóa chi phí tính toán và giao tiếp.</li>
+<li>Bài viết thảo luận một cách mỉa mai về vấn đề vô gia cư ở Mỹ, chỉ trích những người và chính sách không sẵn lòng thực hiện hành động thực tế để giải quyết vấn đề.</li>
+<li>Tác giả đã đạt được tiến bộ trong việc mô phỏng hệ thống Mac OS X ban đầu, bằng cách tối ưu hóa và gỡ lỗi để giải quyết các vấn đề vận hành của trình mô phỏng PearPC.</li>
+<li>Chính sách thu phí tắc nghẽn ở Manhattan đã giảm tắc nghẽn giao thông thành công, nâng cao hiệu quả đi lại, tỷ lệ ủng hộ của công chúng tăng lên đáng kể.</li>
+<li>Hướng dẫn Makefile này giới thiệu chi tiết về mục đích sử dụng, cú pháp và phương pháp sử dụng Makefiles, giúp người dùng quản lý quá trình biên dịch các dự án lớn.</li>
+<li>Bài viết ghi lại lịch sử và các hoạt động kỷ niệm Ngày Tháng Sáu (Juneteenth) thông qua ảnh, thể hiện ý nghĩa văn hóa và sự tham gia của cộng đồng trong ngày lễ liên bang của Hoa Kỳ này.</li>
+<li>Kêu gọi Ủy ban Châu Âu chia tách các công ty công nghệ lớn, thúc đẩy sự đa dạng và cạnh tranh công bằng trong nền kinh tế kỹ thuật số, bảo vệ lợi ích của công dân.</li>
+</ol>
+<hr>
+<h2 id="hurl-chạy-và-kiểm-thử-các-yêu-cầu-http-bằng-văn-bản-thuần">
+  Hurl: Chạy và kiểm thử các yêu cầu HTTP bằng văn bản thuần
+  <a class="anchor" href="#hurl-ch%e1%ba%a1y-v%c3%a0-ki%e1%bb%83m-th%e1%bb%ad-c%c3%a1c-y%c3%aau-c%e1%ba%a7u-http-b%e1%ba%b1ng-v%c4%83n-b%e1%ba%a3n-thu%e1%ba%a7n">#</a>
+</h2>
+<blockquote>
+<p>Hurl: Run and test HTTP requests with plain text</p>]]></description></item><item><title>2025-06-20 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250620-hacker-news-top-stories/</link><pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250620-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-20">
   Top các câu chuyện trên HackerNews ngày 2025-06-20
   <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-2025-06-20">#</a>
 </h1>
@@ -403,24 +425,4 @@
   Photos taken inside musical instruments
   <a class="anchor" href="#photos-taken-inside-musical-instruments">#</a>
 </h2>
-<p><a href="https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments">https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</a></p>]]></description></item><item><title>2025-05-31 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:46:20 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-05-31-20250531-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-05-31-hacker-news-top-stories">
-  2025-05-31 Hacker News Top Stories
-  <a class="anchor" href="#2025-05-31-hacker-news-top-stories">#</a>
-</h1>
-<ol>
-<li>FLUX.1 Kontext là một mô hình khớp dòng sinh (generative flow matching model), hỗ trợ tạo và chỉnh sửa ảnh bằng gợi ý văn bản và hình ảnh, có đặc điểm là tạo nhanh và chi phí thấp.</li>
-<li>Kỹ thuật cơ số 2^51 giúp cải thiện hiệu suất tính toán bằng cách tối ưu hóa các phép toán cộng số nguyên lớn, phù hợp để xử lý hiệu quả lượng lớn dữ liệu.</li>
-<li>Các hãng hàng không sử dụng chiến lược tính giá vé cao hơn đối với khách du lịch một mình để phân biệt người đi một mình với người đi theo nhóm, nhằm tăng doanh thu.</li>
-<li>AWS đảm bảo tính đúng đắn của hệ thống thông qua các phương pháp và công cụ hình thức, nâng cao hiệu quả phát triển và độ tin cậy của dịch vụ, đặc biệt thể hiện tốt trong các hệ thống phân tán.</li>
-<li>Wave3 Social là một câu lạc bộ xã hội nhằm giải quyết vấn đề cô đơn của nam giới, thông qua các hoạt động ngoại tuyến giúp xây dựng tình bạn vững chắc.</li>
-<li>Cuốn sách &ldquo;Practical Software Defined Radio&rdquo; giới thiệu kiến thức cơ bản và kỹ năng thực hành về SDR, phù hợp cho độc giả ở mọi trình độ học hỏi và ứng dụng.</li>
-<li>Thông qua tối ưu hóa tính toán bằng AVX512, nhóm đã giải quyết thành công bài toán chứng minh công việc (Proof-of-Work) của Google và giành được giải thưởng của cuộc thi.</li>
-<li>Microsandbox kết hợp ưu điểm của máy ảo và container, cung cấp môi trường sandbox khởi động nhanh và có tính bảo mật cao, phù hợp để chạy các đoạn mã không đáng tin cậy.</li>
-<li>Buttplug MCP là một máy chủ hỗ trợ các chương trình LLM điều khiển các thiết bị giao diện sinh dục, hiện đang trong giai đoạn thử nghiệm và vẫn đang giải quyết các vấn đề về độ ổn định kết nối.</li>
-<li>Procreate nhấn mạnh việc bảo vệ quyền sáng tạo và quyền riêng tư của người dùng, không sử dụng công nghệ AI tạo sinh, đồng thời cam kết duy trì giá trị độc đáo của sự sáng tạo của con người.</li>
-</ol>
-<h2 id="flux1-kontext">
-  FLUX.1 Kontext
-  <a class="anchor" href="#flux1-kontext">#</a>
-</h2>
-<p><a href="https://bfl.ai/models/flux-kontext">https://bfl.ai/models/flux-kontext</a></p>]]></description></item></channel></rss>
+<p><a href="https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments">https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</a></p>]]></description></item></channel></rss>
