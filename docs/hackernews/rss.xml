@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-22 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250622-hacker-news-top-stories/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250622-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-22-06-2025">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-23 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250623-hacker-news-top-stories/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250623-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-23-06-2025">
+  Top Câu Chuyện trên HackerNews ngày 23-06-2025
+  <a class="anchor" href="#top-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-23-06-2025">#</a>
+</h1>
+<ol>
+<li>Hoa Kỳ phát động cuộc oanh tạc vào các cơ sở hạt nhân của Iran, làm leo thang căng thẳng giữa hai bên và gây ra sự quan tâm quốc tế.</li>
+<li>Tác giả đã tạo ra mô hình xem chi tiết (exploded view) của đồng hồ cơ, ghi lại toàn bộ quá trình sản xuất từ ý tưởng đến khi hoàn thành.</li>
+<li>Tính năng ghi chú của Git rất mạnh mẽ nhưng không được sử dụng rộng rãi, phù hợp để thêm metadata mà không cần sửa đổi commit.</li>
+<li>Tiện ích mở rộng trình duyệt LibRedirect chuyển hướng các trang web chính thống đến các dịch vụ frontend thay thế, chú trọng quyền riêng tư.</li>
+<li>Phân tích sâu thiết kế, kiến trúc và lợi thế hiệu năng của Google TPU trong lĩnh vực AI.</li>
+<li>Hoa Kỳ tấn công các cơ sở hạt nhân của Iran, Trump gọi đó là một thành công quân sự, Iran thề sẽ đáp trả.</li>
+<li>Dự án LaborBerlin nhằm mục đích phát triển máy chiếu phim 16mm mã nguồn mở, giải quyết vấn đề bảo trì các thiết bị cũ.</li>
+<li>Công nghệ AI thúc đẩy kỷ nguyên các nhóm nhỏ ở Thung lũng Silicon, nâng cao hiệu quả, cho phép các nhóm nhỏ hoàn thành các dự án quy mô lớn hơn.</li>
+<li>Sound As Pure Form là một ngôn ngữ âm nhạc được lấy cảm hứng từ nhiều ngôn ngữ lập trình, phù hợp cho tổng hợp và xử lý âm thanh.</li>
+<li>Thông qua tối ưu hóa, thông lượng của Linux pipe đã tăng lên 20 lần, tiết lộ việc triển khai bên trong và các phương pháp tối ưu hóa hiệu suất.</li>
+</ol>
+<hr>
+<h2 id="bom-mỹ-vào-các-cơ-sở-hạt-nhân-của-iran">
+  Bom Mỹ vào các cơ sở hạt nhân của Iran
+  <a class="anchor" href="#bom-m%e1%bb%b9-v%c3%a0o-c%c3%a1c-c%c6%a1-s%e1%bb%9f-h%e1%ba%a1t-nh%c3%a2n-c%e1%bb%a7a-iran">#</a>
+</h2>
+<blockquote>
+<p>U.S. bombs Iranian nuclear sites</p>]]></description></item><item><title>2025-06-22 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250622-hacker-news-top-stories/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250622-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-22-06-2025">
   Top Câu Chuyện trên HackerNews ngày 22-06-2025
   <a class="anchor" href="#top-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-22-06-2025">#</a>
 </h1>
@@ -407,24 +429,4 @@
   If you are useful, it doesn’t mean you are valued
   <a class="anchor" href="#if-you-are-useful-it-doesnt-mean-you-are-valued">#</a>
 </h2>
-<p><a href="https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean">https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean</a></p>]]></description></item><item><title>2025-06-02 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:49:48 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-06-02-20250602-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-tin-tức-trên-hacker-news-ngày-2025-06-02">
-  Top tin tức trên Hacker News ngày 2025-06-02
-  <a class="anchor" href="#top-tin-t%e1%bb%a9c-tr%c3%aan-hacker-news-ng%c3%a0y-2025-06-02">#</a>
-</h1>
-<ol>
-<li>Các nhà nghiên cứu đã phát hiện ra root shell trong thiết bị thanh toán thẻ tín dụng Worldline Yomani, hé lộ những nguy cơ tiềm ẩn về bảo mật.</li>
-<li>JSON lũy tiến (Progressive JSON) giúp cải thiện hiệu quả truyền dữ liệu và trải nghiệm người dùng bằng cách phân tách dữ liệu để xử lý đồng thời khi nhận.</li>
-<li>Figma Slides thể hiện tốt trong thiết kế và xây dựng, nhưng có những vấn đề lớn về chức năng trình bày và tính ổn định.</li>
-<li>Nhiếp ảnh gia Christophe Nuyens chia sẻ kinh nghiệm làm việc trong &ldquo;Andor&rdquo;, cho rằng chất lượng sản xuất của phim truyền hình đã vượt qua một số bộ phim điện ảnh.</li>
-<li>DeepSeek-V3 có chi phí vận hành cục bộ cao, chủ yếu do suy luận theo lô (batch processing) và giới hạn tài nguyên phần cứng.</li>
-<li>RenderFormer hiện thực hóa việc dựng hình lưới tam giác chất lượng cao thông qua mạng nơ-ron, nhưng vẫn còn những hạn chế trong việc xử lý các cảnh phức tạp.</li>
-<li>Nền tảng Patio cung cấp hướng dẫn về trang trí nhà cửa và làm vườn, khuyến khích chia sẻ công cụ và học tập DIY để thúc đẩy phát triển bền vững.</li>
-<li>Dự án Kilnettle Shrine đã tạo ra một máy cắt băng dính thoại in 3D chi phí thấp và khuyến khích độc giả tự làm.</li>
-<li>Oniux sử dụng Linux namespace để cung cấp khả năng cách ly mạng Tor cho các ứng dụng, tăng cường bảo vệ quyền riêng tư và bảo mật.</li>
-<li>Google AI Edge hỗ trợ triển khai AI đa nền tảng, giúp các nhà phát triển hiện thực hóa các ứng dụng AI trên thiết bị với độ trễ thấp và bảo vệ quyền riêng tư dữ liệu.</li>
-</ol>
-<h2 id="root-shell-on-a-credit-card-terminal">
-  Root shell on a credit card terminal
-  <a class="anchor" href="#root-shell-on-a-credit-card-terminal">#</a>
-</h2>
-<p><a href="https://stefan-gloor.ch/yomani-hack">https://stefan-gloor.ch/yomani-hack</a></p>]]></description></item></channel></rss>
+<p><a href="https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean">https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean</a></p>]]></description></item></channel></rss>
