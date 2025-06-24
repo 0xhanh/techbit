@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-23 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250623-hacker-news-top-stories/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250623-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-23-06-2025">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-24 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250624-hacker-news-top-stories/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250624-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-24-06-2025">
+  Top Câu Chuyện trên HackerNews ngày 24-06-2025
+  <a class="anchor" href="#top-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-24-06-2025">#</a>
+</h1>
+<ol>
+<li>Tác giả chia sẻ kinh nghiệm sử dụng Typst thay vì LaTeX để viết luận án tiến sĩ, cho rằng Typst ưu việt hơn về tốc độ biên dịch và thiết kế ngôn ngữ.</li>
+<li>uv là một trình quản lý dự án và gói Python hiệu năng cao, được thiết kế để thay thế pip và poetry, hỗ trợ cài đặt đa nền tảng và lưu trữ hiệu quả.</li>
+<li>Vụ việc chiếm đoạt thương hiệu trên Amazon cho thấy lỗ hổng trong cơ chế đăng ký thương hiệu của nền tảng, dẫn đến thiệt hại cho người bán trung thực và quyền lợi của người tiêu dùng.</li>
+<li>Một quán cà phê ở Kyoto bán cà phê vào ban ngày và biến thành quán bar vào ban đêm, thể hiện sức hấp dẫn độc đáo của mô hình kinh doanh chi phí thấp ở Nhật Bản.</li>
+<li>Tác giả tạo hệ thống hạn chế sử dụng mạng xã hội thông qua Home Assistant và ổ cắm thông minh, nhằm giảm sự phân tâm và nâng cao khả năng tập trung.</li>
+<li>Một nhà phát triển chia sẻ quy trình làm việc hiệu quả của mình với terminal, bao gồm cấu hình và cách sử dụng các công cụ như tmux, zsh, v.v.</li>
+<li>Trò chơi kinh điển &ldquo;Lego Island&rdquo; đã được chuyển sang trình duyệt web, giữ lại lối chơi và phong cách của bản gốc, hỗ trợ đa ngôn ngữ và cài đặt đồ họa.</li>
+<li>Đài quan sát Vera C. Rubin công bố những hình ảnh đầu tiên, hiển thị dữ liệu phong phú về các thiên hà và ngôi sao, cung cấp tài liệu quan trọng cho nghiên cứu vũ trụ.</li>
+<li>Radio Garden là một nền tảng radio trực tuyến, cho phép người dùng khám phá các chương trình phát sóng trực tiếp trên toàn cầu, Shonan Beach FM là đài phát nhạc jazz Nhật Bản được yêu thích trên nền tảng này.</li>
+<li>Hạ viện Hoa Kỳ cấm nhân viên sử dụng WhatsApp trên các thiết bị của chính phủ, khuyến nghị thay thế bằng các ứng dụng thay thế an toàn hơn như Microsoft Teams.</li>
+</ol>
+<hr>
+<h2 id="tôi-đã-viết-luận-án-tiến-sĩ-của-mình-bằng-typst">
+  Tôi đã viết Luận án Tiến sĩ của mình bằng Typst
+  <a class="anchor" href="#t%c3%b4i-%c4%91%c3%a3-vi%e1%ba%bft-lu%e1%ba%adn-%c3%a1n-ti%e1%ba%bfn-s%c4%a9-c%e1%bb%a7a-m%c3%acnh-b%e1%ba%b1ng-typst">#</a>
+</h2>
+<blockquote>
+<p>I wrote my PhD Thesis in Typst</p>]]></description></item><item><title>2025-06-23 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250623-hacker-news-top-stories/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250623-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-23-06-2025">
   Top Câu Chuyện trên HackerNews ngày 23-06-2025
   <a class="anchor" href="#top-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-23-06-2025">#</a>
 </h1>
@@ -409,24 +431,4 @@
   My AI skeptic friends are all nuts
   <a class="anchor" href="#my-ai-skeptic-friends-are-all-nuts">#</a>
 </h2>
-<p><a href="https://fly.io/blog/youre-all-nuts/">https://fly.io/blog/youre-all-nuts/</a></p>]]></description></item><item><title>2025-06-03 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:51:14 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-06-03-20250603-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-tin-tức-trên-hacker-news-ngày-2025-06-03">
-  Top tin tức trên Hacker News ngày 2025-06-03
-  <a class="anchor" href="#top-tin-t%e1%bb%a9c-tr%c3%aan-hacker-news-ng%c3%a0y-2025-06-03">#</a>
-</h1>
-<ol>
-<li>Trong công việc, hoàn thành nhiệm vụ là yêu cầu cơ bản, nhưng để được thăng tiến và coi trọng, cần có tư duy và đóng góp ở cấp độ cao hơn.</li>
-<li>Người sáng tạo nên tập trung vào nội dung yêu thích khi không ai chú ý, xây dựng sự tích lũy tác phẩm, chuẩn bị cho thành công trong tương lai.</li>
-<li>Phong cách hình ảnh của &ldquo;Samurai Jack&rdquo; độc đáo, nhấn mạnh vào khả năng biểu đạt của hình ảnh, chịu ảnh hưởng từ các bộ phim kinh điển và Miyazaki Hayao, theo đuổi cảm giác câu chuyện trong mỗi khung hình.</li>
-<li>Dự án OAuth của Cloudflare trình bày các bản ghi phát triển và bảo trì mã, thảo luận về tác động của trí tuệ nhân tạo đối với hiệu quả và xã hội.</li>
-<li>Kan.bn là một giải pháp thay thế Trello mã nguồn mở, hỗ trợ kiểm soát quyền và cộng tác nhóm, nhằm mục đích cung cấp một công cụ quản lý dự án hoàn toàn có thể tùy chỉnh.</li>
-<li>Nhiều công ty đang tuyển dụng vào tháng 6 năm 2025, bao gồm các lĩnh vực công nghệ, tài chính, y tế, v.v., cung cấp cơ hội làm việc từ xa.</li>
-<li>LibriVox là một nền tảng sách nói thuộc phạm vi công cộng miễn phí, mặc dù chất lượng âm thanh không đồng đều, nhưng vẫn được đánh giá cao.</li>
-<li>Khi các kỹ năng kỹ thuật bị hàng hóa hóa, khả năng phán đoán trở thành yếu tố then chốt để phân biệt giữa sự xuất sắc và bình thường, công việc trong tương lai sẽ chú trọng hơn đến phán đoán chiến lược.</li>
-<li>Vanta là một trình phân tích hành vi mạng nhẹ, hỗ trợ tái cấu trúc giao thức và trích xuất dữ liệu, phù hợp cho mục đích giáo dục và học tập.</li>
-<li>Giá của máy đọc sách điện tử không giảm, lý do bao gồm quy mô thị trường nhỏ, chi phí công nghệ cao và mô hình lợi nhuận phụ thuộc vào việc bán sách.</li>
-</ol>
-<h2 id="if-you-are-useful-it-doesnt-mean-you-are-valued">
-  If you are useful, it doesn’t mean you are valued
-  <a class="anchor" href="#if-you-are-useful-it-doesnt-mean-you-are-valued">#</a>
-</h2>
-<p><a href="https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean">https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean</a></p>]]></description></item></channel></rss>
+<p><a href="https://fly.io/blog/youre-all-nuts/">https://fly.io/blog/youre-all-nuts/</a></p>]]></description></item></channel></rss>
