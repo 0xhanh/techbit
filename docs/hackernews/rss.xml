@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-25 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250625-hacker-news-top-stories/</link><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250625-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-2025-06-25">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-26 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250626-hacker-news-top-stories/</link><pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250626-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-26-top-stories">
+  2025-06-26 Top Stories
+  <a class="anchor" href="#2025-06-26-top-stories">#</a>
+</h1>
+<ol>
+<li>Gemini CLI: Google ra mắt công cụ AI agent mã nguồn mở miễn phí, hỗ trợ nhiều tác vụ xử lý, cộng đồng có thể tham gia đóng góp, nâng cao hiệu quả phát triển.</li>
+<li>uv và PEP 723: Đơn giản hóa việc chạy và quản lý các script Python thông qua công cụ uv và metadata PEP 723, hỗ trợ môi trường ảo một lần và tương tác script.</li>
+<li>Phục hưng định dạng PNG: PNG phát hành đặc tả mới, hỗ trợ HDR, ảnh động, dữ liệu Exif, v.v., tương lai sẽ nghiên cứu các kỹ thuật nén và song song hiệu quả hơn.</li>
+<li>Sự kiện từ chối nhập cảnh: Một du khách người Na Uy bị biên giới Hoa Kỳ từ chối vì meme &ldquo;JD Vance hói đầu&rdquo;, gây ra sự chú ý về tự do ngôn luận và chính sách biên giới.</li>
+<li>Sáng tạo tiền dày: Theodore Nichols sáng tạo &ldquo;Thick Nickel&rdquo;, tăng cường cảm giác an toàn bằng cách làm dày đồng xu và kêu gọi ủng hộ sự nghiệp đúc tiền của mình.</li>
+<li>Microsoft Edit: Microsoft ra mắt trình soạn thảo văn bản hiện đại, tri ân trình soạn thảo MS-DOS cổ điển, cung cấp giao diện đơn giản và khả năng kiểm soát nhập liệu hiệu quả.</li>
+<li>Tối ưu hóa chi phí OpenAI: Giảm chi phí phiên âm OpenAI bằng cách tăng tốc các tệp âm thanh, tiết kiệm thời gian và chi phí.</li>
+<li>Hạn chế của Cục Lưu trữ Quốc gia: Chi nhánh College Park của Cục Lưu trữ Quốc gia Hoa Kỳ sẽ trở thành cơ sở hạn chế, cần đặt lịch hẹn để truy cập nhằm nâng cao hiệu quả.</li>
+<li>Công nghệ масштабирование X11: Máy chủ hiển thị X11 hỗ trợ масштабирование DPI hiệu quả và масштабирование phân số, tốt hơn Wayland, tránh mất hiệu năng và mờ.</li>
+<li>Linux đọc hộ chiếu NFC: Sử dụng công cụ pypassport để đọc dữ liệu chip NFC hộ chiếu trong Linux, liên quan đến việc xây dựng lại MRZ và thảo luận về bảo mật.</li>
+</ol>
+<hr>
+<h2 id="gemini-cli">
+  Gemini CLI
+  <a class="anchor" href="#gemini-cli">#</a>
+</h2>
+<blockquote>
+<p>Gemini CLI</p>]]></description></item><item><title>2025-06-25 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250625-hacker-news-top-stories/</link><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250625-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-2025-06-25">
   Top Câu Chuyện trên HackerNews ngày 2025-06-25
   <a class="anchor" href="#top-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-2025-06-25">#</a>
 </h1>
@@ -413,24 +435,4 @@
   OpenAI slams court order to save all ChatGPT logs, including deleted chats
   <a class="anchor" href="#openai-slams-court-order-to-save-all-chatgpt-logs-including-deleted-chats">#</a>
 </h2>
-<p><a href="https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/">https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/</a></p>]]></description></item><item><title>2025-06-05 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:54:08 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-06-05-20250605-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-tin-tức-trên-hacker-news-ngày-2025-06-05">
-  Top tin tức trên Hacker News ngày 2025-06-05
-  <a class="anchor" href="#top-tin-t%e1%bb%a9c-tr%c3%aan-hacker-news-ng%c3%a0y-2025-06-05">#</a>
-</h1>
-<ol>
-<li>Việc ứng dụng học sâu trong sinh học có thể dẫn đến sai sót do quá khớp (overfitting) và thiếu kiến thức sinh học, cần tăng cường kiểm tra tính xác thực.</li>
-<li>Ứng dụng Merlin Bird ID nhận dạng các loài chim thông qua ảnh, âm thanh và bản đồ, người dùng nói chung hài lòng với các chức năng của nó nhưng mong muốn được tối ưu hóa hơn nữa.</li>
-<li>FFmpeg hợp nhất hỗ trợ cho WebRTC, nâng cao tính ổn định và khả năng tương thích của nó trong truyền tải luồng (streaming).</li>
-<li>Sở Thuế vụ Hoa Kỳ đã mở mã nguồn dự án Direct File trên GitHub, nhưng dự án này có thể bị bãi bỏ do không được hỗ trợ hành chính.</li>
-<li>Tác giả viết &ldquo;BEAM Book&rdquo; nhằm giúp các kỹ sư tối ưu hóa hiệu suất máy ảo BEAM, nhấn mạnh tầm quan trọng của sự kiên trì và phản hồi từ cộng đồng.</li>
-<li>DiffX là một định dạng khác biệt mở rộng mới, được thiết kế để giải quyết những hạn chế của các định dạng truyền thống, nhưng sự phức tạp của nó đã gây ra tranh cãi.</li>
-<li>Bang Washington thông qua dự luật quyền sửa chữa, đảm bảo cư dân có quyền tự sửa chữa các thiết bị điện tử và đồ gia dụng.</li>
-<li>Dự án Precious Plastic rơi vào tình trạng khó khăn do thiếu vốn và các vấn đề vận hành, nhóm đang tìm kiếm giải pháp.</li>
-<li>Vẹt mào Sulphur-crested ở Úc đã học được cách vận hành vòi phun nước uống, thể hiện khả năng sáng tạo và truyền thống văn hóa của chúng.</li>
-<li>Dịch vụ GPU của Google Cloud Run hiện đã có phiên bản GA, đơn giản hóa việc triển khai khối lượng công việc AI, nhưng vấn đề chi phí vẫn cần được quan tâm.</li>
-</ol>
-<h2 id="deep-learning-gets-the-glory-deep-fact-checking-gets-ignored">
-  Deep learning gets the glory, deep fact checking gets ignored
-  <a class="anchor" href="#deep-learning-gets-the-glory-deep-fact-checking-gets-ignored">#</a>
-</h2>
-<p><a href="https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html">https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html</a></p>]]></description></item></channel></rss>
+<p><a href="https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/">https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/</a></p>]]></description></item></channel></rss>
