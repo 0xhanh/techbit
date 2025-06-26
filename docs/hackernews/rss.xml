@@ -11,7 +11,7 @@
 <li>Microsoft Edit: Microsoft ra mắt trình soạn thảo văn bản hiện đại, tri ân trình soạn thảo MS-DOS cổ điển, cung cấp giao diện đơn giản và khả năng kiểm soát nhập liệu hiệu quả.</li>
 <li>Tối ưu hóa chi phí OpenAI: Giảm chi phí phiên âm OpenAI bằng cách tăng tốc các tệp âm thanh, tiết kiệm thời gian và chi phí.</li>
 <li>Hạn chế của Cục Lưu trữ Quốc gia: Chi nhánh College Park của Cục Lưu trữ Quốc gia Hoa Kỳ sẽ trở thành cơ sở hạn chế, cần đặt lịch hẹn để truy cập nhằm nâng cao hiệu quả.</li>
-<li>Công nghệ масштабирование X11: Máy chủ hiển thị X11 hỗ trợ масштабирование DPI hiệu quả và масштабирование phân số, tốt hơn Wayland, tránh mất hiệu năng và mờ.</li>
+<li>Công nghệ thu phóng trong X11: Máy chủ hiển thị X11 hỗ trợ thu phóng DPI hiệu quả và thu phóng phân số, tốt hơn Wayland, tránh mất hiệu năng và mờ.</li>
 <li>Linux đọc hộ chiếu NFC: Sử dụng công cụ pypassport để đọc dữ liệu chip NFC hộ chiếu trong Linux, liên quan đến việc xây dựng lại MRZ và thảo luận về bảo mật.</li>
 </ol>
 <hr>
