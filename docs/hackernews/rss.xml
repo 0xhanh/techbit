@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-26 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250626-hacker-news-top-stories/</link><pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250626-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-26-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-27 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250627-hacker-news-top-stories/</link><pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250627-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-27-top-stories">
+  2025-06-27 Top Stories
+  <a class="anchor" href="#2025-06-27-top-stories">#</a>
+</h1>
+<ol>
+<li>Các nhà nghiên cứu đã thiết kế một vật thể hình kim tự tháp mới, luôn ổn định khi rơi trên cùng một mặt, xác minh một phỏng đoán toán học và có thể có các ứng dụng tiềm năng trong thiết kế tàu vũ trụ.</li>
+<li>Một bài viết kể về những hạn chế của việc đo lường tiến độ công việc bằng số lượng dòng code, và thông qua câu chuyện Bill Atkinson tối ưu hóa code đã khơi gợi cuộc thảo luận về tối ưu hóa code và đánh giá hiệu suất.</li>
+<li>Dự án QEMU cấm sử dụng trình tạo code AI, vì các vấn đề pháp lý và cấp phép của code do AI tạo ra chưa rõ ràng, có thể gây ra rủi ro bản quyền.</li>
+<li>Richard Feynman khuyên nên bắt đầu nghiên cứu từ những vấn đề đơn giản, nhấn mạnh rằng những vấn đề thực sự có giá trị là những vấn đề có thể giải quyết hoặc đóng góp, và khuyến khích tìm vị trí nghiên cứu của riêng mình.</li>
+<li>Các thử nghiệm cho thấy SteamOS 3.7 vượt trội hơn Windows 11 về hiệu năng chơi game, đặc biệt là trên thiết bị Lenovo Legion Go S.</li>
+<li>Lưới điện mặt trời siêu nhỏ ở Puerto Rico đã duy trì thành công nguồn cung cấp điện trong thời gian mất điện trên toàn đảo, thể hiện tiềm năng của năng lượng tái tạo.</li>
+<li>AlphaGenome do DeepMind phát triển có thể dự đoán tác động của các biến thể trình tự DNA đối với các quá trình sinh học, dự kiến sẽ cung cấp để sử dụng phi thương mại thông qua API.</li>
+<li>Anthropic ra mắt tính năng mới, cho phép các nhà phát triển xây dựng và lưu trữ các ứng dụng do AI điều khiển trực tiếp trong ứng dụng Claude mà không cần triển khai.</li>
+<li>Libxml2 thông báo sẽ không còn tuân theo chính sách cấm vận an ninh, coi các vấn đề an ninh là xử lý lỗi thông thường, gây ra cuộc thảo luận về bảo trì dự án mã nguồn mở và báo cáo an ninh.</li>
+<li>Dân số nhà tù ở Hoa Kỳ đã giảm đáng kể, dự kiến sẽ giảm khoảng 60% trong thập kỷ tới, chủ yếu là do giảm tội phạm vị thành niên.</li>
+</ol>
+<hr>
+<h2 id="một-hình-dạng-mới-giống-kim-tự-tháp-luôn-đáp-xuống-cùng-một-mặt">
+  Một hình dạng mới giống kim tự tháp luôn đáp xuống cùng một mặt
+  <a class="anchor" href="#m%e1%bb%99t-h%c3%acnh-d%e1%ba%a1ng-m%e1%bb%9bi-gi%e1%bb%91ng-kim-t%e1%bb%b1-th%c3%a1p-lu%c3%b4n-%c4%91%c3%a1p-xu%e1%bb%91ng-c%c3%b9ng-m%e1%bb%99t-m%e1%ba%b7t">#</a>
+</h2>
+<blockquote>
+<p>A new pyramid-like shape always lands the same side up</p>]]></description></item><item><title>2025-06-26 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250626-hacker-news-top-stories/</link><pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250626-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-26-top-stories">
   2025-06-26 Top Stories
   <a class="anchor" href="#2025-06-26-top-stories">#</a>
 </h1>
@@ -415,24 +437,4 @@
   <a class="anchor" href="#t%e1%bb%b1-l%c6%b0u-tr%e1%bb%af-media-c%e1%bb%a7a-ri%c3%aang-b%e1%ba%a1n-b%e1%bb%8b-youtube-coi-l%c3%a0-c%c3%b3-h%e1%ba%a1i">#</a>
 </h2>
 <blockquote>
-<p>Self-hosting your own media considered harmful according to YouTube</p>]]></description></item><item><title>2025-06-06 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/</link><pubDate>Fri, 06 Jun 2025 09:56:03 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/2025-06-06-20250606-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-tin-tức-trên-hacker-news-ngày-2025-06-06">
-  Top tin tức trên Hacker News ngày 2025-06-06
-  <a class="anchor" href="#top-tin-t%e1%bb%a9c-tr%c3%aan-hacker-news-ng%c3%a0y-2025-06-06">#</a>
-</h1>
-<ol>
-<li>OpenAI phản đối lệnh của tòa án yêu cầu lưu giữ tất cả nhật ký ChatGPT, cho rằng lệnh này thiếu cơ sở pháp lý và xâm phạm quyền riêng tư của người dùng.</li>
-<li>Nhóm Chrome đề xuất hạn chế các trang web truy cập mạng cục bộ của người dùng, nhằm tăng cường bảo mật và đơn giản hóa việc kiểm soát quyền.</li>
-<li>Bản cập nhật Cursor 1.0 giới thiệu nhiều tính năng cốt lõi, bao gồm BugBot tự động đánh giá mã và Background Agent được mở hoàn toàn.</li>
-<li>Tesla tìm cách bảo vệ dữ liệu va chạm xe không bị công khai tại tòa án, để tránh rò rỉ bí mật thương mại.</li>
-<li>Google thử nghiệm hạn chế cài đặt ứng dụng Android sideload ở Singapore, làm dấy lên lo ngại về quyền tự chủ của người dùng và tính mở của hệ sinh thái.</li>
-<li>Nghiên cứu khám phá cuộc chạy đua vũ trang sinh thái và tình thế tiến thoái lưỡng nan trong quá trình tiến hóa giữa kỳ nhông da sần sùi ở vùng tây bắc Thái Bình Dương của Bắc Mỹ và rắn đuôi chuông California.</li>
-<li>Công nghệ bản đồ độ sâu của iPhone 15 Pro lưu trữ siêu dữ liệu thông qua định dạng HEIC, có thể được các nhà phát triển sử dụng để phân tích và diễn giải.</li>
-<li>Air Lab là một thiết bị đo chất lượng không khí mở, di động, hỗ trợ đo dữ liệu môi trường và kiểm tra phản hồi của cảm biến.</li>
-<li>Máy bay không người lái tự hành AI do Đại học Công nghệ Delft phát triển lần đầu tiên đánh bại nhà vô địch là con người trong một cuộc thi quốc tế, cho thấy tiềm năng của AI trong điều khiển thời gian thực.</li>
-<li>Google DeepMind chính thức giới thiệu các mô hình AI và dự án nghiên cứu của mình, bao gồm dòng Gemini, dòng Gemma và các ứng dụng trong nhiều lĩnh vực.</li>
-</ol>
-<h2 id="openai-slams-court-order-to-save-all-chatgpt-logs-including-deleted-chats">
-  OpenAI slams court order to save all ChatGPT logs, including deleted chats
-  <a class="anchor" href="#openai-slams-court-order-to-save-all-chatgpt-logs-including-deleted-chats">#</a>
-</h2>
-<p><a href="https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/">https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/</a></p>]]></description></item></channel></rss>
+<p>Self-hosting your own media considered harmful according to YouTube</p>]]></description></item></channel></rss>
