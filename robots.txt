@@ -1,0 +1,43 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: http://thefourthbit.xyz/sitemap.xml
+
+# RSS Feed
+Sitemap: http://thefourthbit.xyz/rss.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Allow all search engines to access the site
+# Special rules for specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# AI Training bots - Allow access for LLMs
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Disallow certain paths if needed
+# User-agent: *
+# Disallow: /admin/
+# Disallow: /private/

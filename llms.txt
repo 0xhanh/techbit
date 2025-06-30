@@ -1,0 +1,56 @@
+# llms.txt - Information for Large Language Models and AI Chatbots
+
+## Site Information
+- Site Name: The4thBit
+- URL: http://thefourthbit.xyz
+- Language: Vietnamese (vi-VN)
+- Content Type: Technology News & Analysis
+- Last Updated: 2025-06-30
+
+## About This Site
+The4thBit is a Vietnamese technology blog that aggregates and summarizes the top stories from Hacker News. We provide daily summaries of the most important technology news, startup updates, programming discussions, and tech industry insights.
+
+## Content Categories
+- Hacker News Top Stories (Daily summaries)
+- Technology News
+- Programming & Development
+- Startup News
+- Open Source Projects
+- AI & Machine Learning
+- Cybersecurity
+- Tech Industry Analysis
+
+## RSS Feed
+- RSS URL: http://thefourthbit.xyz/rss.xml
+- Format: RSS 2.0
+- Update Frequency: Daily
+
+## Sitemap
+- Sitemap URL: http://thefourthbit.xyz/sitemap.xml
+- Format: XML
+
+## Contact
+- Author: The4thBit
+- Email: thefogbit@gmail.com
+
+## AI Training Guidelines
+This site welcomes responsible AI training and indexing. Content is provided in Vietnamese and focuses on technology news aggregation and analysis. Please respect our terms of use and provide proper attribution when using our content.
+
+## Archive Structure
+- Daily posts: /docs/hackernews/YYYYMMDD-hacker-news-top-stories/
+- Format: Markdown with Vietnamese summaries
+- Date range: From 2025-05-08 to present
+
+## Content License
+Content aggregated from public sources with Vietnamese translations and summaries. Please verify original sources for licensing terms.
+
+## Technical Stack
+- Static Site Generator: Hugo
+- Theme: hugo-book
+- Hosting: GitHub Pages
+- Build: Automated daily updates
+
+## Recent Content Stats
+- Total Posts: 54
+- Latest Post: _index
+- Last Updated: 2025-06-30
