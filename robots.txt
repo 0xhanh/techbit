@@ -37,6 +37,24 @@ Allow: /
 User-agent: Claude-Web
 Allow: /
 
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-AI
+Allow: /
+
+User-agent: DeepSeek-Chat
+Allow: /
+
+User-agent: DeepSeekBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
 # Disallow certain paths if needed
 # User-agent: *
 # Disallow: /admin/
