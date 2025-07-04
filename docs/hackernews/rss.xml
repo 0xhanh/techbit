@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-03 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250703-hacker-news-top-stories/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250703-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-03-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-04 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250704-hacker-news-top-stories/</link><pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250704-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-04-top-stories">
+  2025-07-04 Top Stories
+  <a class="anchor" href="#2025-07-04-top-stories">#</a>
+</h1>
+<ol>
+<li>Collin Richards đã chuyển tmux từ ngôn ngữ C sang ngôn ngữ Rust, mất 6 tháng, dịch thủ công mã và chia sẻ kinh nghiệm sửa lỗi.</li>
+<li>Trang web chính thức của Đánh giá Khí hậu Quốc gia Hoa Kỳ đã đóng cửa, công chúng không thể tiếp cận thông tin quan trọng về biến đổi khí hậu, các nhà khoa học lo ngại rằng hành động này có thể làm tăng nguy cơ gây hại cho công chúng.</li>
+<li>Trình ghi chú AI được sử dụng rộng rãi trong các cuộc họp Zoom, một số người cho rằng nó làm giảm tương tác giữa các cá nhân, nhưng cũng được coi là một công cụ hữu ích để nâng cao hiệu quả.</li>
+<li>Các nhà thiên văn học đã phát hiện ra vật thể giữa các vì sao thứ ba 3I/ATLAS, có tốc độ nhanh nhất, quỹ đạo bất thường và dự kiến khó quan sát.</li>
+<li>Armin Ronacher thảo luận về những hạn chế của MCP, nhấn mạnh rằng việc sử dụng trực tiếp các công cụ mã hiệu quả hơn và trình bày các ứng dụng thực tế của việc kết hợp mã với LLM.</li>
+<li>Couchers.org chính thức kết thúc giai đoạn Beta, ra mắt phiên bản 1.0, nâng cao trải nghiệm du lịch bụi và sự an toàn của cộng đồng.</li>
+<li>Tác giả thảo luận về những thách thức trong việc xây dựng AI Agent, chỉ ra các vấn đề về quản lý ngữ cảnh và độ tin cậy, đồng thời kêu gọi tập trung hơn vào việc tạo ra giá trị thực tế.</li>
+<li>Một bài viết kể về kinh nghiệm gỡ lỗi một lỗi khó tái hiện trong kernel Linux, giới thiệu chi tiết quy trình và phương pháp gỡ lỗi.</li>
+<li>Một nhà nghiên cứu bảo mật đã sử dụng GitHub API để quét các commit đã bị xóa, phát hiện ra các bí mật bị rò rỉ và nhấn mạnh rằng ngay cả khi xóa commit, bí mật vẫn có thể được tìm thấy.</li>
+<li>Bài viết thảo luận về chiến thuật lý thuyết được gọi là &ldquo;Pháo binh nông dân&rdquo; trong phiên bản thứ năm của &ldquo;Ngục tối và Rồng&rdquo;, sử dụng các lỗ hổng trong quy tắc để gây ra sát thương lớn cho kẻ thù.</li>
+</ol>
+<hr>
+<h2 id="giới-thiệu-tmux-rs">
+  Giới thiệu tmux-rs
+  <a class="anchor" href="#gi%e1%bb%9bi-thi%e1%bb%87u-tmux-rs">#</a>
+</h2>
+<blockquote>
+<p>Introducing tmux-rs</p>]]></description></item><item><title>2025-07-03 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250703-hacker-news-top-stories/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250703-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-03-top-stories">
   2025-07-03 Top Stories
   <a class="anchor" href="#2025-07-03-top-stories">#</a>
 </h1>
@@ -416,26 +438,4 @@
   <a class="anchor" href="#t%c3%b4i-%c4%91%c3%a3-thuy%e1%ba%bft-ph%e1%bb%a5c-h%e1%bb%99i-%c4%91%e1%bb%93ng-qu%e1%ba%a3n-tr%e1%bb%8b-c%e1%bb%a7a-hp-mua-palm-v%c3%a0-ch%e1%bb%a9ng-ki%e1%ba%bfn-h%e1%bb%8d-gi%e1%ba%bft-ch%e1%ba%bft-n%c3%b3">#</a>
 </h2>
 <blockquote>
-<p>I convinced HP’s board to buy Palm and watched them kill it</p>]]></description></item><item><title>2025-06-14 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250614-hacker-news-top-stories/</link><pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250614-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-14-06-2025">
-  Top các câu chuyện trên Hacker News ngày 14-06-2025
-  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-14-06-2025">#</a>
-</h1>
-<ol>
-<li>GCP đã gặp sự cố kéo dài 7 giờ 27 phút vào ngày 13 tháng 6 năm 2025, ảnh hưởng đến 52 sản phẩm và 58 khu vực, có thể do lỗi của dịch vụ nội bộ Chemist gây ra và lan sang các dịch vụ bên thứ ba phụ thuộc vào GCP.</li>
-<li>Việc xác thực lại thường xuyên không cải thiện tính bảo mật, có thể dẫn đến gián đoạn quy trình làm việc và sự mệt mỏi khi xác thực đa yếu tố, bảo mật nên được thực hiện thông qua quản lý quyền truy cập hiệu quả và các chính sách phản ứng nhanh.</li>
-<li>Bộ cấp phát bộ nhớ Jemalloc đã trải qua ba giai đoạn phát triển chính kể từ khi ra đời vào năm 2004, giải quyết thành công vấn đề phân mảnh và đạt được những thành tựu đáng kể về hiệu suất, nhưng sự phát triển đã chậm lại trong thời kỳ Meta.</li>
-<li>Nếu Mặt trăng chỉ có một pixel, mô hình Hệ Mặt Trời thể hiện sự rộng lớn của vũ trụ, tốc độ ánh sáng có vẻ chậm trên quy mô vũ trụ, nhận thức của con người về vũ trụ bị giới hạn bởi quy mô và sự trao đổi chất của chính họ.</li>
-<li>Bằng cách raster hóa trực tiếp các đường cong glyph, việc hiển thị văn bản rõ ràng theo thời gian thực trên GPU đã được thực hiện, giải quyết các vấn đề về khử răng cưa sub-pixel và hiển thị chất lượng cao.</li>
-<li>Meta đã đầu tư 14,3 tỷ đô la để khởi động phòng thí nghiệm siêu trí tuệ, tăng cường sức mạnh của mình trong lĩnh vực trí tuệ nhân tạo, cho thấy bố cục chiến lược và quyết tâm cạnh tranh của mình trong lĩnh vực AI.</li>
-<li>Cloudflare đã gặp sự cố dịch vụ do sự cố của dịch vụ Workers KV quan trọng, có thể liên quan đến lỗi của dịch vụ bên thứ ba, sự cố đã được khôi phục nhưng vẫn đang theo dõi tính ổn định của nền tảng.</li>
-<li>OxCaml là một phần mở rộng của ngôn ngữ lập trình OCaml, tập trung vào tối ưu hóa hiệu suất, đặc biệt là về đồng thời và quản lý bộ nhớ, phù hợp cho các tình huống ứng dụng hiệu suất cao, nhưng vẫn đang trong giai đoạn thử nghiệm.</li>
-<li>Một số đế chế công nghệ quảng cáo giả mạo sử dụng CAPTCHA giả mạo và thông báo đẩy để truyền bá thông tin sai lệch, vượt qua kiểm duyệt nội dung của các nền tảng truyền thông xã hội, gây ra mối đe dọa an ninh mạng.</li>
-<li>Một ứng dụng khách BitTorrent được viết từ đầu bằng ngôn ngữ Go đã triển khai các chức năng cốt lõi, bao gồm phân tích tệp torrent và giao tiếp ngang hàng, dự kiến sẽ thêm hỗ trợ liên kết từ tính và DHT.</li>
-</ol>
-<hr>
-<h2 id="sự-cố-ngừng-hoạt-động-gcp">
-  Sự cố ngừng hoạt động GCP
-  <a class="anchor" href="#s%e1%bb%b1-c%e1%bb%91-ng%e1%bb%abng-ho%e1%ba%a1t-%c4%91%e1%bb%99ng-gcp">#</a>
-</h2>
-<blockquote>
-<p>GCP Outage</p>]]></description></item></channel></rss>
+<p>I convinced HP’s board to buy Palm and watched them kill it</p>]]></description></item></channel></rss>
