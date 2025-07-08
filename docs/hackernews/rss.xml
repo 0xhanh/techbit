@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-07 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250707-hacker-news-top-stories/</link><pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250707-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-07-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-08 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250708-hacker-news-top-stories/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250708-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-08-top-stories">
+  2025-07-08 Top Stories
+  <a class="anchor" href="#2025-07-08-top-stories">#</a>
+</h1>
+<ol>
+<li>Bitchat: Một ứng dụng nhắn tin Bluetooth an toàn, phi tập trung, sử dụng mạng lưới Bluetooth để giao tiếp ngang hàng, không cần Internet hoặc số điện thoại, hỗ trợ mã hóa đầu cuối và bảo vệ quyền riêng tư.</li>
+<li>Chức năng lỗi ChatGPT: Soundslice đã phát triển chức năng nhập tab guitar ASCII do thông tin sai lệch từ ChatGPT, phản ánh những tác động thực tế mà AI tạo sinh có thể gây ra.</li>
+<li>Bộ lọc an toàn mô hình của Apple: Giải mã bộ lọc an toàn của mô hình thông minh Apple, tiết lộ cơ chế kiểm duyệt nội dung và một số tổ hợp lọc thú vị.</li>
+<li>Cá tính và nhãn mác: Trong xã hội hiện đại, cá tính bị thay thế bằng các nhãn chẩn đoán tâm lý, dẫn đến việc mọi người trở thành &ldquo;sản phẩm y tế hóa&rdquo;.</li>
+<li>Apple Lisa Web OS: Một hệ điều hành web dựa trên giao diện người dùng Apple Lisa, được viết hoàn toàn bằng JavaScript thuần túy, tái hiện lại giao diện cổ điển.</li>
+<li>LLM phi nhân hóa: Thảo luận về góc nhìn phi nhân hóa của các mô hình ngôn ngữ lớn, nhấn mạnh rằng chúng là các công cụ toán học phức tạp chứ không phải là các thực thể nhân hóa.</li>
+<li>Tranh cãi về bản quyền của Anthropic: Anthropic bị kiện vì sử dụng trái phép quy mô lớn các cuốn sách có bản quyền để huấn luyện mô hình AI, thẩm phán phán quyết rằng việc sử dụng hợp lý sách có bản quyền là hợp pháp nhưng hành vi vi phạm bản quyền là không được chấp nhận.</li>
+<li>Mô hình khuếch tán Mercury: Mercury là một mô hình ngôn ngữ siêu nhanh dựa trên khuếch tán, hoạt động xuất sắc trong các tác vụ lập trình, với tốc độ vượt xa các mô hình tiên tiến.</li>
+<li>Quan điểm phát triển AGI: Tác giả cho rằng trí tuệ nhân tạo tổng quát (AGI) sẽ không sớm xuất hiện, chủ yếu là do nó thiếu khả năng học hỏi liên tục như con người.</li>
+<li>Tiếng Anh không có dấu trọng âm: Lý do tiếng Anh không sử dụng dấu trọng âm có thể bắt nguồn từ sự phát triển của ngôn ngữ sau cuộc chinh phục của người Norman, hình thành nên một hệ thống chính tả độc đáo.</li>
+</ol>
+<hr>
+<h2 id="bitchat--một-ứng-dụng-nhắn-tin-phi-tập-trung-hoạt-động-trên-mạng-lưới-mesh-bluetooth">
+  Bitchat – Một ứng dụng nhắn tin phi tập trung hoạt động trên mạng lưới mesh Bluetooth
+  <a class="anchor" href="#bitchat--m%e1%bb%99t-%e1%bb%a9ng-d%e1%bb%a5ng-nh%e1%ba%afn-tin-phi-t%e1%ba%adp-trung-ho%e1%ba%a1t-%c4%91%e1%bb%99ng-tr%c3%aan-m%e1%ba%a1ng-l%c6%b0%e1%bb%9bi-mesh-bluetooth">#</a>
+</h2>
+<blockquote>
+<p>Bitchat – A decentralized messaging app that works over Bluetooth mesh networks</p>]]></description></item><item><title>2025-07-07 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250707-hacker-news-top-stories/</link><pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250707-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-07-top-stories">
   2025-07-07 Top Stories
   <a class="anchor" href="#2025-07-07-top-stories">#</a>
 </h1>
@@ -417,26 +439,4 @@
   <a class="anchor" href="#honda-ti%e1%ba%bfn-h%c3%a0nh-ph%c3%b3ng-v%c3%a0-h%e1%ba%a1-c%c3%a1nh-th%c3%a0nh-c%c3%b4ng-t%c3%aan-l%e1%bb%ada-t%c3%a1i-s%e1%bb%ad-d%e1%bb%a5ng-th%e1%bb%ad-nghi%e1%bb%87m">#</a>
 </h2>
 <blockquote>
-<p>Honda conducts successful launch and landing of experimental reusable rocket</p>]]></description></item><item><title>2025-06-17 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250617-hacker-news-top-stories/</link><pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250617-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hacker-news-ngày-17-06-2025">
-  Top các câu chuyện trên Hacker News ngày 17-06-2025
-  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hacker-news-ng%c3%a0y-17-06-2025">#</a>
-</h1>
-<ol>
-<li>Một người đàn ông vào tù vì tội phạm ma túy đã học lập trình thông qua một dự án trong tù và nhận được vị trí kỹ sư phần mềm tại Turso thông qua Project Limbo, cho thấy khả năng phục hồi và việc làm của tội phạm.</li>
-<li>Bow Shock Systems Consulting đề xuất thành lập một câu lạc bộ phục hồi Internet, sử dụng radio LoRa và phần mềm Meshtastic để thực hiện liên lạc giữa các cộng đồng trong trường hợp mất kết nối Internet, nhằm giải quyết vấn đề gián đoạn Internet.</li>
-<li>Các API công khai của Android ẩn chứa nhiều phương thức và hằng số hài hước, chẳng hạn như isUserAMonkey() và isUserAGoat(), thể hiện sự hài hước của các nhà phát triển trong công việc nghiêm túc.</li>
-<li>Nanonets-OCR-s là một mô hình OCR tiên tiến, có thể chuyển đổi tài liệu thành Markdown có cấu trúc, hỗ trợ nhận dạng bảng, công thức và hình ảnh, nhưng có thể tồn tại vấn đề &ldquo;ảo giác&rdquo;.</li>
-<li>Nghiên cứu chỉ ra rằng việc sử dụng các mô hình ngôn ngữ lớn để hỗ trợ viết có thể dẫn đến gánh nặng nhận thức, làm suy yếu khả năng diễn đạt và hiểu sâu sắc, ảnh hưởng đến giáo dục và hiệu quả học tập.</li>
-<li>David Attenborough ở tuổi 99 đã hồi tưởng lại tình yêu của mình đối với đại dương và lạc quan về sự phục hồi của đại dương trong tương lai, nhấn mạnh tiềm năng của con người trong việc giải quyết các vấn đề về đại dương.</li>
-<li>Một lý thuyết mới cho rằng trọng lực có thể là biểu hiện của sự gia tăng entropy, cho rằng sự rung động và trộn lẫn ngẫu nhiên của các hạt dẫn đến hiện tượng trọng lực và có liên quan đến nhiệt động lực học lỗ đen.</li>
-<li>WhatsApp thông báo sẽ giới thiệu quảng cáo trong ứng dụng, sử dụng dữ liệu người dùng để nhắm mục tiêu quảng cáo, nhưng nội dung tin nhắn và nhật ký cuộc gọi vẫn được mã hóa đầu cuối, gây ra tranh cãi về quyền riêng tư.</li>
-<li>Zeekstd là một định dạng có thể định địa chỉ Zstandard được triển khai bằng Rust, hỗ trợ đọc ngẫu nhiên và giải nén hiệu quả dữ liệu nén, phù hợp với các tệp nén được lưu trữ từ xa.</li>
-<li>Vương quốc Anh có kế hoạch đóng cửa phần lớn các tổng đài điện thoại truyền thống trong thập kỷ tới, thay vào đó cung cấp dịch vụ băng thông rộng cáp quang thông qua &ldquo;tổng đài kỹ thuật số siêu cấp&rdquo;, đánh dấu sự chuyển đổi kỹ thuật số của hệ thống viễn thông.</li>
-</ol>
-<hr>
-<h2 id="làm-việc-với-cơ-sở-dữ-liệu-từ-nhà-tù">
-  Làm việc với cơ sở dữ liệu từ nhà tù
-  <a class="anchor" href="#l%c3%a0m-vi%e1%bb%87c-v%e1%bb%9bi-c%c6%a1-s%e1%bb%9f-d%e1%bb%af-li%e1%bb%87u-t%e1%bb%ab-nh%c3%a0-t%c3%b9">#</a>
-</h2>
-<blockquote>
-<p>Working on databases from prison</p>]]></description></item></channel></rss>
+<p>Honda conducts successful launch and landing of experimental reusable rocket</p>]]></description></item></channel></rss>
