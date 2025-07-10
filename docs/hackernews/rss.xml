@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-09 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250709-hacker-news-top-stories/</link><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250709-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-09-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-10 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250710-hacker-news-top-stories/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250710-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-10-top-stories">
+  2025-07-10 Top Stories
+  <a class="anchor" href="#2025-07-10-top-stories">#</a>
+</h1>
+<ol>
+<li>Giao thức Model Context Protocol (MCP) của Supabase có thể dẫn đến rò rỉ cơ sở dữ liệu SQL.</li>
+<li>Tòa án Hoa Kỳ đã bác bỏ quy định &ldquo;nhấp để hủy&rdquo; của FTC, cho rằng quy trình xây dựng quy định có sai sót về thủ tục, quy định yêu cầu các công ty cung cấp phương thức hủy dịch vụ dễ dàng như đăng ký dịch vụ.</li>
+<li>Tree Borrows của Rust thay thế cấu trúc ngăn xếp bằng cấu trúc cây, giải quyết các hạn chế của Stacked Borrows, thể hiện hiệu suất vượt trội trong thử nghiệm với 30.000 gói và đã giành được giải thưởng bài báo xuất sắc PLDI'25.</li>
+<li>Lỗ hổng CVE-2025-48384 của Git thông qua việc chèn ký tự xuống dòng, kẻ tấn công có thể thực thi mã từ xa khi sao chép các submodule, người dùng cần cập nhật Git lên phiên bản đã sửa lỗi và thận trọng khi sử dụng tùy chọn –recursive.</li>
+<li>Ikea chuyển sang tiêu chuẩn Thread và Matter, ra mắt hơn 20 thiết bị nhà thông minh, thay thế các thiết bị Zigbee, hỗ trợ khả năng tương thích với các thiết bị của các thương hiệu khác, dự kiến phát hành vào tháng 1 năm 2025.</li>
+<li>Linda Yaccarino từ chức CEO của công ty X, sau hai năm tại vị, không nêu rõ lý do từ chức, công ty đã trải qua những thay đổi lớn sau khi bị Musk mua lại.</li>
+<li>Nhiều API được gọi là &ldquo;RESTful&rdquo; không tuân thủ đầy đủ các nguyên tắc REST, đặc biệt là về mặt siêu phương tiện (HATEOAS), luận văn của Fielding định nghĩa các ràng buộc cốt lõi của REST.</li>
+<li>Bulgaria sẽ chính thức gia nhập khu vực đồng euro vào ngày 1 tháng 1 năm 2026, tỷ giá hối đoái giữa Lev và Euro là 1,95583, đánh dấu một bước tiến quan trọng trong quá trình hội nhập kinh tế của nước này.</li>
+<li>Framework Astro lấy HTML tĩnh làm cốt lõi, chỉ tải JavaScript khi cần tương tác, sử dụng &ldquo;kiến trúc đảo&rdquo; để tối ưu hóa hiệu suất, phù hợp với các trang web hướng nội dung, nhưng không phù hợp với SPA phức tạp.</li>
+<li>RapidRAW là một trình chỉnh sửa ảnh RAW không phá hủy và được tăng tốc bằng GPU, được tạo bởi một nhà phát triển 18 tuổi, với mục tiêu trở thành một sự thay thế hiện đại cho Adobe Lightroom.</li>
+</ol>
+<hr>
+<h2 id="supabase-mcp-có-thể-làm-rò-rỉ-toàn-bộ-cơ-sở-dữ-liệu-sql-của-bạn">
+  Supabase MCP có thể làm rò rỉ toàn bộ cơ sở dữ liệu SQL của bạn
+  <a class="anchor" href="#supabase-mcp-c%c3%b3-th%e1%bb%83-l%c3%a0m-r%c3%b2-r%e1%bb%89-to%c3%a0n-b%e1%bb%99-c%c6%a1-s%e1%bb%9f-d%e1%bb%af-li%e1%bb%87u-sql-c%e1%bb%a7a-b%e1%ba%a1n">#</a>
+</h2>
+<blockquote>
+<p>Supabase MCP can leak your entire SQL database</p>]]></description></item><item><title>2025-07-09 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250709-hacker-news-top-stories/</link><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250709-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-09-top-stories">
   2025-07-09 Top Stories
   <a class="anchor" href="#2025-07-09-top-stories">#</a>
 </h1>
@@ -417,26 +439,4 @@
   <a class="anchor" href="#andrej-karpathy-ph%e1%ba%a7n-m%e1%bb%81m-trong-k%e1%bb%b7-nguy%c3%aan-ai-video-">#</a>
 </h2>
 <blockquote>
-<p>Andrej Karpathy: Software in the era of AI [video] <a href="#andrej-karpathy-software-in-the-era-of-ai-video">#</a></p>]]></description></item><item><title>2025-06-19 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250619-hacker-news-top-stories/</link><pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250619-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-19">
-  Top các câu chuyện trên HackerNews ngày 2025-06-19
-  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-2025-06-19">#</a>
-</h1>
-<ol>
-<li>《Nhà phát triển đầu to》 chủ trương đơn giản hóa code bằng quy tắc 80/20, tránh trừu tượng hóa quá sớm, và đề xuất &ldquo;kiểm thử trung gian&rdquo; hữu dụng hơn kiểm thử đơn vị, thông qua cách thức hài hước tự trào.</li>
-<li>Tác giả vô tình hồi sinh trình theo dõi torrent đã ngừng hoạt động, phát hiện 3,1 triệu peer, tiết lộ rủi ro tập trung và nguy cơ pháp lý, cuối cùng phải đóng cửa dịch vụ vì lựa chọn tên miền thanh toán bằng thẻ tín dụng.</li>
-<li>Nền tảng thể dục nguồn mở Workout.cool hồi sinh dự án bỏ hoang với giấy phép MIT, hỗ trợ triển khai cục bộ, nhưng một số người dùng báo cáo lỗi tải, tác giả gốc kêu gọi hợp tác.</li>
-<li>Anthropic khuyên khi xây dựng AI Agent nên ưu tiên sử dụng API LLM cơ bản và mô hình đơn giản, nhấn mạnh việc hiểu code nền tảng và tránh phụ thuộc quá mức vào framework trong các tình huống đơn giản.</li>
-<li>Scrappy cho phép người dùng nhanh chóng tạo ứng dụng cá nhân thông qua kéo thả đối tượng và một ít JavaScript, chủ trương quay trở lại thao tác trực tiếp thay vì tạo code bằng AI.</li>
-<li>Iran cáo buộc WhatsApp làm rò rỉ thông tin người dùng và yêu cầu xóa phần mềm này, nhưng Meta nhấn mạnh mã hóa đầu cuối, các chuyên gia chỉ ra rằng vẫn còn rủi ro về metadata.</li>
-<li>Kiểm toán viên thành phố New York Brad Lander gây tranh cãi vì đi cùng những người bị ICE giam giữ bên ngoài tòa án di trú, cáo buộc liên bang thiếu bằng chứng, sự kiện bị tiêu đề đánh lừa.</li>
-<li>Thư viện bzip2 được viết lại bằng Rust giúp tăng tốc độ nén và giải nén từ 5-15%, loại bỏ sự phức tạp trong quá trình biên dịch C, có thể trở thành giải pháp thay thế chính thức của Linux.</li>
-<li>Mô hình trọng số mở MiniMax-M1 có số lượng tham số đạt 456 tỷ, hỗ trợ ngữ cảnh 1 triệu token, cần nhiều H200 GPU để chạy, chi phí sau khi lượng tử hóa có thể giảm xuống dưới 10.000 đô la.</li>
-<li>Bài viết so sánh Google Dịch với lĩnh vực lập trình, chỉ ra rằng mặc dù LLM có thể xử lý cấu trúc code, nhưng khó đối phó với ngữ cảnh văn hóa và ẩn dụ trừu tượng, cần trải qua &ldquo;mùa đông AI&rdquo; để vượt qua giới hạn.</li>
-</ol>
-<hr>
-<h2 id="nhà-phát-triển-đầu-óc-grug-2022">
-  Nhà Phát Triển Đầu Óc Grug (2022)
-  <a class="anchor" href="#nh%c3%a0-ph%c3%a1t-tri%e1%bb%83n-%c4%91%e1%ba%a7u-%c3%b3c-grug-2022">#</a>
-</h2>
-<blockquote>
-<p>The Grug Brained Developer (2022)</p>]]></description></item></channel></rss>
+<p>Andrej Karpathy: Software in the era of AI [video] <a href="#andrej-karpathy-software-in-the-era-of-ai-video">#</a></p>]]></description></item></channel></rss>
