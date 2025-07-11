@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-10 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250710-hacker-news-top-stories/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250710-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-10-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-11 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250711-hacker-news-top-stories/</link><pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250711-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-11-top-stories">
+  2025-07-11 Top Stories
+  <a class="anchor" href="#2025-07-11-top-stories">#</a>
+</h1>
+<ol>
+<li>Nghiên cứu phát hiện công cụ AI lại dẫn đến việc giảm năng suất của các nhà phát triển mã nguồn mở giàu kinh nghiệm.</li>
+<li>Grok 4 được phát hành với tư cách là mô hình AI mạnh nhất toàn cầu, gây ra các cuộc thảo luận rộng rãi về giá cả và chức năng của nó.</li>
+<li>Tòa án Đức phán quyết công nghệ theo dõi của Meta vi phạm các quy định về quyền riêng tư của Châu Âu, yêu cầu bồi thường và có thể ảnh hưởng đến các vụ kiện tập thể trong tương lai.</li>
+<li>Dự án mã nguồn mở FlopperZiro cung cấp một thiết bị nhân bản Flipper Zero chi phí thấp, để DIY và học tập.</li>
+<li>Giao thức MCP-B cho phép AI tương tác trực tiếp với các chức năng của trình duyệt, thông qua API để đạt được tự động hóa hiệu quả.</li>
+<li>Hoạt động giao tiếp xã hội của giới trẻ Mỹ giảm, đặc biệt là thời gian dự tiệc, phản ánh những thay đổi trong cơ cấu xã hội và kinh tế.</li>
+<li>Gemini 2.5 thể hiện xuất sắc trong nhiệm vụ phát hiện hộp giới hạn, nhưng vẫn cần tối ưu hóa để nâng cao độ chính xác.</li>
+<li>Nghiên cứu loại hình học về tiếng Anh Canada tiết lộ từ vựng và cách sử dụng độc đáo của nó, được phân loại thành sáu loại.</li>
+<li>Thư viện công cộng ở Virginia đã chống lại thành công việc tiếp quản vốn cổ phần tư nhân, làm dấy lên cuộc thảo luận về sự cân bằng giữa dịch vụ công và lợi nhuận.</li>
+<li>Dự án máy chủ MCP đơn giản hóa quá trình tìm kiếm và tải xuống tài liệu từ Anna’s Archive, nâng cao trải nghiệm người dùng.</li>
+</ol>
+<hr>
+<h2 id="đo-lường-tác-động-của-ai-lên-năng-suất-của-các-nhà-phát-triển-mã-nguồn-mở-giàu-kinh-nghiệm">
+  Đo lường tác động của AI lên năng suất của các nhà phát triển mã nguồn mở giàu kinh nghiệm
+  <a class="anchor" href="#%c4%91o-l%c6%b0%e1%bb%9dng-t%c3%a1c-%c4%91%e1%bb%99ng-c%e1%bb%a7a-ai-l%c3%aan-n%c4%83ng-su%e1%ba%a5t-c%e1%bb%a7a-c%c3%a1c-nh%c3%a0-ph%c3%a1t-tri%e1%bb%83n-m%c3%a3-ngu%e1%bb%93n-m%e1%bb%9f-gi%c3%a0u-kinh-nghi%e1%bb%87m">#</a>
+</h2>
+<blockquote>
+<p>Measuring the impact of AI on experienced open-source developer productivity</p>]]></description></item><item><title>2025-07-10 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250710-hacker-news-top-stories/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250710-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-10-top-stories">
   2025-07-10 Top Stories
   <a class="anchor" href="#2025-07-10-top-stories">#</a>
 </h1>
@@ -417,26 +439,4 @@
   <a class="anchor" href="#hurl-ch%e1%ba%a1y-v%c3%a0-ki%e1%bb%83m-th%e1%bb%ad-c%c3%a1c-y%c3%aau-c%e1%ba%a7u-http-b%e1%ba%b1ng-v%c4%83n-b%e1%ba%a3n-thu%e1%ba%a7n">#</a>
 </h2>
 <blockquote>
-<p>Hurl: Run and test HTTP requests with plain text</p>]]></description></item><item><title>2025-06-20 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250620-hacker-news-top-stories/</link><pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250620-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-các-câu-chuyện-trên-hackernews-ngày-2025-06-20">
-  Top các câu chuyện trên HackerNews ngày 2025-06-20
-  <a class="anchor" href="#top-c%c3%a1c-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-2025-06-20">#</a>
-</h1>
-<ol>
-<li>Andrej Karpathy thảo luận về ảnh hưởng sâu rộng của AI đối với ngành công nghiệp phần mềm, chỉ ra rằng LLMs đang trở thành một mô hình mới cho phần mềm, nhưng vẫn phải đối mặt với những thách thức về kỹ thuật và ứng dụng.</li>
-<li>Công cụ Unregistry cho phép người dùng đẩy trực tiếp các Docker image lên máy chủ từ xa mà không cần sử dụng kho lưu trữ bên ngoài, truyền qua SSH tunnel, phù hợp cho triển khai sản xuất và CI/CD pipeline.</li>
-<li>Zed debugger được phát hành, mặc dù các chức năng chưa hoàn thiện, nhưng đã hỗ trợ gỡ lỗi đa ngôn ngữ, trong tương lai dự kiến sẽ bổ sung thêm nhiều chức năng nâng cao.</li>
-<li>Quy tắc visa mới của Hoa Kỳ yêu cầu sinh viên nước ngoài mở khóa tài khoản mạng xã hội để xem xét, gây ra lo ngại về quyền riêng tư và tự do ngôn luận.</li>
-<li>Nghiên cứu phát hiện các trang web bí mật theo dõi người dùng thông qua kỹ thuật browser fingerprinting, ngay cả khi người dùng xóa cookies hoặc chọn không tham gia theo dõi, việc theo dõi vẫn diễn ra.</li>
-<li>Dự án Bento tích hợp bo mạch chủ Steam Deck OLED vào bên dưới bàn phím, thích hợp để sử dụng với màn hình ngoài, nhằm mục đích nâng cao tính di động.</li>
-<li>Tàu vũ trụ SpaceX Starship số 36 phát nổ trước khi thử nghiệm đốt tĩnh, nguyên nhân vẫn chưa rõ ràng, có thể ảnh hưởng đến kế hoạch phóng.</li>
-<li>Texas Instruments có kế hoạch đầu tư hơn 60 tỷ đô la Mỹ vào sản xuất chất bán dẫn cơ bản tại Hoa Kỳ, hỗ trợ nhu cầu trong các lĩnh vực quan trọng và thúc đẩy sự đổi mới của Hoa Kỳ.</li>
-<li>Lỗi nhận dạng OCR dẫn đến việc ngày 11 của tháng trong cơ sở dữ liệu Google Ngrams được đề cập với tần suất thấp bất thường, chủ yếu là do số &ldquo;1&rdquo; tương tự như chữ cái &ldquo;I&rdquo; hoặc &ldquo;l&rdquo;.</li>
-<li>Windows 10 sắp kết thúc hỗ trợ, khuyến nghị người dùng kéo dài tuổi thọ của máy tính cũ bằng cách cài đặt hệ điều hành Linux, cung cấp khả năng bảo mật tốt hơn và hỗ trợ cộng đồng.</li>
-</ol>
-<hr>
-<h2 id="andrej-karpathy-phần-mềm-trong-kỷ-nguyên-ai-video-">
-  Andrej Karpathy: Phần mềm trong kỷ nguyên AI [video] <a href="#andrej-karpathy-software-in-the-era-of-ai-video">#</a>
-  <a class="anchor" href="#andrej-karpathy-ph%e1%ba%a7n-m%e1%bb%81m-trong-k%e1%bb%b7-nguy%c3%aan-ai-video-">#</a>
-</h2>
-<blockquote>
-<p>Andrej Karpathy: Software in the era of AI [video] <a href="#andrej-karpathy-software-in-the-era-of-ai-video">#</a></p>]]></description></item></channel></rss>
+<p>Hurl: Run and test HTTP requests with plain text</p>]]></description></item></channel></rss>
