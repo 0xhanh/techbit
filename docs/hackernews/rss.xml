@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-13 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250713-hacker-news-top-stories/</link><pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250713-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-13-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HackerNews - The4thBit</title><link>http://thefourthbit.xyz/docs/hackernews/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/docs/hackernews/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-14 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250714-hacker-news-top-stories/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250714-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-14-top-stories">
+  2025-07-14 Top Stories
+  <a class="anchor" href="#2025-07-14-top-stories">#</a>
+</h1>
+<ol>
+<li>Sự chuyển đổi từ MV2 sang MV3 của Google Chrome đã loại bỏ quyền webRequestBlocking, nhưng phát hiện ra một lỗi cho phép vượt qua giới hạn đó.</li>
+<li>Các thành viên cộng đồng Mozilla đề xuất thu phí Firefox để hỗ trợ phát triển và cung cấp phiên bản không quảng cáo, không đo từ xa.</li>
+<li>Phán quyết của Tòa án Tối cao Hoa Kỳ khiến việc viết trực tuyến liên quan đến nội dung khiêu dâm gần như mất đi sự bảo vệ tự do ngôn luận.</li>
+<li>Tác giả lần đầu đọc &ldquo;Neuromancer&rdquo; vào năm 2025, ấn tượng sâu sắc với những mô tả công nghệ mang tính tương lai của nó.</li>
+<li>Ngôn ngữ lập trình Zig giới thiệu các tính năng I/O không đồng bộ mới, cho phép tùy chỉnh việc triển khai I/O và đưa vào mã phụ thuộc.</li>
+<li>Mô hình ngôn ngữ Kimi K2 do Moonshot AI ra mắt dựa trên kiến trúc Mixture of Experts, phù hợp cho nghiên cứu và trải nghiệm trò chuyện thông thường.</li>
+<li>Bài viết giải thích chi tiết nguyên lý hoạt động của màn hình, từ súng điện tử đến sự phát triển của bóng bán dẫn hiện đại.</li>
+<li>Một cư dân ở Arizona đã qua đời vì bệnh dịch hạch, các quan chức y tế công cộng kêu gọi người dân chú ý phòng ngừa.</li>
+<li>Vấn đề công nhân IT giả mạo từ Triều Tiên rất phổ biến, lợi dụng các phương tiện như deepfake để lừa đảo cơ hội làm việc từ xa.</li>
+<li>Bài viết khám phá các phương pháp triển khai coroutine trong ngôn ngữ C, không cần phụ thuộc vào hệ điều hành thời gian thực.</li>
+</ol>
+<hr>
+<h2 id="vượt-qua-bản-cập-nhật-lớn-chống-chặn-quảng-cáo-của-google">
+  Vượt qua bản cập nhật lớn chống chặn quảng cáo của Google
+  <a class="anchor" href="#v%c6%b0%e1%bb%a3t-qua-b%e1%ba%a3n-c%e1%ba%adp-nh%e1%ba%adt-l%e1%bb%9bn-ch%e1%bb%91ng-ch%e1%ba%b7n-qu%e1%ba%a3ng-c%c3%a1o-c%e1%bb%a7a-google">#</a>
+</h2>
+<blockquote>
+<p>Bypassing Google’s big anti-adblock update</p>]]></description></item><item><title>2025-07-13 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250713-hacker-news-top-stories/</link><pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250713-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-13-top-stories">
   2025-07-13 Top Stories
   <a class="anchor" href="#2025-07-13-top-stories">#</a>
 </h1>
@@ -417,26 +439,4 @@
   <a class="anchor" href="#t%c3%b4i-%c4%91%c3%a3-vi%e1%ba%bft-lu%e1%ba%adn-%c3%a1n-ti%e1%ba%bfn-s%c4%a9-c%e1%bb%a7a-m%c3%acnh-b%e1%ba%b1ng-typst">#</a>
 </h2>
 <blockquote>
-<p>I wrote my PhD Thesis in Typst</p>]]></description></item><item><title>2025-06-23 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250623-hacker-news-top-stories/</link><pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250623-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-23-06-2025">
-  Top Câu Chuyện trên HackerNews ngày 23-06-2025
-  <a class="anchor" href="#top-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-23-06-2025">#</a>
-</h1>
-<ol>
-<li>Hoa Kỳ phát động cuộc oanh tạc vào các cơ sở hạt nhân của Iran, làm leo thang căng thẳng giữa hai bên và gây ra sự quan tâm quốc tế.</li>
-<li>Tác giả đã tạo ra mô hình xem chi tiết (exploded view) của đồng hồ cơ, ghi lại toàn bộ quá trình sản xuất từ ý tưởng đến khi hoàn thành.</li>
-<li>Tính năng ghi chú của Git rất mạnh mẽ nhưng không được sử dụng rộng rãi, phù hợp để thêm metadata mà không cần sửa đổi commit.</li>
-<li>Tiện ích mở rộng trình duyệt LibRedirect chuyển hướng các trang web chính thống đến các dịch vụ frontend thay thế, chú trọng quyền riêng tư.</li>
-<li>Phân tích sâu thiết kế, kiến trúc và lợi thế hiệu năng của Google TPU trong lĩnh vực AI.</li>
-<li>Hoa Kỳ tấn công các cơ sở hạt nhân của Iran, Trump gọi đó là một thành công quân sự, Iran thề sẽ đáp trả.</li>
-<li>Dự án LaborBerlin nhằm mục đích phát triển máy chiếu phim 16mm mã nguồn mở, giải quyết vấn đề bảo trì các thiết bị cũ.</li>
-<li>Công nghệ AI thúc đẩy kỷ nguyên các nhóm nhỏ ở Thung lũng Silicon, nâng cao hiệu quả, cho phép các nhóm nhỏ hoàn thành các dự án quy mô lớn hơn.</li>
-<li>Sound As Pure Form là một ngôn ngữ âm nhạc được lấy cảm hứng từ nhiều ngôn ngữ lập trình, phù hợp cho tổng hợp và xử lý âm thanh.</li>
-<li>Thông qua tối ưu hóa, thông lượng của Linux pipe đã tăng lên 20 lần, tiết lộ việc triển khai bên trong và các phương pháp tối ưu hóa hiệu suất.</li>
-</ol>
-<hr>
-<h2 id="bom-mỹ-vào-các-cơ-sở-hạt-nhân-của-iran">
-  Bom Mỹ vào các cơ sở hạt nhân của Iran
-  <a class="anchor" href="#bom-m%e1%bb%b9-v%c3%a0o-c%c3%a1c-c%c6%a1-s%e1%bb%9f-h%e1%ba%a1t-nh%c3%a2n-c%e1%bb%a7a-iran">#</a>
-</h2>
-<blockquote>
-<p>U.S. bombs Iranian nuclear sites</p>]]></description></item></channel></rss>
+<p>I wrote my PhD Thesis in Typst</p>]]></description></item></channel></rss>
