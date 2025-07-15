@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-14 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250714-hacker-news-top-stories/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250714-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-14-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-15 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250715-hacker-news-top-stories/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250715-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-15-top-stories">
+  2025-07-15 Top Stories
+  <a class="anchor" href="#2025-07-15-top-stories">#</a>
+</h1>
+<ol>
+<li>Kiro là một IDE (môi trường phát triển tích hợp) AI mới, giúp các nhà phát triển chuyển đổi từ giai đoạn tạo mẫu sang sản xuất thông qua phương pháp phát triển dựa trên đặc tả và cung cấp chức năng kiểm tra lỗi tự động.</li>
+<li>Cảnh sát San Francisco và Oakland bị cáo buộc cung cấp trái phép dữ liệu biển số xe cho các cơ quan liên bang, vi phạm luật pháp California, gây ra tranh cãi về quyền riêng tư và giám sát.</li>
+<li>Apple vẫn hạn chế các công cụ trình duyệt của bên thứ ba theo Đạo luật Thị trường Kỹ thuật số, cản trở cạnh tranh và bảo vệ thị phần của Safari.</li>
+<li>OpenCut là một giải pháp thay thế CapCut mã nguồn mở, chú trọng bảo vệ quyền riêng tư, các tính năng miễn phí, áp dụng cho nhiều nền tảng và cung cấp hướng dẫn phát triển chi tiết.</li>
+<li>Các loại thuốc GLP-1 tác động đến ngành bảo hiểm nhân thọ thông qua việc cải thiện các chỉ số sức khỏe, các công ty bảo hiểm đang điều chỉnh chiến lược bảo lãnh để đối phó với các rủi ro tiềm ẩn.</li>
+<li>Bài viết này là hướng dẫn nhập môn học ngôn ngữ hợp ngữ x86-64, giới thiệu các kiến thức cơ bản như lựa chọn công cụ, thanh ghi, địa chỉ bộ nhớ và tập lệnh.</li>
+<li>Các nhà môi giới dữ liệu thu thập thông tin chuyến bay của hành khách thông qua các công ty báo cáo hàng không và bán cho CBP và ICE, gây ra lo ngại về quyền riêng tư và pháp lý.</li>
+<li>Refine là một trợ lý viết lách cục bộ, được thiết kế riêng cho Mac, sử dụng mô hình AI cục bộ để đảm bảo quyền riêng tư, hỗ trợ tích hợp nhiều ứng dụng, mua một lần không cần đăng ký.</li>
+<li>Django đang kỷ niệm 20 năm thành lập, là một framework trưởng thành, nó đã hỗ trợ sự nghiệp của vô số nhà phát triển và có kế hoạch tiếp tục mở rộng hệ sinh thái của mình.</li>
+<li>Bài viết này chia sẻ kinh nghiệm xây dựng phần mềm nhanh chóng, nhấn mạnh tầm quan trọng của việc bắt đầu từ bản nháp, giảm bớt chức năng và tránh trừu tượng hóa quá mức để đạt được hiệu quả phát triển cao.</li>
+</ol>
+<hr>
+<h2 id="kiro-một-ide-đại-diện-mới">
+  Kiro: Một IDE đại diện mới
+  <a class="anchor" href="#kiro-m%e1%bb%99t-ide-%c4%91%e1%ba%a1i-di%e1%bb%87n-m%e1%bb%9bi">#</a>
+</h2>
+<blockquote>
+<p>Kiro: A new agentic IDE</p>]]></description></item><item><title>2025-07-14 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250714-hacker-news-top-stories/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250714-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-14-top-stories">
   2025-07-14 Top Stories
   <a class="anchor" href="#2025-07-14-top-stories">#</a>
 </h1>
@@ -417,26 +439,4 @@
   <a class="anchor" href="#vi%e1%ba%bft-ph%e1%ba%a7n-m%e1%bb%81m-%c4%91%e1%bb%93-ch%c6%a1i-l%c3%a0-m%e1%bb%99t-ni%e1%bb%81m-vui">#</a>
 </h2>
 <blockquote>
-<p>Writing toy software is a joy</p>]]></description></item><item><title>2025-06-24 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250624-hacker-news-top-stories/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250624-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="top-câu-chuyện-trên-hackernews-ngày-24-06-2025">
-  Top Câu Chuyện trên HackerNews ngày 24-06-2025
-  <a class="anchor" href="#top-c%c3%a2u-chuy%e1%bb%87n-tr%c3%aan-hackernews-ng%c3%a0y-24-06-2025">#</a>
-</h1>
-<ol>
-<li>Tác giả chia sẻ kinh nghiệm sử dụng Typst thay vì LaTeX để viết luận án tiến sĩ, cho rằng Typst ưu việt hơn về tốc độ biên dịch và thiết kế ngôn ngữ.</li>
-<li>uv là một trình quản lý dự án và gói Python hiệu năng cao, được thiết kế để thay thế pip và poetry, hỗ trợ cài đặt đa nền tảng và lưu trữ hiệu quả.</li>
-<li>Vụ việc chiếm đoạt thương hiệu trên Amazon cho thấy lỗ hổng trong cơ chế đăng ký thương hiệu của nền tảng, dẫn đến thiệt hại cho người bán trung thực và quyền lợi của người tiêu dùng.</li>
-<li>Một quán cà phê ở Kyoto bán cà phê vào ban ngày và biến thành quán bar vào ban đêm, thể hiện sức hấp dẫn độc đáo của mô hình kinh doanh chi phí thấp ở Nhật Bản.</li>
-<li>Tác giả tạo hệ thống hạn chế sử dụng mạng xã hội thông qua Home Assistant và ổ cắm thông minh, nhằm giảm sự phân tâm và nâng cao khả năng tập trung.</li>
-<li>Một nhà phát triển chia sẻ quy trình làm việc hiệu quả của mình với terminal, bao gồm cấu hình và cách sử dụng các công cụ như tmux, zsh, v.v.</li>
-<li>Trò chơi kinh điển &ldquo;Lego Island&rdquo; đã được chuyển sang trình duyệt web, giữ lại lối chơi và phong cách của bản gốc, hỗ trợ đa ngôn ngữ và cài đặt đồ họa.</li>
-<li>Đài quan sát Vera C. Rubin công bố những hình ảnh đầu tiên, hiển thị dữ liệu phong phú về các thiên hà và ngôi sao, cung cấp tài liệu quan trọng cho nghiên cứu vũ trụ.</li>
-<li>Radio Garden là một nền tảng radio trực tuyến, cho phép người dùng khám phá các chương trình phát sóng trực tiếp trên toàn cầu, Shonan Beach FM là đài phát nhạc jazz Nhật Bản được yêu thích trên nền tảng này.</li>
-<li>Hạ viện Hoa Kỳ cấm nhân viên sử dụng WhatsApp trên các thiết bị của chính phủ, khuyến nghị thay thế bằng các ứng dụng thay thế an toàn hơn như Microsoft Teams.</li>
-</ol>
-<hr>
-<h2 id="tôi-đã-viết-luận-án-tiến-sĩ-của-mình-bằng-typst">
-  Tôi đã viết Luận án Tiến sĩ của mình bằng Typst
-  <a class="anchor" href="#t%c3%b4i-%c4%91%c3%a3-vi%e1%ba%bft-lu%e1%ba%adn-%c3%a1n-ti%e1%ba%bfn-s%c4%a9-c%e1%bb%a7a-m%c3%acnh-b%e1%ba%b1ng-typst">#</a>
-</h2>
-<blockquote>
-<p>I wrote my PhD Thesis in Typst</p>]]></description></item></channel></rss>
+<p>Writing toy software is a joy</p>]]></description></item></channel></rss>
