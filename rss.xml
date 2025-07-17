@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-16 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250716-hacker-news-top-stories/</link><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250716-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-16-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-17 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250717-hacker-news-top-stories/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250717-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-17-top-stories">
+  2025-07-17 Top Stories
+  <a class="anchor" href="#2025-07-17-top-stories">#</a>
+</h1>
+<ol>
+<li>Lần đầu tiên thị phần Linux trên thị trường máy tính để bàn Hoa Kỳ vượt quá 5%, chủ yếu nhờ các vấn đề của Windows, sự phổ biến của Steam Deck và những cải tiến của Linux.</li>
+<li>Hacker Ukraine hợp tác với tình báo quân sự, đã phá hủy thành công cơ sở hạ tầng IT của nhà sản xuất máy bay không người lái Nga Gaskar Integration, dẫn đến gián đoạn sản xuất và hoạt động.</li>
+<li>Trình phân giải DNS công cộng 1.1.1.1 của Cloudflare bị gián đoạn toàn cầu do lỗi cấu hình, ảnh hưởng kéo dài 62 phút, không phải do tấn công hoặc BGP hijacking.</li>
+<li>Bằng cách thực hiện các chứng minh logic quy mô nhỏ trong tâm trí, có thể giúp lập trình viên viết mã hiệu quả và chính xác hơn, giảm thời gian gỡ lỗi.</li>
+<li>Phiên bản Firefox 141 của Mozilla hỗ trợ WebGPU trên Windows, cải thiện hiệu suất xử lý đồ họa của các ứng dụng web, dự kiến sẽ mở rộng sang các nền tảng khác.</li>
+<li>Phiên bản Helix Editor 25.07 được phát hành, bổ sung trình duyệt tệp, màu tài liệu LSP và các tính năng mới của chế độ lệnh, với sự tham gia phát triển của 195 người đóng góp.</li>
+<li>Mozilla khởi động chiến dịch thu thập ý kiến người dùng, mời người dùng tham gia thảo luận về định hướng phát triển tương lai của Firefox và tổ chức sự kiện AMA cộng đồng.</li>
+<li>Tác giả chia sẻ kinh nghiệm chuyển sang sử dụng Python, cho rằng cú pháp của nó đơn giản và hệ sinh thái hoàn thiện, phù hợp để xây dựng các ứng dụng AI.</li>
+<li>Tilck là một kernel nhỏ tương thích với Linux, hỗ trợ kiến trúc i686 và RISCV64, phù hợp cho mục đích thử nghiệm và giáo dục ở chế độ kernel.</li>
+<li>Nghiên cứu GPUHammer cho thấy tấn công Rowhammer vào bộ nhớ GPU là khả thi trên thực tế, có thể sửa đổi dữ liệu của người dùng khác trong môi trường chia sẻ.</li>
+</ol>
+<hr>
+<h2 id="linux-đạt-5-thị-phần-máy-tính-để-bàn-tại-hoa-kỳ">
+  Linux Đạt 5% Thị Phần Máy Tính Để Bàn tại Hoa Kỳ
+  <a class="anchor" href="#linux-%c4%91%e1%ba%a1t-5-th%e1%bb%8b-ph%e1%ba%a7n-m%c3%a1y-t%c3%adnh-%c4%91%e1%bb%83-b%c3%a0n-t%e1%ba%a1i-hoa-k%e1%bb%b3">#</a>
+</h2>
+<blockquote>
+<p>Linux Reaches 5% Desktop Market Share in USA</p>]]></description></item><item><title>2025-07-16 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250716-hacker-news-top-stories/</link><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250716-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-16-top-stories">
   2025-07-16 Top Stories
   <a class="anchor" href="#2025-07-16-top-stories">#</a>
 </h1>
@@ -417,26 +439,4 @@
   <a class="anchor" href="#m%e1%bb%99t-h%c3%acnh-d%e1%ba%a1ng-m%e1%bb%9bi-gi%e1%bb%91ng-kim-t%e1%bb%b1-th%c3%a1p-lu%c3%b4n-%c4%91%c3%a1p-xu%e1%bb%91ng-c%c3%b9ng-m%e1%bb%99t-m%e1%ba%b7t">#</a>
 </h2>
 <blockquote>
-<p>A new pyramid-like shape always lands the same side up</p>]]></description></item><item><title>2025-06-26 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250626-hacker-news-top-stories/</link><pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250626-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-06-26-top-stories">
-  2025-06-26 Top Stories
-  <a class="anchor" href="#2025-06-26-top-stories">#</a>
-</h1>
-<ol>
-<li>Gemini CLI: Google ra mắt công cụ AI agent mã nguồn mở miễn phí, hỗ trợ nhiều tác vụ xử lý, cộng đồng có thể tham gia đóng góp, nâng cao hiệu quả phát triển.</li>
-<li>uv và PEP 723: Đơn giản hóa việc chạy và quản lý các script Python thông qua công cụ uv và metadata PEP 723, hỗ trợ môi trường ảo một lần và tương tác script.</li>
-<li>Phục hưng định dạng PNG: PNG phát hành đặc tả mới, hỗ trợ HDR, ảnh động, dữ liệu Exif, v.v., tương lai sẽ nghiên cứu các kỹ thuật nén và song song hiệu quả hơn.</li>
-<li>Sự kiện từ chối nhập cảnh: Một du khách người Na Uy bị biên giới Hoa Kỳ từ chối vì meme &ldquo;JD Vance hói đầu&rdquo;, gây ra sự chú ý về tự do ngôn luận và chính sách biên giới.</li>
-<li>Sáng tạo tiền dày: Theodore Nichols sáng tạo &ldquo;Thick Nickel&rdquo;, tăng cường cảm giác an toàn bằng cách làm dày đồng xu và kêu gọi ủng hộ sự nghiệp đúc tiền của mình.</li>
-<li>Microsoft Edit: Microsoft ra mắt trình soạn thảo văn bản hiện đại, tri ân trình soạn thảo MS-DOS cổ điển, cung cấp giao diện đơn giản và khả năng kiểm soát nhập liệu hiệu quả.</li>
-<li>Tối ưu hóa chi phí OpenAI: Giảm chi phí phiên âm OpenAI bằng cách tăng tốc các tệp âm thanh, tiết kiệm thời gian và chi phí.</li>
-<li>Hạn chế của Cục Lưu trữ Quốc gia: Chi nhánh College Park của Cục Lưu trữ Quốc gia Hoa Kỳ sẽ trở thành cơ sở hạn chế, cần đặt lịch hẹn để truy cập nhằm nâng cao hiệu quả.</li>
-<li>Công nghệ thu phóng trong X11: Máy chủ hiển thị X11 hỗ trợ thu phóng DPI hiệu quả và thu phóng phân số, tốt hơn Wayland, tránh mất hiệu năng và mờ.</li>
-<li>Linux đọc hộ chiếu NFC: Sử dụng công cụ pypassport để đọc dữ liệu chip NFC hộ chiếu trong Linux, liên quan đến việc xây dựng lại MRZ và thảo luận về bảo mật.</li>
-</ol>
-<hr>
-<h2 id="gemini-cli">
-  Gemini CLI
-  <a class="anchor" href="#gemini-cli">#</a>
-</h2>
-<blockquote>
-<p>Gemini CLI</p>]]></description></item></channel></rss>
+<p>A new pyramid-like shape always lands the same side up</p>]]></description></item></channel></rss>
