@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-31 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250731-hacker-news-top-stories/</link><pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250731-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-31-top-stories">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The4thBit</title><link>http://thefourthbit.xyz/</link><description>The4thBit</description><generator>The4thBit -- thefourthbit.xyz</generator><language>vi-VN</language><managingEditor>The4thBit</managingEditor><webMaster>The4thBit</webMaster><lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://thefourthbit.xyz/rss.xml" rel="self" type="application/rss+xml"/><item><title>2025-08-04 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250804-hacker-news-top-stories/</link><pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250804-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-08-04-top-stories">
+  2025-08-04 Top Stories
+  <a class="anchor" href="#2025-08-04-top-stories">#</a>
+</h1>
+<ol>
+<li>Steph Ango đề xuất các nhóm làm việc từ xa tạo kênh &ldquo;ramblings&rdquo; để các thành viên chia sẻ ý tưởng, tránh gây hỗn loạn, tương tự như nhật ký cá nhân hoặc blog nhỏ, giúp duy trì kết nối và khơi gợi sự sáng tạo.</li>
+<li>Lina Khan chỉ ra rằng việc IPO thành công của Figma chứng minh tính chính đáng của việc kiểm tra sáp nhập và mua lại đối với các công ty công nghệ lớn, nhấn mạnh rằng việc cho phép các công ty khởi nghiệp phát triển độc lập có thể tạo ra giá trị lớn hơn.</li>
+<li>Số lượng và chất lượng các tác phẩm tham gia Cuộc thi Mã C mờ Quốc tế lần thứ 28 đạt mức cao kỷ lục, thể hiện sự phức tạp và sáng tạo của các chương trình, bao gồm công cụ suy luận mô hình ngôn ngữ và kết xuất hình ảnh, v.v.</li>
+<li>Anthropic đề xuất phương pháp &ldquo;vector nhân cách&rdquo; để giám sát và kiểm soát các đặc điểm tính cách trong mô hình ngôn ngữ AI, giúp xác định và giảm thiểu những thay đổi tính cách không mong muốn.</li>
+<li>Báo cáo của Liên Hợp Quốc chỉ ra rằng số lượng người đọc báo cáo của họ không cao, Tổng thư ký Guterres đề nghị giảm số lượng cuộc họp và báo cáo để nâng cao hiệu quả và tính hấp dẫn.</li>
+<li>Đề xuất HTML-in-Canvas đưa ra API mới, giải quyết những thiếu sót của Canvas về khả năng truy cập, quốc tế hóa, hiệu suất và chất lượng, hỗ trợ kết xuất nội dung HTML vào Canvas và WebGL.</li>
+<li>Ngành công nghiệp đăng ký trí tuệ nhân tạo phải đối mặt với những thách thức về chi phí, định giá và nhu cầu thị trường, bài viết phân tích tính khả thi của các giải pháp như định giá dựa trên mức sử dụng và tích hợp theo chiều dọc.</li>
+<li>Tài khoản và dữ liệu của một người dùng AWS mười năm bị xóa mà không có cảnh báo trước, tiết lộ những sai sót nội bộ và các vấn đề hỗ trợ khách hàng của nhà cung cấp dịch vụ đám mây, làm dấy lên lo ngại về sự tin tưởng vào dịch vụ đám mây.</li>
+<li>Khóa học &ldquo;Cách tạo ra hầu hết mọi thứ&rdquo; của MIT bao gồm nhiều lĩnh vực sản xuất, từ thiết kế CAD đến in 3D, với mục tiêu ứng dụng công nghệ vào lĩnh vực không gian.</li>
+<li>Bài viết khám phá khả năng triển khai môi trường ứng dụng Macintosh trên kiến trúc PA-RISC, phân tích những ưu điểm của bộ xử lý PA-RISC và sự tiếc nuối lịch sử khi nó bị thay thế bởi Itanium.</li>
+</ol>
+<hr>
+<h2 id="nếu-bạn-làm-việc-từ-xa-hãy-lan-man">
+  Nếu bạn làm việc từ xa, hãy lan man
+  <a class="anchor" href="#n%e1%ba%bfu-b%e1%ba%a1n-l%c3%a0m-vi%e1%bb%87c-t%e1%bb%ab-xa-h%c3%a3y-lan-man">#</a>
+</h2>
+<blockquote>
+<p>If you’re remote, ramble</p>]]></description></item><item><title>2025-08-03 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250803-hacker-news-top-stories/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250803-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-08-03-top-stories">
+  2025-08-03 Top Stories
+  <a class="anchor" href="#2025-08-03-top-stories">#</a>
+</h1>
+<ol>
+<li>Công ty Cerebras đã ra mắt hai gói đăng ký, cung cấp quyền truy cập vào mô hình mã hóa hiệu quả Qwen-3-Coder của mình, phù hợp cho việc tạo mã và các tác vụ mã hóa phức tạp.</li>
+<li>Dự án Ladybird đã hợp nhất 319 pull request từ 47 người đóng góp trong tháng 7, bổ sung các thử nghiệm và tính năng, cho thấy sự tiến bộ đáng kể của một nhóm nhỏ trong việc phát triển công cụ trình duyệt.</li>
+<li>TELO MT1 là một chiếc xe bán tải điện hiệu quả, được thiết kế đặc biệt cho cuộc sống thành thị và những chuyến phiêu lưu cuối tuần, cung cấp phạm vi hoạt động 350 dặm và chức năng sạc nhanh.</li>
+<li>Khi AI đồng hành có thể giải quyết vấn đề cô đơn, bài viết khám phá những lợi ích và tác hại tiềm ẩn của nó, bao gồm cả tác động đến các mối quan hệ giữa người với người trong thực tế.</li>
+<li>Anthropic đã thu hồi quyền truy cập vào Claude API của OpenAI do vi phạm điều khoản dịch vụ, gây ra cuộc thảo luận về &ldquo;quyền truy cập đặc biệt dành cho nhà phát triển&rdquo;.</li>
+<li>Coffeematic PC là một chiếc máy tính chơi game cổ điển, được chuyển đổi từ một máy pha cà phê cũ, kết hợp chức năng pha cà phê và máy tính, chạy hệ điều hành Linux Mint.</li>
+<li>Terence Tao chỉ trích chính phủ liên bang Hoa Kỳ thu hồi tài trợ cho UCLA mà không có thủ tục thích hợp, cho rằng điều này sẽ ảnh hưởng nghiêm trọng đến sự phát triển của viện toán học.</li>
+<li>Google đã cập nhật chính sách liên kết goo.gl, giữ lại các liên kết hoạt động, ngừng sử dụng các liên kết không hoạt động và điều chỉnh kế hoạch ngừng hoạt động ban đầu vào ngày 25 tháng 8 năm 2025.</li>
+<li>Tập thể dục được gọi là &ldquo;thuốc kỳ diệu&rdquo;, có thể cải thiện chức năng của nhiều cơ quan, ngăn ngừa bệnh tật và cứu sống sau khi mắc bệnh, cho thấy những lợi ích sức khỏe to lớn của nó.</li>
+<li>Một câu lạc bộ đọc sách sẽ bắt đầu thảo luận về phiên bản thứ hai của &ldquo;Nghệ thuật lập trình đa xử lý&rdquo; từ ngày 16 tháng 8 năm 2025, thu hút một lượng lớn người tham gia, thảo luận về các chủ đề lập trình đồng thời và song song.</li>
+</ol>
+<hr>
+<h2 id="mã-cerebras">
+  Mã Cerebras
+  <a class="anchor" href="#m%c3%a3-cerebras">#</a>
+</h2>
+<blockquote>
+<p>Cerebras Code</p>]]></description></item><item><title>2025-08-02 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250802-hacker-news-top-stories/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250802-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-08-02-top-stories">
+  2025-08-02 Top Stories
+  <a class="anchor" href="#2025-08-02-top-stories">#</a>
+</h1>
+<ol>
+<li>Bài viết liệt kê một số dự án vĩ đại được thực hiện trong thời gian dài trong lịch sử nhân loại, thể hiện khả năng của con người trong việc lập kế hoạch dài hạn và nỗ lực liên tục.</li>
+<li>Đài phát thanh công cộng Hoa Kỳ tuyên bố ngừng hoạt động do việc rút vốn liên bang, có thể dẫn đến việc các phương tiện truyền thông công cộng ở khu vực nông thôn phải đóng cửa.</li>
+<li>Bài viết bác bỏ những lời chỉ trích chống độc quyền nhà ở, cho rằng nguyên nhân chính của vấn đề nhà ở là do các rào cản pháp lý chứ không phải do độc quyền của các nhà xây dựng.</li>
+<li>Phỏng vấn code trực tiếp phản ánh hiệu suất của ứng viên dưới áp lực hơn là kỹ năng code thực sự.</li>
+<li>Google đã ra mắt tính năng Gemini 2.5 Deep Think, được thiết kế để nâng cao khả năng giải quyết vấn đề thông qua tư duy song song và kéo dài thời gian suy luận.</li>
+<li>AI là một công cụ để nâng cao giới hạn dưới của việc học tập và làm việc, nhưng hiệu quả còn hạn chế đối với các nhiệm vụ phức tạp, cao cấp.</li>
+<li>Giá thuê ở thành phố Denver đã trở lại mức năm 2022, sự gia tăng của các đơn vị nhà ở mới đã khiến các chủ nhà giảm giá thuê để thu hút người thuê.</li>
+<li>Bài viết kể về những hậu quả sâu rộng mà tác giả phải gánh chịu do ảnh hưởng của văn hóa tẩy chay, kêu gọi thận trọng khi công khai lên án người khác.</li>
+<li>Chính sách &ldquo;Không thuế tiền boa&rdquo; bị vạch trần là thành quả vận động hành lang của ngành nhà hàng, trên thực tế có lợi hơn cho những người phục vụ có thu nhập cao.</li>
+<li>Các vệ tinh trên quỹ đạo Trái Đất chủ yếu thuộc sở hữu của chính phủ và các công ty tư nhân, chương trình Starlink của SpaceX là chủ sở hữu lớn nhất.</li>
+</ol>
+<hr>
+<h2 id="chậm">
+  Chậm
+  <a class="anchor" href="#ch%e1%ba%adm">#</a>
+</h2>
+<blockquote>
+<p>Slow</p>]]></description></item><item><title>2025-08-01 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250801-hacker-news-top-stories/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250801-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-08-01-top-stories">
+  2025-08-01 Top Stories
+  <a class="anchor" href="#2025-08-01-top-stories">#</a>
+</h1>
+<ol>
+<li>Phần mềm nhanh chóng cải thiện đáng kể hiệu quả thông qua tối ưu hóa tốc độ và trải nghiệm người dùng, nhưng việc phát triển nó đòi hỏi tối ưu hóa backend phức tạp và tập trung vào các chức năng cốt lõi.</li>
+<li>&ldquo;Lập trình theo cảm hứng&rdquo; là một phương pháp lập trình tạo ra code nhanh chóng nhưng thiếu khả năng bảo trì, phù hợp cho phát triển nguyên mẫu nhưng có thể nhanh chóng trở thành code kế thừa.</li>
+<li>Ollama đã phát hành ứng dụng mới cho phiên bản macOS và Windows, hỗ trợ kéo và thả tệp và mô hình hình ảnh, đồng thời cung cấp phiên bản CLI để tải xuống trên GitHub.</li>
+<li>Logo mở đầu năm 1936 của Universal Pictures được tạo ra thông qua mô hình vật lý và phong cách trang trí nghệ thuật, mất khoảng nửa năm, sử dụng vật liệu có độ phản xạ cao và hiệu ứng lân quang.</li>
+<li>Ngôn ngữ lập trình Lean thông qua mã hóa toán học hình thức, cho thấy cách chứng minh định lý toán học trong code, nhưng cũng tiết lộ sự không chắc chắn trong toán học.</li>
+<li>Có thể nhận ra code được tạo bởi các mô hình ngôn ngữ lớn thông qua phong cách code, loại code này thường không tuân thủ các quy tắc của nhóm và cần chú ý đến chất lượng và khả năng bảo trì.</li>
+<li>Figma sẽ IPO vào ngày 31 tháng 7 năm 2025 trên Sở giao dịch chứng khoán New York với mã chứng khoán &ldquo;FIG&rdquo;, phát hành tổng cộng 36.937.080 cổ phiếu, với giá 33 đô la Mỹ mỗi cổ phiếu.</li>
+<li>Servo là một dự án mã nguồn mở về engine trình duyệt hiệu suất cao và an toàn, nhằm mục đích thay thế Electron và Android WebView, hiện đã hỗ trợ phiên bản snapshot hàng đêm đa nền tảng.</li>
+<li>Nhiều quốc gia phản đối ChatControl vào năm 2024 hiện đang do dự, kêu gọi hành động trước cuộc bỏ phiếu vào tháng 10 để phản đối kế hoạch năm 2025 cực đoan hơn.</li>
+<li>Mẫu MacBook Pro Silicon M1 Max gặp sự cố hao pin nhanh vào ban đêm, có thể liên quan đến việc tắt tùy chọn &ldquo;Wake for maintenance&rdquo;, công cụ Sleep Aid có thể giải quyết vấn đề.</li>
+</ol>
+<hr>
+<h2 id="nhanh">
+  Nhanh
+  <a class="anchor" href="#nhanh">#</a>
+</h2>
+<blockquote>
+<p>Fast</p>]]></description></item><item><title>2025-07-31 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250731-hacker-news-top-stories/</link><pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250731-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-31-top-stories">
   2025-07-31 Top Stories
   <a class="anchor" href="#2025-07-31-top-stories">#</a>
 </h1>
@@ -322,92 +410,4 @@
   <a class="anchor" href="#grok-t%c3%acm-ki%e1%ba%bfm-tr%c3%aan-x-v%e1%bb%9bi-truy-v%e1%ba%a5n-fromelonmusk-israel-or-palestine-or-hamas-or-gaza">#</a>
 </h2>
 <blockquote>
-<p>Grok: Searching X for “From:Elonmusk (Israel or Palestine or Hamas or Gaza)”</p>]]></description></item><item><title>2025-07-11 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250711-hacker-news-top-stories/</link><pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250711-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-11-top-stories">
-  2025-07-11 Top Stories
-  <a class="anchor" href="#2025-07-11-top-stories">#</a>
-</h1>
-<ol>
-<li>Nghiên cứu phát hiện công cụ AI lại dẫn đến việc giảm năng suất của các nhà phát triển mã nguồn mở giàu kinh nghiệm.</li>
-<li>Grok 4 được phát hành với tư cách là mô hình AI mạnh nhất toàn cầu, gây ra các cuộc thảo luận rộng rãi về giá cả và chức năng của nó.</li>
-<li>Tòa án Đức phán quyết công nghệ theo dõi của Meta vi phạm các quy định về quyền riêng tư của Châu Âu, yêu cầu bồi thường và có thể ảnh hưởng đến các vụ kiện tập thể trong tương lai.</li>
-<li>Dự án mã nguồn mở FlopperZiro cung cấp một thiết bị nhân bản Flipper Zero chi phí thấp, để DIY và học tập.</li>
-<li>Giao thức MCP-B cho phép AI tương tác trực tiếp với các chức năng của trình duyệt, thông qua API để đạt được tự động hóa hiệu quả.</li>
-<li>Hoạt động giao tiếp xã hội của giới trẻ Mỹ giảm, đặc biệt là thời gian dự tiệc, phản ánh những thay đổi trong cơ cấu xã hội và kinh tế.</li>
-<li>Gemini 2.5 thể hiện xuất sắc trong nhiệm vụ phát hiện hộp giới hạn, nhưng vẫn cần tối ưu hóa để nâng cao độ chính xác.</li>
-<li>Nghiên cứu loại hình học về tiếng Anh Canada tiết lộ từ vựng và cách sử dụng độc đáo của nó, được phân loại thành sáu loại.</li>
-<li>Thư viện công cộng ở Virginia đã chống lại thành công việc tiếp quản vốn cổ phần tư nhân, làm dấy lên cuộc thảo luận về sự cân bằng giữa dịch vụ công và lợi nhuận.</li>
-<li>Dự án máy chủ MCP đơn giản hóa quá trình tìm kiếm và tải xuống tài liệu từ Anna’s Archive, nâng cao trải nghiệm người dùng.</li>
-</ol>
-<hr>
-<h2 id="đo-lường-tác-động-của-ai-lên-năng-suất-của-các-nhà-phát-triển-mã-nguồn-mở-giàu-kinh-nghiệm">
-  Đo lường tác động của AI lên năng suất của các nhà phát triển mã nguồn mở giàu kinh nghiệm
-  <a class="anchor" href="#%c4%91o-l%c6%b0%e1%bb%9dng-t%c3%a1c-%c4%91%e1%bb%99ng-c%e1%bb%a7a-ai-l%c3%aan-n%c4%83ng-su%e1%ba%a5t-c%e1%bb%a7a-c%c3%a1c-nh%c3%a0-ph%c3%a1t-tri%e1%bb%83n-m%c3%a3-ngu%e1%bb%93n-m%e1%bb%9f-gi%c3%a0u-kinh-nghi%e1%bb%87m">#</a>
-</h2>
-<blockquote>
-<p>Measuring the impact of AI on experienced open-source developer productivity</p>]]></description></item><item><title>2025-07-10 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250710-hacker-news-top-stories/</link><pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250710-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-10-top-stories">
-  2025-07-10 Top Stories
-  <a class="anchor" href="#2025-07-10-top-stories">#</a>
-</h1>
-<ol>
-<li>Giao thức Model Context Protocol (MCP) của Supabase có thể dẫn đến rò rỉ cơ sở dữ liệu SQL.</li>
-<li>Tòa án Hoa Kỳ đã bác bỏ quy định &ldquo;nhấp để hủy&rdquo; của FTC, cho rằng quy trình xây dựng quy định có sai sót về thủ tục, quy định yêu cầu các công ty cung cấp phương thức hủy dịch vụ dễ dàng như đăng ký dịch vụ.</li>
-<li>Tree Borrows của Rust thay thế cấu trúc ngăn xếp bằng cấu trúc cây, giải quyết các hạn chế của Stacked Borrows, thể hiện hiệu suất vượt trội trong thử nghiệm với 30.000 gói và đã giành được giải thưởng bài báo xuất sắc PLDI'25.</li>
-<li>Lỗ hổng CVE-2025-48384 của Git thông qua việc chèn ký tự xuống dòng, kẻ tấn công có thể thực thi mã từ xa khi sao chép các submodule, người dùng cần cập nhật Git lên phiên bản đã sửa lỗi và thận trọng khi sử dụng tùy chọn –recursive.</li>
-<li>Ikea chuyển sang tiêu chuẩn Thread và Matter, ra mắt hơn 20 thiết bị nhà thông minh, thay thế các thiết bị Zigbee, hỗ trợ khả năng tương thích với các thiết bị của các thương hiệu khác, dự kiến phát hành vào tháng 1 năm 2025.</li>
-<li>Linda Yaccarino từ chức CEO của công ty X, sau hai năm tại vị, không nêu rõ lý do từ chức, công ty đã trải qua những thay đổi lớn sau khi bị Musk mua lại.</li>
-<li>Nhiều API được gọi là &ldquo;RESTful&rdquo; không tuân thủ đầy đủ các nguyên tắc REST, đặc biệt là về mặt siêu phương tiện (HATEOAS), luận văn của Fielding định nghĩa các ràng buộc cốt lõi của REST.</li>
-<li>Bulgaria sẽ chính thức gia nhập khu vực đồng euro vào ngày 1 tháng 1 năm 2026, tỷ giá hối đoái giữa Lev và Euro là 1,95583, đánh dấu một bước tiến quan trọng trong quá trình hội nhập kinh tế của nước này.</li>
-<li>Framework Astro lấy HTML tĩnh làm cốt lõi, chỉ tải JavaScript khi cần tương tác, sử dụng &ldquo;kiến trúc đảo&rdquo; để tối ưu hóa hiệu suất, phù hợp với các trang web hướng nội dung, nhưng không phù hợp với SPA phức tạp.</li>
-<li>RapidRAW là một trình chỉnh sửa ảnh RAW không phá hủy và được tăng tốc bằng GPU, được tạo bởi một nhà phát triển 18 tuổi, với mục tiêu trở thành một sự thay thế hiện đại cho Adobe Lightroom.</li>
-</ol>
-<hr>
-<h2 id="supabase-mcp-có-thể-làm-rò-rỉ-toàn-bộ-cơ-sở-dữ-liệu-sql-của-bạn">
-  Supabase MCP có thể làm rò rỉ toàn bộ cơ sở dữ liệu SQL của bạn
-  <a class="anchor" href="#supabase-mcp-c%c3%b3-th%e1%bb%83-l%c3%a0m-r%c3%b2-r%e1%bb%89-to%c3%a0n-b%e1%bb%99-c%c6%a1-s%e1%bb%9f-d%e1%bb%af-li%e1%bb%87u-sql-c%e1%bb%a7a-b%e1%ba%a1n">#</a>
-</h2>
-<blockquote>
-<p>Supabase MCP can leak your entire SQL database</p>]]></description></item><item><title>2025-07-09 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250709-hacker-news-top-stories/</link><pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250709-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-09-top-stories">
-  2025-07-09 Top Stories
-  <a class="anchor" href="#2025-07-09-top-stories">#</a>
-</h1>
-<ol>
-<li>Hơn 400 nhân viên truyền thông và nhân viên BBC đã cùng nhau ký tên cáo buộc thành viên hội đồng quản trị BBC Robbie Gibb có xung đột lợi ích, yêu cầu ông từ chức, cho rằng mối liên hệ của ông với tờ Jewish Chronicle có thể ảnh hưởng đến tính công bằng của các bản tin.</li>
-<li>Trợ lý ảo Gemini của Google sẽ có thể truy cập tin nhắn WhatsApp của người dùng, cho phép gửi tin nhắn và trả lời thông báo, nhưng người dùng có thể bảo vệ quyền riêng tư bằng cách tắt tiện ích mở rộng ứng dụng hoặc tắt Gemini.</li>
-<li>Nhà toán học Boaz Klartag đã đạt được tiến bộ mới trong vấn đề lấp đầy hình cầu, đưa ra phương pháp lấp đầy hình cầu hiệu quả trong không gian nhiều chiều, giải quyết vấn đề mở lớn trong lĩnh vực này.</li>
-<li>Một bài viết giới thiệu cách sử dụng định dạng SVG để tạo hiệu ứng động tương tự như GIF, với kích thước tệp nhỏ hơn và độ phân giải cao hơn, phù hợp để nhúng vào tệp README của GitHub.</li>
-<li>OffChess là một ứng dụng giải đố cờ vua ngoại tuyến, cung cấp hơn 100.000 câu đố, không có quảng cáo, không có phí đăng ký, hỗ trợ mua một lần để mở khóa thêm các tính năng.</li>
-<li>Bài viết chỉ ra rằng hiệu suất của trình duyệt Firefox không hề tệ đi, nhưng ban quản lý của Mozilla bị chỉ trích là thiếu định hướng, dẫn đến việc bỏ lỡ nhiều cơ hội, chẳng hạn như cắt giảm nhóm Rust và từ bỏ công cụ Servo.</li>
-<li>Cộng đồng Hugging Face ra mắt mô hình suy luận văn bản dài đa ngôn ngữ nhỏ SmolLM3, hiệu suất tốt hơn các mô hình tương tự, hỗ trợ 6 ngôn ngữ, có thể xử lý văn bản dài tới 128k, phù hợp để triển khai trên các thiết bị biên/di động.</li>
-<li>Bộ Tư pháp Hoa Kỳ đe dọa khởi kiện công dân Hoa Kỳ phát triển ứng dụng chống ICE, cho rằng ứng dụng này gây nguy hiểm cho sự an toàn của các quan chức ICE, nhưng nhà phát triển nói rằng mục đích của họ là cung cấp thông tin chứ không phải cản trở việc thực thi pháp luật.</li>
-<li>Một bài viết giới thiệu cơ sở hạ tầng xác minh mới được giới thiệu trong phiên bản Lean 4.22, được sử dụng để chứng minh các thuộc tính của chương trình mệnh lệnh, đồng thời trình bày một ví dụ về việc xác định xem có tồn tại hai số trong danh sách số nguyên có tổng bằng không hay không.</li>
-<li>Người sáng lập ProjectionLab, Kyle Nolan, chia sẻ cách phát triển một dự án phụ thành một doanh nghiệp có doanh thu hàng năm hơn 1 triệu đô la Mỹ, nhấn mạnh sự kiên trì và xác minh thị trường kịp thời là chìa khóa thành công.</li>
-</ol>
-<hr>
-<h2 id="thư-ngỏ-cáo-buộc-thành-viên-hội-đồng-quản-trị-bbc-có-xung-đột-lợi-ích-về-gaza">
-  Thư ngỏ cáo buộc thành viên hội đồng quản trị BBC có xung đột lợi ích về Gaza
-  <a class="anchor" href="#th%c6%b0-ng%e1%bb%8f-c%c3%a1o-bu%e1%bb%99c-th%c3%a0nh-vi%c3%aan-h%e1%bb%99i-%c4%91%e1%bb%93ng-qu%e1%ba%a3n-tr%e1%bb%8b-bbc-c%c3%b3-xung-%c4%91%e1%bb%99t-l%e1%bb%a3i-%c3%adch-v%e1%bb%81-gaza">#</a>
-</h2>
-<blockquote>
-<p>Open letter accuses BBC board member of having a conflict of interest on Gaza</p>]]></description></item><item><title>2025-07-08 Top Stories</title><link>http://thefourthbit.xyz/docs/hackernews/20250708-hacker-news-top-stories/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><author>The4thBit (thefogbit@gmail.com)</author><guid>http://thefourthbit.xyz/docs/hackernews/20250708-hacker-news-top-stories/</guid><description><![CDATA[<h1 id="2025-07-08-top-stories">
-  2025-07-08 Top Stories
-  <a class="anchor" href="#2025-07-08-top-stories">#</a>
-</h1>
-<ol>
-<li>Bitchat: Một ứng dụng nhắn tin Bluetooth an toàn, phi tập trung, sử dụng mạng lưới Bluetooth để giao tiếp ngang hàng, không cần Internet hoặc số điện thoại, hỗ trợ mã hóa đầu cuối và bảo vệ quyền riêng tư.</li>
-<li>Chức năng lỗi ChatGPT: Soundslice đã phát triển chức năng nhập tab guitar ASCII do thông tin sai lệch từ ChatGPT, phản ánh những tác động thực tế mà AI tạo sinh có thể gây ra.</li>
-<li>Bộ lọc an toàn mô hình của Apple: Giải mã bộ lọc an toàn của mô hình thông minh Apple, tiết lộ cơ chế kiểm duyệt nội dung và một số tổ hợp lọc thú vị.</li>
-<li>Cá tính và nhãn mác: Trong xã hội hiện đại, cá tính bị thay thế bằng các nhãn chẩn đoán tâm lý, dẫn đến việc mọi người trở thành &ldquo;sản phẩm y tế hóa&rdquo;.</li>
-<li>Apple Lisa Web OS: Một hệ điều hành web dựa trên giao diện người dùng Apple Lisa, được viết hoàn toàn bằng JavaScript thuần túy, tái hiện lại giao diện cổ điển.</li>
-<li>LLM phi nhân hóa: Thảo luận về góc nhìn phi nhân hóa của các mô hình ngôn ngữ lớn, nhấn mạnh rằng chúng là các công cụ toán học phức tạp chứ không phải là các thực thể nhân hóa.</li>
-<li>Tranh cãi về bản quyền của Anthropic: Anthropic bị kiện vì sử dụng trái phép quy mô lớn các cuốn sách có bản quyền để huấn luyện mô hình AI, thẩm phán phán quyết rằng việc sử dụng hợp lý sách có bản quyền là hợp pháp nhưng hành vi vi phạm bản quyền là không được chấp nhận.</li>
-<li>Mô hình khuếch tán Mercury: Mercury là một mô hình ngôn ngữ siêu nhanh dựa trên khuếch tán, hoạt động xuất sắc trong các tác vụ lập trình, với tốc độ vượt xa các mô hình tiên tiến.</li>
-<li>Quan điểm phát triển AGI: Tác giả cho rằng trí tuệ nhân tạo tổng quát (AGI) sẽ không sớm xuất hiện, chủ yếu là do nó thiếu khả năng học hỏi liên tục như con người.</li>
-<li>Tiếng Anh không có dấu trọng âm: Lý do tiếng Anh không sử dụng dấu trọng âm có thể bắt nguồn từ sự phát triển của ngôn ngữ sau cuộc chinh phục của người Norman, hình thành nên một hệ thống chính tả độc đáo.</li>
-</ol>
-<hr>
-<h2 id="bitchat--một-ứng-dụng-nhắn-tin-phi-tập-trung-hoạt-động-trên-mạng-lưới-mesh-bluetooth">
-  Bitchat – Một ứng dụng nhắn tin phi tập trung hoạt động trên mạng lưới mesh Bluetooth
-  <a class="anchor" href="#bitchat--m%e1%bb%99t-%e1%bb%a9ng-d%e1%bb%a5ng-nh%e1%ba%afn-tin-phi-t%e1%ba%adp-trung-ho%e1%ba%a1t-%c4%91%e1%bb%99ng-tr%c3%aan-m%e1%ba%a1ng-l%c6%b0%e1%bb%9bi-mesh-bluetooth">#</a>
-</h2>
-<blockquote>
-<p>Bitchat – A decentralized messaging app that works over Bluetooth mesh networks</p>]]></description></item></channel></rss>
+<p>Grok: Searching X for “From:Elonmusk (Israel or Palestine or Hamas or Gaza)”</p>]]></description></item></channel></rss>
